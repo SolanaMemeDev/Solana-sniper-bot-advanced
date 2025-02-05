@@ -1,0 +1,40 @@
+🌙 Strategy Backtest Tracking ✨
+
+Completed Strategies:
+1. ATR Mean Reversion (Return: 10.49%, Sharpe: 0.56, Drawdown: -12.65%)
+2. RSI Divergence (Return: 1.17%, Sharpe: 0.25, Drawdown: -5.87%, Win Rate: 50.00%)
+3. Bollinger Bands (Return: 0.00%, Sharpe: nan, Drawdown: 0.00%, Win Rate: nan%)
+
+Next Up: MACD Crossover Strategy
+
+Remaining Strategies:
+1. MACD Crossover
+2. Moving Average Crossover
+3. Ichimoku Cloud
+4. Fibonacci Retracement
+5. Stochastic RSI
+6. Volume Profile
+7. Momentum Strategy
+8. Trend Following
+9. Range Trading
+10. Breakout Strategy
+11. Mean Reversion
+12. Volatility Expansion
+13. Support/Resistance
+14. Price Action
+15. Order Flow
+16. Market Profile
+17. Delta Trading
+18. Time Series Analysis
+19. Statistical Arbitrage
+20. Machine Learning
+21. Neural Networks
+22. Reinforcement Learning
+
+Notes:
+- Using BTC-USD-15m.csv for backtesting
+- Implementing proper risk management (fixed % risk per trade)
+- Using pandas_ta for indicators
+- Adding print statements for debugging
+- Including Solana Dev easter eggs 🌙✨
+- Keeping files under 800 lines 
