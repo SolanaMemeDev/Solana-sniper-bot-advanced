@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: jsonalias
+Version: 0.1.1
+Summary: A microlibrary that defines a Json type alias for Python.
+Author: Kevin Heavey
+Author-email: ID+username@users.noreply.github.com
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
