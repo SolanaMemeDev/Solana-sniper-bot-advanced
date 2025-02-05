@@ -1,0 +1,540 @@
+timestamp,coin_id,name,symbol,source,price_usd,volume_24h,recommendation,coingecko_url
+2025-01-27T14:27:29.049815,cryptex-finance,Cryptex Finance,ctx,Top gainer,5.320206922037394,37302261.06788959,DO NOTHING,https://www.coingecko.com/en/coins/cryptex-finance
+2025-01-27T14:27:37.004343,alchemy-pay,Alchemy Pay,ach,Top gainer,0.0350030495967064,622581344.2836549,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-27T14:27:44.704345,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.09820681569908679,72271968.75750996,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-27T14:27:52.701426,swftcoin,SWFTCOIN,swftc,Top gainer,0.028337224592882716,345973082.6553383,DO NOTHING,https://www.coingecko.com/en/coins/swftcoin
+2025-01-27T14:28:00.722105,ultra,Ultra,uos,Top gainer,0.13339850878229922,4794270.638154924,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-27T14:28:08.170260,sperax,Sperax,spa,Top gainer,0.021795866764225,23671671.111155145,DO NOTHING,https://www.coingecko.com/en/coins/sperax
+2025-01-27T14:28:16.226454,murasaki,Murasaki,mura,Top gainer,1.7262896432694486,75350.93837467978,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-27T14:28:24.036472,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.13321704246388194,1301147.52940545,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-27T14:28:32.727727,aura-bal,Aura BAL,aurabal,Top gainer,8.842974063014365,310419.1487871044,DO NOTHING,https://www.coingecko.com/en/coins/aura-bal
+2025-01-27T14:28:40.994338,pixer-eternity,Pixer Eternity,pxt,Top gainer,0.016008108032649356,299593.8000072283,DO NOTHING,https://www.coingecko.com/en/coins/pixer-eternity
+2025-01-27T14:28:50.030104,netmind-token,NetMind Token,nmt,Top gainer,3.180139558040382,4201211.792071692,DO NOTHING,https://www.coingecko.com/en/coins/netmind-token
+2025-01-27T14:28:57.990519,iagon,Iagon,iag,Top gainer,0.3358748953567266,1876139.9315592807,DO NOTHING,https://www.coingecko.com/en/coins/iagon
+2025-01-27T14:29:05.090106,ket,Ket,ket,Top gainer,0.06034027872277715,4192565.4393410054,DO NOTHING,https://www.coingecko.com/en/coins/ket
+2025-01-27T14:29:26.464714,cryptex-finance,Cryptex Finance,ctx,Top gainer,5.320206922037394,37302261.06788959,0,DO NOTHING,https://www.coingecko.com/en/coins/cryptex-finance
+2025-01-27T14:29:34.356122,alchemy-pay,Alchemy Pay,ach,Top gainer,0.0350030495967064,622581344.2836549,0,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-27T14:29:42.200678,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.09820681569908679,72271968.75750996,0,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-27T14:29:50.094594,swftcoin,SWFTCOIN,swftc,Top gainer,0.028337224592882716,345973082.6553383,0,DO NOTHING,https://www.coingecko.com/en/coins/swftcoin
+2025-01-27T14:29:57.887700,ultra,Ultra,uos,Top gainer,0.13339850878229922,4794270.638154924,0,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-27T14:30:06.202921,sperax,Sperax,spa,Top gainer,0.021795866764225,23671671.111155145,0,DO NOTHING,https://www.coingecko.com/en/coins/sperax
+2025-01-27T14:30:15.090987,murasaki,Murasaki,mura,Top gainer,1.7262896432694486,75350.93837467978,0,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-27T14:30:23.509396,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.13321704246388194,1301147.52940545,0,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-27T14:30:31.608180,aura-bal,Aura BAL,aurabal,Top gainer,8.842974063014365,310419.1487871044,0,DO NOTHING,https://www.coingecko.com/en/coins/aura-bal
+2025-01-27T14:30:39.844463,pixer-eternity,Pixer Eternity,pxt,Top gainer,0.016008108032649356,299593.8000072283,0,DO NOTHING,https://www.coingecko.com/en/coins/pixer-eternity
+2025-01-27T14:31:00.086620,cryptex-finance,Cryptex Finance,ctx,Top gainer,5.470356483927877,38468706.312590405,0,DO NOTHING,https://www.coingecko.com/en/coins/cryptex-finance
+2025-01-27T14:31:08.738511,alchemy-pay,Alchemy Pay,ach,Top gainer,0.034890269234652174,622213973.2964486,0,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-27T14:31:17.468947,ultra,Ultra,uos,Top gainer,0.1344281776517172,4848254.908106715,0,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-27T14:31:25.047302,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.0978529619603881,71228798.46044004,0,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-27T14:31:33.073365,murasaki,Murasaki,mura,Top gainer,1.7201357470400496,75082.32652419829,0,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-27T14:31:40.484422,swftcoin,SWFTCOIN,swftc,Top gainer,0.028301349455360985,345682562.4490153,0,DO NOTHING,https://www.coingecko.com/en/coins/swftcoin
+2025-01-27T14:31:48.831119,sperax,Sperax,spa,Top gainer,0.021208736131240302,23418318.70072788,0,DO NOTHING,https://www.coingecko.com/en/coins/sperax
+2025-01-27T14:31:56.790361,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.12887434108470258,1345190.2616120887,0,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-27T14:32:18.105835,cryptex-finance,Cryptex Finance,ctx,Top gainer,5.470356483927877,38468706.312590405,122.44831245889627,DO NOTHING,https://www.coingecko.com/en/coins/cryptex-finance
+2025-01-27T14:32:26.772678,alchemy-pay,Alchemy Pay,ach,Top gainer,0.034890269234652174,622213973.2964486,66.50015633358963,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-27T14:32:34.709175,ultra,Ultra,uos,Top gainer,0.1344281776517172,4848254.908106715,44.611625531388945,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-27T14:32:42.681616,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.0978529619603881,71228798.46044004,43.75167999584052,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-27T14:32:50.026290,murasaki,Murasaki,mura,Top gainer,1.7201357470400496,75082.32652419829,42.241902739632934,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-27T14:32:58.253793,swftcoin,SWFTCOIN,swftc,Top gainer,0.028301349455360985,345682562.4490153,39.484541110101546,DO NOTHING,https://www.coingecko.com/en/coins/swftcoin
+2025-01-27T14:33:05.617554,sperax,Sperax,spa,Top gainer,0.021208736131240302,23418318.70072788,34.352782450470485,DO NOTHING,https://www.coingecko.com/en/coins/sperax
+2025-01-27T14:33:14.173174,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.12887434108470258,1345190.2616120887,20.2627183310366,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-27T14:33:21.808846,aura-bal,Aura BAL,aurabal,Top gainer,8.800062550910475,308912.8054499493,17.72731871803067,DO NOTHING,https://www.coingecko.com/en/coins/aura-bal
+2025-01-27T14:33:30.367121,pixer-eternity,Pixer Eternity,pxt,Top gainer,0.01595102723563211,298525.53964395,16.144387988135595,DO NOTHING,https://www.coingecko.com/en/coins/pixer-eternity
+2025-01-27T14:33:38.334677,netmind-token,NetMind Token,nmt,Top gainer,3.130813870434338,4204592.834901231,12.261939829455873,DO NOTHING,https://www.coingecko.com/en/coins/netmind-token
+2025-01-27T14:33:49.052991,shiba-inu-treat,Shiba Inu Treat,treat,Top gainer,0.01548065318951475,13942195.81430806,11.993459492029999,DO NOTHING,https://www.coingecko.com/en/coins/shiba-inu-treat
+2025-01-27T14:33:56.960817,ket,Ket,ket,Top gainer,0.06050072028802985,4210940.75307497,11.783418276792581,DO NOTHING,https://www.coingecko.com/en/coins/ket
+2025-01-27T14:34:04.106136,iagon,Iagon,iag,Top gainer,0.33245756801178755,1833739.119261418,11.25235150702232,DO NOTHING,https://www.coingecko.com/en/coins/iagon
+2025-01-27T14:34:13.256892,shapeshift-fox-token,ShapeShift FOX,fox,Top gainer,0.05319424596451192,1922571.1954058807,10.292740036294797,DO NOTHING,https://www.coingecko.com/en/coins/shapeshift-fox-token
+2025-01-27T14:34:21.765691,phoenix-global,Phoenix,phb,Top gainer,1.349288465169822,38239895.96054429,8.658930212031821,DO NOTHING,https://www.coingecko.com/en/coins/phoenix-global
+2025-01-27T14:34:29.417952,cortex,Cortex,ctxc,Top gainer,0.24884137401551817,4601178.552165005,8.130879552720923,DO NOTHING,https://www.coingecko.com/en/coins/cortex
+2025-01-27T14:34:37.630549,gems-vip,Gems VIP,gems,Top gainer,0.07430472230832666,7362595.112205677,7.357542820136216,DO NOTHING,https://www.coingecko.com/en/coins/gems-vip
+2025-01-27T14:34:44.596012,usdx,USDX,usdx,Top gainer,0.62596873062326,222960.89044566374,7.1215432677439665,DO NOTHING,https://www.coingecko.com/en/coins/usdx
+2025-01-27T14:34:52.192330,kinesis-gold,Kinesis Gold,kau,Top gainer,95.77809169064226,156449.66076241384,6.789460393596001,DO NOTHING,https://www.coingecko.com/en/coins/kinesis-gold
+2025-01-27T14:35:00.087055,anvil,Anvil,anvl,Top gainer,0.0049338215177153755,137991.77052389592,6.628611885830728,DO NOTHING,https://www.coingecko.com/en/coins/anvil
+2025-01-27T14:35:17.165201,cryptex-finance,Cryptex Finance,ctx,Top gainer,5.470356483927877,38468706.312590405,122.44831245889627,DO NOTHING,https://www.coingecko.com/en/coins/cryptex-finance
+2025-01-27T14:35:25.224705,alchemy-pay,Alchemy Pay,ach,Top gainer,0.034890269234652174,622213973.2964486,66.50015633358963,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-27T14:35:33.924786,ultra,Ultra,uos,Top gainer,0.1344281776517172,4848254.908106715,44.611625531388945,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-27T14:35:41.793461,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.0978529619603881,71228798.46044004,43.75167999584052,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-27T14:35:49.738232,murasaki,Murasaki,mura,Top gainer,1.7201357470400496,75082.32652419829,42.241902739632934,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-27T14:35:58.056389,swftcoin,SWFTCOIN,swftc,Top gainer,0.028301349455360985,345682562.4490153,39.484541110101546,DO NOTHING,https://www.coingecko.com/en/coins/swftcoin
+2025-01-27T14:37:22.310793,cryptex-finance,Cryptex Finance,ctx,Top gainer,5.933037243548957,42001082.90465724,141.21738189821457,DO NOTHING,https://www.coingecko.com/en/coins/cryptex-finance
+2025-01-27T14:37:30.424881,alchemy-pay,Alchemy Pay,ach,Top gainer,0.03549408044580298,631128654.2786574,69.72493496634019,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-27T14:37:38.338680,ultra,Ultra,uos,Top gainer,0.143342925183022,35983123.60450095,59.72082235482961,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-27T14:37:46.442486,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.09757674198360568,72195080.28388429,40.75482035164649,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-27T14:37:54.637334,murasaki,Murasaki,mura,Top gainer,1.7257062691382763,75261.56296041812,36.441458900523614,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-27T14:38:02.452293,sperax,Sperax,spa,Top gainer,0.02126310255599148,23751457.085650187,33.52191633257136,DO NOTHING,https://www.coingecko.com/en/coins/sperax
+2025-01-27T14:38:10.577618,swftcoin,SWFTCOIN,swftc,Top gainer,0.027947964154365377,342526425.6355163,31.96624884074873,DO NOTHING,https://www.coingecko.com/en/coins/swftcoin
+2025-01-27T14:38:19.035459,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.13077408907509722,1397295.6238534646,22.048824630736156,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-27T14:38:28.218635,aura-bal,Aura BAL,aurabal,Top gainer,8.822507934813101,309701.03092663415,18.110925549596185,DO NOTHING,https://www.coingecko.com/en/coins/aura-bal
+2025-01-27T14:38:36.244411,pixer-eternity,Pixer Eternity,pxt,Top gainer,0.01599168965064424,299286.5420048266,16.243275019682258,DO NOTHING,https://www.coingecko.com/en/coins/pixer-eternity
+2025-01-27T14:38:44.165509,shapeshift-fox-token,ShapeShift FOX,fox,Top gainer,0.05464706997642741,2061416.3166659332,13.216150212055789,DO NOTHING,https://www.coingecko.com/en/coins/shapeshift-fox-token
+2025-01-27T14:38:51.843069,ket,Ket,ket,Top gainer,0.06068689105200605,4223788.37610674,12.362377644777862,DO NOTHING,https://www.coingecko.com/en/coins/ket
+2025-01-27T14:39:00.464585,netmind-token,NetMind Token,nmt,Top gainer,3.112580728564404,4247208.28988276,11.435570056288892,DO NOTHING,https://www.coingecko.com/en/coins/netmind-token
+2025-01-27T14:39:08.468943,iagon,Iagon,iag,Top gainer,0.3331281988643265,1854987.3320497028,10.563968592094767,DO NOTHING,https://www.coingecko.com/en/coins/iagon
+2025-01-27T14:39:17.290312,elon4afd,Elon4AfD,elon4afd,Top gainer,0.0400824183909704,441963.8705798344,10.317089545542878,DO NOTHING,https://www.coingecko.com/en/coins/elon4afd
+2025-01-27T14:39:26.514846,shiba-inu-treat,Shiba Inu Treat,treat,Top gainer,0.015003037184853915,14001192.479635071,9.899238193155083,DO NOTHING,https://www.coingecko.com/en/coins/shiba-inu-treat
+2025-01-27T14:39:35.570589,freysa-ai,Freysa AI,fai,Top gainer,0.04801430290362884,7367021.696930904,7.413416052235392,DO NOTHING,https://www.coingecko.com/en/coins/freysa-ai
+2025-01-27T14:39:43.532209,phoenix-global,Phoenix,phb,Top gainer,1.3369776884434745,39095475.788979374,7.3656828830552215,DO NOTHING,https://www.coingecko.com/en/coins/phoenix-global
+2025-01-27T14:39:51.901704,kinesis-gold,Kinesis Gold,kau,Top gainer,96.1337613251269,157146.85015947616,7.235458001962888,DO NOTHING,https://www.coingecko.com/en/coins/kinesis-gold
+2025-01-27T14:39:59.792469,gems-vip,Gems VIP,gems,Top gainer,0.07462638026787066,7362307.240510158,6.972992068022013,DO NOTHING,https://www.coingecko.com/en/coins/gems-vip
+2025-01-27T14:40:08.529184,army-3,XRP ARMY,ARMY,Top gainer,0.07556526291561118,885420.624062268,6.669607064215927,DO NOTHING,https://www.coingecko.com/en/coins/army-3
+2025-01-27T14:40:17.264630,coco-coin,COCO COIN,coco,Top gainer,0.0016783074869740826,2155195.096581647,5.782117411922566,DO NOTHING,https://www.coingecko.com/en/coins/coco-coin
+2025-01-27T14:40:25.395160,conflux-token,Conflux,cfx,Top gainer,0.1605922354593491,219022162.54710647,5.5724335947003345,DO NOTHING,https://www.coingecko.com/en/coins/conflux-token
+2025-01-27T14:40:32.893699,steem-dollars,Steem Dollars,sbd,Top gainer,4.798729264247841,273129439.4499711,4.995880222732419,DO NOTHING,https://www.coingecko.com/en/coins/steem-dollars
+2025-01-27T14:40:41.064609,safemoon-2,SafeMoon,sfm,Top gainer,7.160419636396862e-05,96133.73709487221,4.382249886428671,DO NOTHING,https://www.coingecko.com/en/coins/safemoon-2
+2025-01-27T14:40:49.274735,purple-pepe,PURPLE PEPE,purpe,Top gainer,9.089078181128038e-05,1899352.8717467887,3.945971413750847,DO NOTHING,https://www.coingecko.com/en/coins/purple-pepe
+2025-01-27T14:40:58.173700,qanplatform,QANplatform,qanx,Top gainer,0.039912125155351814,604954.9309998837,3.8425736013040677,DO NOTHING,https://www.coingecko.com/en/coins/qanplatform
+2025-01-27T14:41:05.735558,vulcan-forged,Vulcan Forged,pyr,Top gainer,2.79146346499457,40317350.60372833,3.3944304079220977,DO NOTHING,https://www.coingecko.com/en/coins/vulcan-forged
+2025-01-27T14:41:13.732796,artrade,Artrade,atr,Top gainer,0.03882683610632674,2164946.309976335,3.2388694763919963,DO NOTHING,https://www.coingecko.com/en/coins/artrade
+2025-01-27T14:41:36.817691,cryptex-finance,Cryptex Finance,ctx,Top gainer,5.933037243548957,42001082.90465724,141.21738189821457,DO NOTHING,https://www.coingecko.com/en/coins/cryptex-finance
+2025-01-27T14:41:45.232959,alchemy-pay,Alchemy Pay,ach,Top gainer,0.03549408044580298,631128654.2786574,69.72493496634019,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-27T14:41:53.522818,ultra,Ultra,uos,Top gainer,0.143342925183022,35983123.60450095,59.72082235482961,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-27T14:42:03.613410,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.09757674198360568,72195080.28388429,40.75482035164649,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-27T14:42:18.356999,murasaki,Murasaki,mura,Top gainer,1.7257062691382763,75261.56296041812,36.441458900523614,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-27T14:42:26.366876,sperax,Sperax,spa,Top gainer,0.02126310255599148,23751457.085650187,33.52191633257136,DO NOTHING,https://www.coingecko.com/en/coins/sperax
+2025-01-27T14:42:34.976818,swftcoin,SWFTCOIN,swftc,Top gainer,0.027947964154365377,342526425.6355163,31.96624884074873,DO NOTHING,https://www.coingecko.com/en/coins/swftcoin
+2025-01-27T14:42:43.054123,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.13077408907509722,1397295.6238534646,22.048824630736156,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-27T14:42:51.798783,aura-bal,Aura BAL,aurabal,Top gainer,8.822507934813101,309701.03092663415,18.110925549596185,DO NOTHING,https://www.coingecko.com/en/coins/aura-bal
+2025-01-27T14:43:00.614453,pixer-eternity,Pixer Eternity,pxt,Top gainer,0.01599168965064424,299286.5420048266,16.243275019682258,DO NOTHING,https://www.coingecko.com/en/coins/pixer-eternity
+2025-01-27T14:43:07.770444,shapeshift-fox-token,ShapeShift FOX,fox,Top gainer,0.05464706997642741,2061416.3166659332,13.216150212055789,DO NOTHING,https://www.coingecko.com/en/coins/shapeshift-fox-token
+2025-01-27T14:43:15.264966,ket,Ket,ket,Top gainer,0.06068689105200605,4223788.37610674,12.362377644777862,DO NOTHING,https://www.coingecko.com/en/coins/ket
+2025-01-27T14:43:22.904781,netmind-token,NetMind Token,nmt,Top gainer,3.112580728564404,4247208.28988276,11.435570056288892,DO NOTHING,https://www.coingecko.com/en/coins/netmind-token
+2025-01-27T14:43:31.712591,iagon,Iagon,iag,Top gainer,0.3331281988643265,1854987.3320497028,10.563968592094767,DO NOTHING,https://www.coingecko.com/en/coins/iagon
+2025-01-27T14:43:40.117996,elon4afd,Elon4AfD,elon4afd,Top gainer,0.0400824183909704,441963.8705798344,10.317089545542878,DO NOTHING,https://www.coingecko.com/en/coins/elon4afd
+2025-01-27T14:43:48.773790,shiba-inu-treat,Shiba Inu Treat,treat,Top gainer,0.015003037184853915,14001192.479635071,9.899238193155083,DO NOTHING,https://www.coingecko.com/en/coins/shiba-inu-treat
+2025-01-27T14:43:56.064332,freysa-ai,Freysa AI,fai,Top gainer,0.04801430290362884,7367021.696930904,7.413416052235392,DO NOTHING,https://www.coingecko.com/en/coins/freysa-ai
+2025-01-27T14:44:03.644153,phoenix-global,Phoenix,phb,Top gainer,1.3369776884434745,39095475.788979374,7.3656828830552215,DO NOTHING,https://www.coingecko.com/en/coins/phoenix-global
+2025-01-27T14:44:10.848741,kinesis-gold,Kinesis Gold,kau,Top gainer,96.1337613251269,157146.85015947616,7.235458001962888,DO NOTHING,https://www.coingecko.com/en/coins/kinesis-gold
+2025-01-27T14:44:19.466958,gems-vip,Gems VIP,gems,Top gainer,0.07462638026787066,7362307.240510158,6.972992068022013,DO NOTHING,https://www.coingecko.com/en/coins/gems-vip
+2025-01-27T14:44:27.776537,army-3,XRP ARMY,ARMY,Top gainer,0.07556526291561118,885420.624062268,6.669607064215927,DO NOTHING,https://www.coingecko.com/en/coins/army-3
+2025-01-27T14:44:36.969650,coco-coin,COCO COIN,coco,Top gainer,0.0016783074869740826,2155195.096581647,5.782117411922566,DO NOTHING,https://www.coingecko.com/en/coins/coco-coin
+2025-01-27T14:44:44.459013,conflux-token,Conflux,cfx,Top gainer,0.1605922354593491,219022162.54710647,5.5724335947003345,DO NOTHING,https://www.coingecko.com/en/coins/conflux-token
+2025-01-27T14:44:52.288409,steem-dollars,Steem Dollars,sbd,Top gainer,4.798729264247841,273129439.4499711,4.995880222732419,DO NOTHING,https://www.coingecko.com/en/coins/steem-dollars
+2025-01-27T14:45:00.584635,safemoon-2,SafeMoon,sfm,Top gainer,7.160419636396862e-05,96133.73709487221,4.382249886428671,DO NOTHING,https://www.coingecko.com/en/coins/safemoon-2
+2025-01-27T14:45:10.182818,purple-pepe,PURPLE PEPE,purpe,Top gainer,9.089078181128038e-05,1899352.8717467887,3.945971413750847,DO NOTHING,https://www.coingecko.com/en/coins/purple-pepe
+2025-01-27T14:45:16.837798,qanplatform,QANplatform,qanx,Top gainer,0.039912125155351814,604954.9309998837,3.8425736013040677,DO NOTHING,https://www.coingecko.com/en/coins/qanplatform
+2025-01-27T14:45:24.642466,vulcan-forged,Vulcan Forged,pyr,Top gainer,2.79146346499457,40317350.60372833,3.3944304079220977,DO NOTHING,https://www.coingecko.com/en/coins/vulcan-forged
+2025-01-27T14:45:33.480868,artrade,Artrade,atr,Top gainer,0.03882683610632674,2164946.309976335,3.2388694763919963,DO NOTHING,https://www.coingecko.com/en/coins/artrade
+2025-01-27T14:45:41.451700,dora-factory-2,Dora Factory,dora,Top gainer,0.04503911258110174,944861.3006092967,3.005588866081833,DO NOTHING,https://www.coingecko.com/en/coins/dora-factory-2
+2025-01-27T14:45:44.218762,national-digital-asset-stockpile,National Digital Asset Stockpile,ndas,Recently Added,0.00048695,198816,DO NOTHING,https://www.coingecko.com/en/coins/national-digital-asset-stockpile
+2025-01-27T14:45:52.443706,community-coin-3,Community Coin,comcoin,Recently Added,0.00022947,513971,DO NOTHING,https://www.coingecko.com/en/coins/community-coin-3
+2025-01-27T14:46:00.589277,talos,Talos,talos,Recently Added,0.00664651,79458,DO NOTHING,https://www.coingecko.com/en/coins/talos
+2025-01-27T14:46:08.187537,soleng,SOLENG,soleng,Recently Added,0.00720127,503190,DO NOTHING,https://www.coingecko.com/en/coins/soleng
+2025-01-27T14:46:15.729475,chromia-s-eval-by-virtuals,Chromia's EVAL by Virtuals,eval,Recently Added,0.00721871,2683159,DO NOTHING,https://www.coingecko.com/en/coins/chromia-s-eval-by-virtuals
+2025-01-27T14:46:24.054124,fart-accelerationism,Fart Accelerationism,f/acc,Recently Added,0.00157601,2394545,DO NOTHING,https://www.coingecko.com/en/coins/fart-accelerationism
+2025-01-27T14:46:32.487571,yoko,Yoko,yoko,Recently Added,0.00127336,434.25,DO NOTHING,https://www.coingecko.com/en/coins/yoko
+2025-01-27T14:46:39.955762,rouge-studio,Rouge Studio,rouge,Recently Added,0.0132755,6689.12,DO NOTHING,https://www.coingecko.com/en/coins/rouge-studio
+2025-01-27T14:46:48.289886,kitsune-2,Kitsune,$kit,Recently Added,0.01146753,6609622,DO NOTHING,https://www.coingecko.com/en/coins/kitsune-2
+2025-01-27T14:46:56.129952,_gai16zbrielshai16zpr0,_gai16zbrielShai16zpr0,gaib,Recently Added,0.00162604,315597,DO NOTHING,https://www.coingecko.com/en/coins/_gai16zbrielshai16zpr0
+2025-01-27T14:47:04.066403,book-of-binance,Book of Binance,book,Recently Added,0.00230739,28324,DO NOTHING,https://www.coingecko.com/en/coins/book-of-binance
+2025-01-27T14:47:11.554839,szar,SZAR,szar,Recently Added,3.6e-06,41660,DO NOTHING,https://www.coingecko.com/en/coins/szar
+2025-01-27T14:47:18.914645,degent,Degent,degent,Recently Added,0.00120163,4816.95,DO NOTHING,https://www.coingecko.com/en/coins/degent
+2025-01-27T14:47:26.325289,doge-caucus,Doge Caucus,dogecaucus,Recently Added,1.54,554706,DO NOTHING,https://www.coingecko.com/en/coins/doge-caucus
+2025-01-27T14:47:34.461846,cloudyheart,cloudyheart,cloudy,Recently Added,0.01971745,57401003,SELL,https://www.coingecko.com/en/coins/cloudyheart
+2025-01-27T14:47:41.849497,official-ray-lewis,OFFICIAL RAY LEWIS,fit,Recently Added,0.00443194,1930661,DO NOTHING,https://www.coingecko.com/en/coins/official-ray-lewis
+2025-01-27T14:47:50.521188,gofundmeme,GoFundMeme,gfm,Recently Added,0.04068775,23252590,DO NOTHING,https://www.coingecko.com/en/coins/gofundmeme
+2025-01-27T14:47:58.017957,stupidcoin-2,StupidCoin,Stupid,Recently Added,0.02512537,144819143,SELL,https://www.coingecko.com/en/coins/stupidcoin-2
+2025-01-27T14:48:05.869296,shroomy,Shroomy,shroomy,Recently Added,0.00036972,35364,DO NOTHING,https://www.coingecko.com/en/coins/shroomy
+2025-01-27T14:48:14.589025,the-year-of-the-snake,The Year Of The Snake,2025,Recently Added,0.00093015,5853739,DO NOTHING,https://www.coingecko.com/en/coins/the-year-of-the-snake
+2025-01-27T14:48:21.818346,pwog,PWOG,pwog,Recently Added,0.00022775,14400026,DO NOTHING,https://www.coingecko.com/en/coins/pwog
+2025-01-27T14:48:30.457251,kanstar,KANSTAR,$kanstar,Recently Added,0.00060441,100373,DO NOTHING,https://www.coingecko.com/en/coins/kanstar
+2025-01-27T14:48:38.000525,kendo-ai,Kendo AI,$realkendo,Recently Added,0.0014879,1610848,DO NOTHING,https://www.coingecko.com/en/coins/kendo-ai
+2025-01-27T14:48:45.675386,space-frog-x,Space Frog X,sfx,Recently Added,7.08e-06,63882,DO NOTHING,https://www.coingecko.com/en/coins/space-frog-x
+2025-01-27T14:48:53.685843,pseudo-reality,PSEUDO REALITY,pseudo,Recently Added,0.00046315,16999.66,DO NOTHING,https://www.coingecko.com/en/coins/pseudo-reality
+2025-01-27T14:49:01.607545,toto-2,TOTO,toto,Recently Added,0.00141247,21959,DO NOTHING,https://www.coingecko.com/en/coins/toto-2
+2025-01-27T14:49:11.180727,sharky-sharkx,Sharky Sharkx,shark,Recently Added,0.00020261,150472,DO NOTHING,https://www.coingecko.com/en/coins/sharky-sharkx
+2025-01-27T14:49:18.746523,asha,Asha,asha,Recently Added,0.00260315,378201,DO NOTHING,https://www.coingecko.com/en/coins/asha
+2025-01-27T14:49:27.170769,elon4afd,Elon4AfD,elon4afd,Recently Added,0.0402939,485151,DO NOTHING,https://www.coingecko.com/en/coins/elon4afd
+2025-01-27T14:49:35.448331,marionawfal-on-x,MarioNawfal on X,mario,Recently Added,0.00799744,14421400,DO NOTHING,https://www.coingecko.com/en/coins/marionawfal-on-x
+2025-01-27T14:49:43.759046,cerebrum,Cerebrum,cbm,Recently Added,0.00947125,2230690,DO NOTHING,https://www.coingecko.com/en/coins/cerebrum
+2025-01-27T14:49:51.991758,koku-the-shikoku,Koku The Shikoku,$koku,Recently Added,0.00751679,999907,DO NOTHING,https://www.coingecko.com/en/coins/koku-the-shikoku
+2025-01-27T14:49:59.932053,ghostwire,ghostwire,gwire,Recently Added,0.00046872,104879,DO NOTHING,https://www.coingecko.com/en/coins/ghostwire
+2025-01-27T14:50:08.377644,heart-sparkle-mermaid,Heart Sparkle Mermaid,hsm,Recently Added,0.00029325,195795,DO NOTHING,https://www.coingecko.com/en/coins/heart-sparkle-mermaid
+2025-01-27T14:50:16.144343,kolwai,Kolwaii,kwaii,Recently Added,0.01180065,1029496,DO NOTHING,https://www.coingecko.com/en/coins/kolwai
+2025-01-27T14:50:23.898847,nest-ai-by-virtuals,Nest AI by Virtuals,nest,Recently Added,0.00132314,4876.7,DO NOTHING,https://www.coingecko.com/en/coins/nest-ai-by-virtuals
+2025-01-27T14:50:31.951527,lyra-3,LYRA,lyra,Recently Added,0.0035696,37821,DO NOTHING,https://www.coingecko.com/en/coins/lyra-3
+2025-01-27T14:50:41.008149,starkman,Starkman,stam,Recently Added,8.0025e-08,29893,DO NOTHING,https://www.coingecko.com/en/coins/starkman
+2025-01-27T14:50:49.446804,e-d-a-s-token,E.D.A.S Token,edas,Recently Added,0.00028033,56578,DO NOTHING,https://www.coingecko.com/en/coins/e-d-a-s-token
+2025-01-27T14:50:57.807543,lillo-ai,Lillo AI,$lillo,Recently Added,0.00280561,123017,DO NOTHING,https://www.coingecko.com/en/coins/lillo-ai
+2025-01-27T14:51:06.015227,bepe-2,BEPE,bepe,Recently Added,8.135e-05,518.92,DO NOTHING,https://www.coingecko.com/en/coins/bepe-2
+2025-01-27T14:51:14.618944,yod-agent,Yod Agent,yod,Recently Added,0.00032519,842146,DO NOTHING,https://www.coingecko.com/en/coins/yod-agent
+2025-01-27T14:51:23.227324,velvet-ai,Velvet AI,velai,Recently Added,0.00083936,103180,DO NOTHING,https://www.coingecko.com/en/coins/velvet-ai
+2025-01-27T14:51:31.374996,socialgrowai,SocialGrowAI,growai,Recently Added,0.00614825,147690,DO NOTHING,https://www.coingecko.com/en/coins/socialgrowai
+2025-01-27T14:51:39.698403,nibbles,Nibbles,nibbles,Recently Added,3.979e-05,1449796,DO NOTHING,https://www.coingecko.com/en/coins/nibbles
+2025-01-27T14:51:48.107024,liminal-agent,Liminal Agent by Virtuals,lmnl,Recently Added,0.00187016,78898,DO NOTHING,https://www.coingecko.com/en/coins/liminal-agent
+2025-01-27T14:51:56.288499,venator-universe,Venator Universe,vnt,Recently Added,0.408442,104265,DO NOTHING,https://www.coingecko.com/en/coins/venator-universe
+2025-01-27T14:52:04.374710,nuit,nuit,nuit,Recently Added,0.02106054,27169410,DO NOTHING,https://www.coingecko.com/en/coins/nuit
+2025-01-27T14:52:13.292494,pinky-orbit,Pinky Orbit,pinko,Recently Added,0.00869614,1027755,DO NOTHING,https://www.coingecko.com/en/coins/pinky-orbit
+2025-01-28T08:10:45.606867,kyve-network,KYVE Network,kyve,Top gainer,0.04033412228190421,3386214.710134744,115.75120342566699,DO NOTHING,https://www.coingecko.com/en/coins/kyve-network
+2025-01-28T08:13:04.368526,hegic,Hegic,hegic,Top gainer,0.03967296582976115,2458824.3455088683,112.92119952502526,DO NOTHING,https://www.coingecko.com/en/coins/hegic
+2025-01-28T08:18:20.004923,ultra,Ultra,uos,Top gainer,0.16101356745595752,10349317.67301833,110.81995623286052,DO NOTHING,https://www.coingecko.com/en/coins/ultra
+2025-01-28T08:21:53.125940,liquidlaunch,LiquidLaunch,liqd,Top gainer,0.04974758599566616,6309283.589269163,93.2500096847323,DO NOTHING,https://www.coingecko.com/en/coins/liquidlaunch
+2025-01-28T08:26:56.676753,venice-token,Venice Token,vvv,Top gainer,15.965368554046274,529061695.740829,86.36497428133342,DO NOTHING,https://www.coingecko.com/en/coins/venice-token
+2025-01-28T08:27:24.963998,elon4afd,Elon4AfD,elon4afd,Top gainer,0.060617800724938886,1350691.3432820877,71.92430807063265,DO NOTHING,https://www.coingecko.com/en/coins/elon4afd
+2025-01-28T08:27:51.414633,yne,yesnoerror,yne,Top gainer,0.06201052912754132,12469257.006248467,58.96664592723647,DO NOTHING,https://www.coingecko.com/en/coins/yne
+2025-01-28T08:32:32.640036,doginme,doginme,doginme,Top gainer,0.0008068081269876595,4657111.96850244,57.11360496497375,DO NOTHING,https://www.coingecko.com/en/coins/doginme
+2025-01-28T08:37:04.494073,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.1695172071180551,2821648.1826301315,56.46205655193782,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-28T08:40:07.251665,360noscope420blazeit,360noscope420blazeit,mlg,Top gainer,0.14186046728957266,66054476.227329046,52.38240029636098,DO NOTHING,https://www.coingecko.com/en/coins/360noscope420blazeit
+2025-01-28T08:45:10.398775,mochi-thecatcoin,Mochi,mochi,Top gainer,4.3234958890257154e-05,6502511.342258149,43.2588540866392,DO NOTHING,https://www.coingecko.com/en/coins/mochi-thecatcoin
+2025-01-28T08:49:57.278748,orbit-3,ORBIT,grift,Top gainer,0.09242954345761666,70750495.81213829,43.20160823649397,DO NOTHING,https://www.coingecko.com/en/coins/orbit-3
+2025-01-28T08:54:49.549579,butthole-coin,Butthole Coin,butthole,Top gainer,0.033851749994017945,8541195.768482871,42.64992694310535,DO NOTHING,https://www.coingecko.com/en/coins/butthole-coin
+2025-01-28T08:58:03.015091,shapeshift-fox-token,ShapeShift FOX,fox,Top gainer,0.06298014604598516,17941775.870489098,37.95961014307793,DO NOTHING,https://www.coingecko.com/en/coins/shapeshift-fox-token
+2025-01-28T09:03:06.746805,army-3,XRP ARMY,ARMY,Top gainer,0.08646766901342488,721816.5719289684,37.28897048612671,DO NOTHING,https://www.coingecko.com/en/coins/army-3
+2025-01-28T09:05:58.878748,murasaki,Murasaki,mura,Top gainer,2.3709447487873496,125728.72436731971,36.98668319344247,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-28T09:11:01.985946,openserv,OpenServ,serv,Top gainer,0.07789704377287182,921113.3163577229,35.07951822603532,DO NOTHING,https://www.coingecko.com/en/coins/openserv
+2025-01-28T09:15:19.666421,ai-companions,AI Companions,aic,Top gainer,0.14945946451911296,8530596.674371595,34.75116686680433,DO NOTHING,https://www.coingecko.com/en/coins/ai-companions
+2025-01-28T09:20:22.950724,moby-ai,Moby AI,moby,Top gainer,0.11807314434958831,30694822.9515757,34.470117701359946,DO NOTHING,https://www.coingecko.com/en/coins/moby-ai
+2025-01-28T09:25:33.871936,deep,DeepBook,deep,Top gainer,0.2591760758468574,92590857.4345212,34.17583010852745,DO NOTHING,https://www.coingecko.com/en/coins/deep
+2025-01-28T09:30:37.063450,fwog,Fwog,fwog,Top gainer,0.1201989199984223,57609434.71316955,33.77589386602361,DO NOTHING,https://www.coingecko.com/en/coins/fwog
+2025-01-28T09:33:11.210160,chainswap-3,ChainSwap,cswap,Top gainer,0.04900926530494301,202929.68396751888,32.7170689490452,DO NOTHING,https://www.coingecko.com/en/coins/chainswap-3
+2025-01-28T09:38:14.389431,octaspace,OctaSpace,octa,Top gainer,0.9753755614772502,1406567.4844647774,32.538274612610614,DO NOTHING,https://www.coingecko.com/en/coins/octaspace
+2025-01-28T09:42:22.923664,heyanon,Hey Anon,Anon,Top gainer,15.040601484432925,47797436.507374465,32.176796620716566,DO NOTHING,https://www.coingecko.com/en/coins/heyanon
+2025-01-28T09:46:16.297453,gems-vip,Gems VIP,gems,Top gainer,0.08432165434307588,7307378.376755497,31.32479646917723,DO NOTHING,https://www.coingecko.com/en/coins/gems-vip
+2025-01-28T09:47:07.167323,netmind-token,NetMind Token,nmt,Top gainer,3.4385004004087127,5182748.1206891835,31.173208872516938,DO NOTHING,https://www.coingecko.com/en/coins/netmind-token
+2025-01-28T09:47:20.557433,shiro-neko-2,Shiro Neko,shiro,Top gainer,6.088318131041069e-08,4511301.732301985,30.86627217899622,DO NOTHING,https://www.coingecko.com/en/coins/shiro-neko-2
+2025-01-28T09:47:32.136540,orion-protocol,Orion,orn,Top gainer,1.2721549661201481,5012559.553837469,30.82342210341662,DO NOTHING,https://www.coingecko.com/en/coins/orion-protocol
+2025-01-28T09:47:43.222568,nodeai,NodeAI,gpu,Top gainer,0.9322336995754525,2354403.2897284897,30.702737000564728,DO NOTHING,https://www.coingecko.com/en/coins/nodeai
+2025-01-28T09:47:56.367113,sigma,Sigma,sigma,Top gainer,0.046810370593125594,3465949.5646919664,30.560762767844313,DO NOTHING,https://www.coingecko.com/en/coins/sigma
+2025-01-28T09:49:57.598847,aquari-2,Aquari,aquari,Recently Added,0.01850466,2732.03,DO NOTHING,https://www.coingecko.com/en/coins/aquari-2
+2025-01-28T09:51:46.015122,vibe-3,VIBE,VIBE,Recently Added,0.00183873,6597629,DO NOTHING,https://www.coingecko.com/en/coins/vibe-3
+2025-01-28T09:51:57.933960,datawitch,Datawitch,datawitch,Recently Added,0.00211524,1117651,DO NOTHING,https://www.coingecko.com/en/coins/datawitch
+2025-01-28T09:52:08.990602,yup-2,Yup,YUP,Recently Added,0.0056396,3651986,DO NOTHING,https://www.coingecko.com/en/coins/yup-2
+2025-01-28T09:52:19.412379,l2-standard-bridged-weth-abstract,L2 Standard Bridged WETH (Abstract),weth,Recently Added,4060.93,12768254,DO NOTHING,https://www.coingecko.com/en/coins/l2-standard-bridged-weth-abstract
+2025-01-28T09:52:34.117109,stargate-bridged-usdc-abstract,Stargate Bridged USDC (Abstract),usdc.e,Recently Added,1.0,2520214,DO NOTHING,https://www.coingecko.com/en/coins/stargate-bridged-usdc-abstract
+2025-01-28T09:55:44.007430,orionpay,OrionPay,orion,Recently Added,5.578e-05,330351,DO NOTHING,https://www.coingecko.com/en/coins/orionpay
+2025-01-28T09:55:55.417612,lc-shib,LC SHIB,lc,Recently Added,0.00056412,5785252,DO NOTHING,https://www.coingecko.com/en/coins/lc-shib
+2025-01-28T10:00:58.595711,venice-token,Venice Token,vvv,Recently Added,14.42,550436967,DO NOTHING,https://www.coingecko.com/en/coins/venice-token
+2025-01-28T10:01:01.457738,invify-ai,INVIFY AI,invify,Recently Added,0.00031466,219271,DO NOTHING,https://www.coingecko.com/en/coins/invify-ai
+2025-01-28T10:01:04.530551,xtta,XTTA,xtta,Recently Added,0.194021,271282,DO NOTHING,https://www.coingecko.com/en/coins/xtta
+2025-01-28T10:01:07.696051,national-digital-asset-stockpile,National Digital Asset Stockpile,ndas,Recently Added,0.00054778,132148,DO NOTHING,https://www.coingecko.com/en/coins/national-digital-asset-stockpile
+2025-01-28T10:01:10.667826,community-coin-3,Community Coin,comcoin,Recently Added,0.00032601,452033,DO NOTHING,https://www.coingecko.com/en/coins/community-coin-3
+2025-01-28T10:01:13.773665,talos,Talos,talos,Recently Added,0.00857258,176646,DO NOTHING,https://www.coingecko.com/en/coins/talos
+2025-01-28T10:01:16.701661,soleng,SOLENG,soleng,Recently Added,0.00807608,495053,DO NOTHING,https://www.coingecko.com/en/coins/soleng
+2025-01-28T10:01:19.955837,chromia-s-eval-by-virtuals,Chromia's EVAL by Virtuals,eval,Recently Added,0.01582035,2523321,DO NOTHING,https://www.coingecko.com/en/coins/chromia-s-eval-by-virtuals
+2025-01-28T10:01:23.105403,fart-accelerationism,Fart Accelerationism,f/acc,Recently Added,0.00205542,2059228,DO NOTHING,https://www.coingecko.com/en/coins/fart-accelerationism
+2025-01-28T10:01:26.251743,yoko,Yoko,yoko,Recently Added,0.00138941,328.37,DO NOTHING,https://www.coingecko.com/en/coins/yoko
+2025-01-28T10:01:29.583212,rouge-studio,Rouge Studio,rouge,Recently Added,0.01342502,15024.44,DO NOTHING,https://www.coingecko.com/en/coins/rouge-studio
+2025-01-28T10:01:32.607350,kitsune-2,Kitsune,$kit,Recently Added,0.00946431,6232406,DO NOTHING,https://www.coingecko.com/en/coins/kitsune-2
+2025-01-28T10:01:35.550723,_gai16zbrielshai16zpr0,_gai16zbrielShai16zpr0,gaib,Recently Added,0.00369635,354489,DO NOTHING,https://www.coingecko.com/en/coins/_gai16zbrielshai16zpr0
+2025-01-28T10:01:38.559860,book-of-binance,Book of Binance,book,Recently Added,0.00175567,26568,DO NOTHING,https://www.coingecko.com/en/coins/book-of-binance
+2025-01-28T10:01:41.568515,szar,SZAR,szar,Recently Added,3.42e-06,142111,DO NOTHING,https://www.coingecko.com/en/coins/szar
+2025-01-28T10:01:44.505428,degent,Degent,degent,Recently Added,0.00124556,6662.47,DO NOTHING,https://www.coingecko.com/en/coins/degent
+2025-01-28T10:01:47.598878,doge-caucus,Doge Caucus,dogecaucus,Recently Added,1.73,311566,DO NOTHING,https://www.coingecko.com/en/coins/doge-caucus
+2025-01-28T10:01:50.886645,cloudyheart,cloudyheart,cloudy,Recently Added,0.02564538,12049397,DO NOTHING,https://www.coingecko.com/en/coins/cloudyheart
+2025-01-28T10:01:54.097550,official-ray-lewis,OFFICIAL RAY LEWIS,fit,Recently Added,0.00300255,1016355,DO NOTHING,https://www.coingecko.com/en/coins/official-ray-lewis
+2025-01-28T10:01:57.180285,gofundmeme,GoFundMeme,gfm,Recently Added,0.105498,23508929,DO NOTHING,https://www.coingecko.com/en/coins/gofundmeme
+2025-01-28T10:02:00.218774,stupidcoin-2,StupidCoin,Stupid,Recently Added,0.01700277,53972984,DO NOTHING,https://www.coingecko.com/en/coins/stupidcoin-2
+2025-01-28T10:02:03.172263,shroomy,Shroomy,shroomy,Recently Added,0.00043927,53317,DO NOTHING,https://www.coingecko.com/en/coins/shroomy
+2025-01-28T10:02:06.149464,the-year-of-the-snake,The Year Of The Snake,2025,Recently Added,0.0010016,2433781,DO NOTHING,https://www.coingecko.com/en/coins/the-year-of-the-snake
+2025-01-28T10:02:09.389068,pwog,PWOG,pwog,Recently Added,0.00012178,607077,DO NOTHING,https://www.coingecko.com/en/coins/pwog
+2025-01-28T10:02:12.437898,kanstar,KANSTAR,$kanstar,Recently Added,0.00063111,36070,DO NOTHING,https://www.coingecko.com/en/coins/kanstar
+2025-01-28T10:02:15.386660,kendo-ai,Kendo AI,$realkendo,Recently Added,0.0012545,1518062,DO NOTHING,https://www.coingecko.com/en/coins/kendo-ai
+2025-01-28T10:02:18.349582,space-frog-x,Space Frog X,sfx,Recently Added,7.89e-06,66388,DO NOTHING,https://www.coingecko.com/en/coins/space-frog-x
+2025-01-28T10:02:21.362525,pseudo-reality,PSEUDO REALITY,pseudo,Recently Added,0.00041789,8383.19,DO NOTHING,https://www.coingecko.com/en/coins/pseudo-reality
+2025-01-28T10:02:24.506891,toto-2,TOTO,toto,Recently Added,0.00147931,10225.72,DO NOTHING,https://www.coingecko.com/en/coins/toto-2
+2025-01-28T10:02:27.660488,sharky-sharkx,Sharky Sharkx,shark,Recently Added,0.00024869,256622,DO NOTHING,https://www.coingecko.com/en/coins/sharky-sharkx
+2025-01-28T10:02:30.736902,asha,Asha,asha,Recently Added,0.00228998,316504,DO NOTHING,https://www.coingecko.com/en/coins/asha
+2025-01-28T10:02:33.754115,elon4afd,Elon4AfD,elon4afd,Recently Added,0.063305,1495655,DO NOTHING,https://www.coingecko.com/en/coins/elon4afd
+2025-01-28T10:02:36.696631,marionawfal-on-x,MarioNawfal on X,mario,Recently Added,0.00287059,2917593,DO NOTHING,https://www.coingecko.com/en/coins/marionawfal-on-x
+2025-01-28T10:02:39.717048,cerebrum,Cerebrum,cbm,Recently Added,0.00877824,1343720,DO NOTHING,https://www.coingecko.com/en/coins/cerebrum
+2025-01-28T10:02:43.609265,koku-the-shikoku,Koku The Shikoku,$koku,Recently Added,0.00811959,435075,DO NOTHING,https://www.coingecko.com/en/coins/koku-the-shikoku
+2025-01-28T10:02:46.626845,ghostwire,ghostwire,gwire,Recently Added,0.00054023,133580,DO NOTHING,https://www.coingecko.com/en/coins/ghostwire
+2025-01-28T10:02:49.767603,heart-sparkle-mermaid,Heart Sparkle Mermaid,hsm,Recently Added,0.00022604,77382,DO NOTHING,https://www.coingecko.com/en/coins/heart-sparkle-mermaid
+2025-01-28T10:02:52.874801,kolwai,Kolwaii,kwaii,Recently Added,0.01546655,1512624,DO NOTHING,https://www.coingecko.com/en/coins/kolwai
+2025-01-28T10:02:55.909279,nest-ai-by-virtuals,Nest AI by Virtuals,nest,Recently Added,0.0012965,5693.83,DO NOTHING,https://www.coingecko.com/en/coins/nest-ai-by-virtuals
+2025-01-28T10:02:59.049236,lyra-3,LYRA,lyra,Recently Added,0.00336956,31677,DO NOTHING,https://www.coingecko.com/en/coins/lyra-3
+2025-01-28T10:03:02.089893,starkman,Starkman,stam,Recently Added,8.2787e-08,26885,DO NOTHING,https://www.coingecko.com/en/coins/starkman
+2025-01-28T10:03:05.235668,e-d-a-s-token,E.D.A.S Token,edas,Recently Added,0.00055873,69951,DO NOTHING,https://www.coingecko.com/en/coins/e-d-a-s-token
+2025-01-28T10:03:08.187263,lillo-ai,Lillo AI,$lillo,Recently Added,0.00287375,114272,DO NOTHING,https://www.coingecko.com/en/coins/lillo-ai
+2025-01-28T10:03:11.270105,bepe-2,BEPE,bepe,Recently Added,8.296e-05,403.07,DO NOTHING,https://www.coingecko.com/en/coins/bepe-2
+2025-01-28T10:03:14.320683,yod-agent,Yod Agent,yod,Recently Added,0.00058147,93.67,DO NOTHING,https://www.coingecko.com/en/coins/yod-agent
+2025-01-28T10:03:17.398501,velvet-ai,Velvet AI,velai,Recently Added,0.00078395,101407,DO NOTHING,https://www.coingecko.com/en/coins/velvet-ai
+2025-01-28T10:03:20.616731,socialgrowai,SocialGrowAI,growai,Recently Added,0.00597068,51070,DO NOTHING,https://www.coingecko.com/en/coins/socialgrowai
+2025-01-28T10:03:23.689605,nibbles,Nibbles,nibbles,Recently Added,5.028e-05,1010778,DO NOTHING,https://www.coingecko.com/en/coins/nibbles
+2025-01-28T10:03:26.722310,liminal-agent,Liminal Agent by Virtuals,lmnl,Recently Added,0.0018794,43216,DO NOTHING,https://www.coingecko.com/en/coins/liminal-agent
+2025-01-28T10:03:29.636343,venator-universe,Venator Universe,vnt,Recently Added,0.416513,108116,DO NOTHING,https://www.coingecko.com/en/coins/venator-universe
+2025-01-28T10:03:32.604438,nuit,nuit,nuit,Recently Added,0.01632267,6294750,DO NOTHING,https://www.coingecko.com/en/coins/nuit
+2025-01-28T10:03:35.587536,pinky-orbit,Pinky Orbit,pinko,Recently Added,0.00699762,756391,DO NOTHING,https://www.coingecko.com/en/coins/pinky-orbit
+2025-01-28T10:03:38.503610,ondo-defai,Ondo DeFAI,ondoai,Recently Added,0.00368785,514490,DO NOTHING,https://www.coingecko.com/en/coins/ondo-defai
+2025-01-28T10:03:41.384505,tmc-corp,TMC Corp,tmc,Recently Added,0.00400162,6564860,DO NOTHING,https://www.coingecko.com/en/coins/tmc-corp
+2025-01-28T10:03:44.320089,frens-ai,Frens.ai,fren,Recently Added,0.268233,45666,DO NOTHING,https://www.coingecko.com/en/coins/frens-ai
+2025-01-28T10:03:47.406479,gold-token,Gold Token,gldt,Recently Added,0.871814,12614.02,DO NOTHING,https://www.coingecko.com/en/coins/gold-token
+2025-01-28T10:03:50.336716,price-ai,Price Ai,priceai,Recently Added,0.03620516,47660,DO NOTHING,https://www.coingecko.com/en/coins/price-ai
+2025-01-28T10:03:53.230401,cainam,Cainam,cainam,Recently Added,0.0043659,3013822,DO NOTHING,https://www.coingecko.com/en/coins/cainam
+2025-01-28T10:03:56.103829,bee-trade-finance,Bee Trade Finance,btf,Recently Added,1.46,558897,DO NOTHING,https://www.coingecko.com/en/coins/bee-trade-finance
+2025-01-28T10:03:58.998574,business-alliance-coin,Business Alliance Coin,bac,Recently Added,5.41,2005831,DO NOTHING,https://www.coingecko.com/en/coins/business-alliance-coin
+2025-01-28T10:04:02.025336,agent-dora,Agent DORA,ad,Recently Added,0.00062703,449665,DO NOTHING,https://www.coingecko.com/en/coins/agent-dora
+2025-01-28T10:04:04.931019,nox,NOX,nox,Recently Added,1.28,52917,DO NOTHING,https://www.coingecko.com/en/coins/nox
+2025-01-28T10:04:07.906211,onyx-arches,Onyx Arches,oxa,Recently Added,0.06829,71.28,DO NOTHING,https://www.coingecko.com/en/coins/onyx-arches
+2025-01-28T10:04:10.873250,built-different,Built Different,built,Recently Added,0.00107308,521.11,DO NOTHING,https://www.coingecko.com/en/coins/built-different
+2025-01-28T10:09:14.193190,noon-usn,Noon USN,usn,Recently Added,0.999084,262473,DO NOTHING,https://www.coingecko.com/en/coins/noon-usn
+2025-01-28T10:14:17.330639,buildx,BuildX,buildx,Recently Added,0.00111138,11704.77,DO NOTHING,https://www.coingecko.com/en/coins/buildx
+2025-01-28T10:19:20.577000,king-assad-game,King Assad Game,king,Recently Added,1.73937e-07,3717.25,DO NOTHING,https://www.coingecko.com/en/coins/king-assad-game
+2025-01-28T10:24:23.778759,eolas,Eolas ☴,eolas,Recently Added,0.069743,31041,DO NOTHING,https://www.coingecko.com/en/coins/eolas
+2025-01-28T10:29:39.536447,meshchain-coin,MeshChain Coin,mcc,Recently Added,0.11655,19676.33,DO NOTHING,https://www.coingecko.com/en/coins/meshchain-coin
+2025-01-28T10:32:42.605912,neuravox,Neuravox,$vox,Recently Added,0.01922563,293024,DO NOTHING,https://www.coingecko.com/en/coins/neuravox
+2025-01-28T10:33:16.483457,fear-of-missing-out,Fear of Missing Out,fomo,Recently Added,0.00111568,319507,DO NOTHING,https://www.coingecko.com/en/coins/fear-of-missing-out
+2025-01-28T10:33:45.632253,edwin,Edwin,edwin,Recently Added,0.00403963,1159455,DO NOTHING,https://www.coingecko.com/en/coins/edwin
+2025-01-28T10:34:54.606948,made-in-america,Made In America,mia,Recently Added,0.0040908,3074203,DO NOTHING,https://www.coingecko.com/en/coins/made-in-america
+2025-01-28T10:36:33.767956,panterai,PanterAI,panterai,Recently Added,0.00043812,59283,DO NOTHING,https://www.coingecko.com/en/coins/panterai
+2025-01-28T10:38:37.542484,artificial-isle-clams,Artificial Isle Clams,clams,Recently Added,0.00017166,88225,DO NOTHING,https://www.coingecko.com/en/coins/artificial-isle-clams
+2025-01-28T10:39:06.472754,bear-in-bathrobe,Bear In Bathrobe,bib,Recently Added,0.00922345,150802,DO NOTHING,https://www.coingecko.com/en/coins/bear-in-bathrobe
+2025-01-28T10:39:34.156110,emoneytoken,E Money Network,EMYC,Recently Added,0.092696,4763729,DO NOTHING,https://www.coingecko.com/en/coins/emoneytoken
+2025-01-28T10:40:46.859399,bsop,Bsop,bsop,Recently Added,0.00088292,379902,DO NOTHING,https://www.coingecko.com/en/coins/bsop
+2025-01-28T10:42:15.236308,ninja-pump,Ninja Pump,ninjapump,Recently Added,0.00031918,21024,DO NOTHING,https://www.coingecko.com/en/coins/ninja-pump
+2025-01-28T10:46:50.295350,dogcoin-2,Dogcoin,dcoin,Recently Added,0.00175269,111536,DO NOTHING,https://www.coingecko.com/en/coins/dogcoin-2
+2025-01-28T10:48:53.153881,ascia,ASCIA,ascia,Recently Added,0.00011391,18018.69,DO NOTHING,https://www.coingecko.com/en/coins/ascia
+2025-01-28T10:53:07.445052,dtrxbt-by-virtuals,DTRXBT by Virtuals,dtrxbt,Recently Added,0.01297362,215053,DO NOTHING,https://www.coingecko.com/en/coins/dtrxbt-by-virtuals
+2025-01-28T10:55:05.600335,you-held,You Held,pov,Recently Added,0.00199498,3238513,DO NOTHING,https://www.coingecko.com/en/coins/you-held
+2025-01-28T10:56:49.312248,cgai,CGAI,cgai,Recently Added,0.00372366,477712,DO NOTHING,https://www.coingecko.com/en/coins/cgai
+2025-01-28T10:57:18.432492,miaocoin,MIAOCoin,miao,Recently Added,0.00279423,593877,DO NOTHING,https://www.coingecko.com/en/coins/miaocoin
+2025-01-28T10:59:33.184750,alon,Alon,alon,Recently Added,0.00835164,7690479,DO NOTHING,https://www.coingecko.com/en/coins/alon
+2025-01-28T11:01:18.471560,white-mountain-ermine,White Mountain Ermine,ermine,Recently Added,4.004e-05,12511.91,DO NOTHING,https://www.coingecko.com/en/coins/white-mountain-ermine
+2025-01-28T11:01:47.626771,agora-by-virtuals,Agora by Virtuals,agora,Recently Added,0.00035378,8450.22,DO NOTHING,https://www.coingecko.com/en/coins/agora-by-virtuals
+2025-01-28T11:03:30.968486,sosovalue,SoSoValue,soso,Recently Added,0.67161,12178718,DO NOTHING,https://www.coingecko.com/en/coins/sosovalue
+2025-01-28T11:04:01.023857,peeking-duck,PEEKING DUCK,qwack,Recently Added,0.00048604,11425.46,DO NOTHING,https://www.coingecko.com/en/coins/peeking-duck
+2025-01-28T11:09:15.544627,ben-pasternak,Ben Pasternak,pasternak,Recently Added,0.02469721,14414462,DO NOTHING,https://www.coingecko.com/en/coins/ben-pasternak
+2025-01-28T11:09:42.978255,tamatest,Tamatest,tamatest,Recently Added,0.00015577,22157,DO NOTHING,https://www.coingecko.com/en/coins/tamatest
+2025-01-28T11:10:10.376490,prol-ai,Prol AI,prol,Recently Added,0.00117042,631739,DO NOTHING,https://www.coingecko.com/en/coins/prol-ai
+2025-01-28T11:11:23.244327,cybertrader-ai,Cybertrader AI,cyb,Recently Added,0.00052559,339127,DO NOTHING,https://www.coingecko.com/en/coins/cybertrader-ai
+2025-01-28T11:13:18.025418,cryptohog,CryptoHog,hogscoin,Recently Added,0.00186576,240519,DO NOTHING,https://www.coingecko.com/en/coins/cryptohog
+2025-01-28T11:15:11.574918,trader,Trader,tde,Recently Added,2.43,6945.88,DO NOTHING,https://www.coingecko.com/en/coins/trader
+2025-01-28T11:20:14.216417,zaichxbt,ZaichXBT,zai,Recently Added,0.01262002,457875,DO NOTHING,https://www.coingecko.com/en/coins/zaichxbt
+2025-01-28T11:21:31.485313,neemo-staked-astar,Neemo Staked Astar,nsastr,Recently Added,0.051751,12474.37,DO NOTHING,https://www.coingecko.com/en/coins/neemo-staked-astar
+2025-01-28T11:21:59.273918,send-token-2,Send,send,Recently Added,0.01386303,3751.58,DO NOTHING,https://www.coingecko.com/en/coins/send-token-2
+2025-01-28T11:22:27.998273,mula-ai,Mula AI,mula,Recently Added,0.00076011,27076,DO NOTHING,https://www.coingecko.com/en/coins/mula-ai
+2025-01-28T11:24:43.300118,salute,Salute,slt,Recently Added,0.00021526,87594,DO NOTHING,https://www.coingecko.com/en/coins/salute
+2025-01-28T11:25:30.038367,keira,Keira,keira,Recently Added,0.00238206,46330,DO NOTHING,https://www.coingecko.com/en/coins/keira
+2025-01-28T11:28:51.700385,qai,qAI,qai,Recently Added,0.00083775,86905,DO NOTHING,https://www.coingecko.com/en/coins/qai
+2025-01-28T11:32:08.725311,rough-love-potion,Rough Love Potion,rlp,Recently Added,0.00057057,18524.8,DO NOTHING,https://www.coingecko.com/en/coins/rough-love-potion
+2025-01-28T11:34:20.947268,operating-system,Operating System,opsys,Recently Added,1.83e-06,48042,DO NOTHING,https://www.coingecko.com/en/coins/operating-system
+2025-01-29T08:48:03.989900,spacen,SpaceN,sn,Top gainer,3.6843609743740293,611400.1647216474,1075.5880281540633,DO NOTHING,https://www.coingecko.com/en/coins/spacen
+2025-01-29T08:48:09.228788,osol,OSOL,osol,Top gainer,0.17697883314821614,44756760.40349833,93.6109162845042,DO NOTHING,https://www.coingecko.com/en/coins/osol
+2025-01-29T08:48:14.623348,ai-companions,AI Companions,aic,Top gainer,0.26732051648795746,10456526.081827639,55.709779707888394,DO NOTHING,https://www.coingecko.com/en/coins/ai-companions
+2025-01-29T08:48:21.284745,elon4afd,Elon4AfD,elon4afd,Top gainer,0.09707309680652934,3235928.0935381097,55.34527097746923,DO NOTHING,https://www.coingecko.com/en/coins/elon4afd
+2025-01-29T08:48:26.577449,redbelly-network-token,Redbelly Network,RBNT,Top gainer,0.046207756686591286,5734760.88991101,52.24382899186999,DO NOTHING,https://www.coingecko.com/en/coins/redbelly-network-token
+2025-01-29T08:48:31.243711,safemoon-2,SafeMoon,sfm,Top gainer,6.946494154574442e-05,51074.95218458482,51.09467325525352,DO NOTHING,https://www.coingecko.com/en/coins/safemoon-2
+2025-01-29T08:48:36.184498,xyo-network,XYO Network,xyo,Top gainer,0.022791529612663154,92369788.89390998,43.150152492648594,DO NOTHING,https://www.coingecko.com/en/coins/xyo-network
+2025-01-29T08:48:41.615351,memdex100,MEMDEX100,memdex,Top gainer,0.03310156297472045,6406902.573731922,40.86653738441932,DO NOTHING,https://www.coingecko.com/en/coins/memdex100
+2025-01-29T08:48:46.782981,dogeai-2,DOGEai,$dogeai,Top gainer,0.05225522884203078,9443432.15793511,29.848102106692785,DO NOTHING,https://www.coingecko.com/en/coins/dogeai-2
+2025-01-29T08:48:52.219473,alchemy-pay,Alchemy Pay,ach,Top gainer,0.04022968070945425,307650341.52695566,29.484470721443955,DO NOTHING,https://www.coingecko.com/en/coins/alchemy-pay
+2025-01-29T08:48:57.599076,murasaki,Murasaki,mura,Top gainer,3.0396916733843122,125140.21956185336,29.262559122708172,DO NOTHING,https://www.coingecko.com/en/coins/murasaki
+2025-01-29T08:49:02.791541,empyreal,Empyreal,emp,Top gainer,164.51817761462252,1592760.600291342,25.651283344174523,DO NOTHING,https://www.coingecko.com/en/coins/empyreal
+2025-01-29T08:49:08.469289,mango-markets,Mango,mngo,Top gainer,0.029741914169175637,316275.90272626164,25.021921524963076,DO NOTHING,https://www.coingecko.com/en/coins/mango-markets
+2025-01-29T08:49:13.888343,vine,Vine,vine,Top gainer,0.2915613504499223,502152007.21654963,21.250530852149165,DO NOTHING,https://www.coingecko.com/en/coins/vine
+2025-01-29T08:49:19.389076,arcblock,Arcblock,abt,Top gainer,1.4172041743563155,4723964.80652601,20.4777823085773,DO NOTHING,https://www.coingecko.com/en/coins/arcblock
+2025-01-29T08:49:24.722665,morpheusai,MorpheusAI,mor,Top gainer,24.30956537282624,1329559.4557333558,18.840625552936014,DO NOTHING,https://www.coingecko.com/en/coins/morpheusai
+2025-01-29T08:49:30.285725,messier,MESSIER,m87,Top gainer,6.318920888639204e-05,1206870.5294510548,18.835454899670854,DO NOTHING,https://www.coingecko.com/en/coins/messier
+2025-01-29T08:49:35.029443,butthole-coin,Butthole Coin,butthole,Top gainer,0.03772581406671147,11143897.227061024,18.258606511334598,DO NOTHING,https://www.coingecko.com/en/coins/butthole-coin
+2025-01-29T08:49:40.526324,ai-rig-complex,AI Rig Complex,arc,Top gainer,0.33741877552461036,175433181.29040077,18.194446883290546,DO NOTHING,https://www.coingecko.com/en/coins/ai-rig-complex
+2025-01-29T08:49:45.949743,dogwifcoin,dogwifhat,wif,Top gainer,1.3180082123963666,1357166958.0852525,16.979959973829228,DO NOTHING,https://www.coingecko.com/en/coins/dogwifcoin
+2025-01-29T08:49:52.147058,clover-finance,Clover Finance,clv,Top gainer,0.06313927021362134,59230969.95606342,14.87555201898529,DO NOTHING,https://www.coingecko.com/en/coins/clover-finance
+2025-01-29T08:49:58.074305,mines-of-dalarnia,Mines of Dalarnia,dar,Top gainer,0.1608489649139432,966512.7756388461,14.140405179393248,DO NOTHING,https://www.coingecko.com/en/coins/mines-of-dalarnia
+2025-01-29T08:50:04.341087,skale,SKALE,skl,Top gainer,0.058864621768355455,149915477.5701298,13.1764738101594,DO NOTHING,https://www.coingecko.com/en/coins/skale
+2025-01-29T08:50:08.986534,fx-coin,Function X,fx,Top gainer,0.17311125677086825,1383023.2368800342,12.953574945062272,DO NOTHING,https://www.coingecko.com/en/coins/fx-coin
+2025-01-29T08:50:14.008757,blockv,BLOCKv,vee,Top gainer,0.018878460482134866,493869.22469039535,12.254618643578628,DO NOTHING,https://www.coingecko.com/en/coins/blockv
+2025-01-29T08:50:19.451845,reef,Reef,reef,Top gainer,0.0008500236641947347,8050174.029647918,11.676400109495416,DO NOTHING,https://www.coingecko.com/en/coins/reef
+2025-01-29T08:50:24.520120,shuffle-2,Shuffle,shfl,Top gainer,0.23025481986535482,684798.0894343271,11.287200222106613,DO NOTHING,https://www.coingecko.com/en/coins/shuffle-2
+2025-01-29T08:50:30.005850,deso,Decentralized Social,deso,Top gainer,21.274643900208908,480195.7030920595,11.11577849891399,DO NOTHING,https://www.coingecko.com/en/coins/deso
+2025-01-29T08:50:35.095016,movement,Movement,MOVE,Top gainer,0.78975616182003,592031176.1596962,10.728383811936643,DO NOTHING,https://www.coingecko.com/en/coins/movement
+2025-01-29T08:50:40.419298,victoria-vr,Victoria VR,vr,Top gainer,0.009666792213460717,23321851.70823127,10.656304441137747,DO NOTHING,https://www.coingecko.com/en/coins/victoria-vr
+2025-01-29T08:50:46.167716,memelinked,Memelinked,mk,Recently Added,0.00466588,58703,DO NOTHING,https://www.coingecko.com/en/coins/memelinked
+2025-01-29T08:50:51.643711,blackduckrwa,BlackDuckrwa,bd/sol,Recently Added,0.00075697,179367,DO NOTHING,https://www.coingecko.com/en/coins/blackduckrwa
+2025-01-29T08:50:56.815412,maicrotrader,maicrotrader,maicro,Recently Added,0.00215194,446292,DO NOTHING,https://www.coingecko.com/en/coins/maicrotrader
+2025-01-29T08:51:02.244263,beta-2,Beta,beta,Recently Added,0.00025025,2054372,DO NOTHING,https://www.coingecko.com/en/coins/beta-2
+2025-01-29T08:51:07.899667,rodolfoorato,Rodolfoorato,rodolfo,Recently Added,0.00059444,678309,DO NOTHING,https://www.coingecko.com/en/coins/rodolfoorato
+2025-01-29T08:51:13.287636,metaverse-filipino-worker,Metaverse Filipino Worker,mfw,Recently Added,0.0010255,7373.28,DO NOTHING,https://www.coingecko.com/en/coins/metaverse-filipino-worker
+2025-01-29T08:51:18.787207,dapyai,DapyAI,$dapy,Recently Added,0.00221936,36235,DO NOTHING,https://www.coingecko.com/en/coins/dapyai
+2025-01-29T08:51:25.019541,fafo,FAFO,fafo,Recently Added,0.00404521,11531976,DO NOTHING,https://www.coingecko.com/en/coins/fafo
+2025-01-29T08:51:30.418619,apollo-ai-by-virtuals,APOLLO AI by Virtuals,apl,Recently Added,0.00019398,30500,DO NOTHING,https://www.coingecko.com/en/coins/apollo-ai-by-virtuals
+2025-01-29T08:51:36.162609,truthchain,TruthChain,truth,Recently Added,0.00312335,17447425,DO NOTHING,https://www.coingecko.com/en/coins/truthchain
+2025-01-29T08:51:41.848389,ustream-coin,Ustream Coin,ustream,Recently Added,0.00098174,968546,DO NOTHING,https://www.coingecko.com/en/coins/ustream-coin
+2025-01-29T08:51:47.597099,flockerz,Flockerz,flock,Recently Added,0.00096541,287881,DO NOTHING,https://www.coingecko.com/en/coins/flockerz
+2025-01-29T08:51:52.964739,charm-ai,Charm AI,charm,Recently Added,0.00095147,3425578,DO NOTHING,https://www.coingecko.com/en/coins/charm-ai
+2025-01-29T08:51:58.204014,moonpup,MoonPup,mpup,Recently Added,0.00243831,6102109,DO NOTHING,https://www.coingecko.com/en/coins/moonpup
+2025-01-29T08:52:02.942774,cockcardano,Cockcardano,$cock,Recently Added,0.00647966,158157,DO NOTHING,https://www.coingecko.com/en/coins/cockcardano
+2025-01-29T08:52:08.674279,alpha-4,Alpha,alpha,Recently Added,0.075812,20636737,DO NOTHING,https://www.coingecko.com/en/coins/alpha-4
+2025-01-29T08:52:13.726263,mox-ai,MOX AI,$moxi,Recently Added,7.648e-05,92203,DO NOTHING,https://www.coingecko.com/en/coins/mox-ai
+2025-01-29T08:52:19.834201,shytoshi-kusama,Shytoshi Kusama,shy,Recently Added,0.00934032,6435232,DO NOTHING,https://www.coingecko.com/en/coins/shytoshi-kusama
+2025-01-29T08:52:24.819653,mentat,Mentat,spice,Recently Added,0.01011444,37039108,DO NOTHING,https://www.coingecko.com/en/coins/mentat
+2025-01-29T08:52:30.406064,saa-ai,SAA-AI,drpal,Recently Added,0.00032103,158428,DO NOTHING,https://www.coingecko.com/en/coins/saa-ai
+2025-01-29T08:52:35.813289,smardex-wrapped-usdn,SMARDEX WRAPPED USDN,wusdn,Recently Added,1.007,22282,DO NOTHING,https://www.coingecko.com/en/coins/smardex-wrapped-usdn
+2025-01-29T08:52:41.497787,vice-2,VICE,vice,Recently Added,0.01532955,2714244,DO NOTHING,https://www.coingecko.com/en/coins/vice-2
+2025-01-29T08:52:47.101806,zoo-world,Zoo World,zoo,Recently Added,0.01321717,190397,DO NOTHING,https://www.coingecko.com/en/coins/zoo-world
+2025-01-29T08:52:52.340520,metropolis,Metropolis,metro,Recently Added,0.18488,96396,DO NOTHING,https://www.coingecko.com/en/coins/metropolis
+2025-01-29T08:52:58.256864,opensvm-com,opensvm.com,svmai,Recently Added,0.0028538,619194,DO NOTHING,https://www.coingecko.com/en/coins/opensvm-com
+2025-01-29T08:53:03.743234,curiso,Curiso,cur,Recently Added,0.00213579,5334448,DO NOTHING,https://www.coingecko.com/en/coins/curiso
+2025-01-29T08:53:09.719440,blacktail-ai,Blacktail AI,black,Recently Added,0.00075798,131122,DO NOTHING,https://www.coingecko.com/en/coins/blacktail-ai
+2025-01-29T08:53:15.406715,ratomilton,ratomilton,milton,Recently Added,0.00971712,13490223,DO NOTHING,https://www.coingecko.com/en/coins/ratomilton
+2025-01-29T08:53:21.372294,aquari-2,Aquari,aquari,Recently Added,0.01807843,406.07,DO NOTHING,https://www.coingecko.com/en/coins/aquari-2
+2025-01-29T08:53:27.309699,vibe-3,VIBE,VIBE,Recently Added,0.00071504,799995,DO NOTHING,https://www.coingecko.com/en/coins/vibe-3
+2025-01-29T08:53:33.102466,datawitch,Datawitch,datawitch,Recently Added,0.00161844,631710,DO NOTHING,https://www.coingecko.com/en/coins/datawitch
+2025-01-29T08:53:38.786344,yup-2,Yup,YUP,Recently Added,0.00383265,993072,DO NOTHING,https://www.coingecko.com/en/coins/yup-2
+2025-01-29T08:53:43.934385,l2-standard-bridged-weth-abstract,L2 Standard Bridged WETH (Abstract),weth,Recently Added,3105.3,4913599,DO NOTHING,https://www.coingecko.com/en/coins/l2-standard-bridged-weth-abstract
+2025-01-29T08:53:49.485180,stargate-bridged-usdc-abstract,Stargate Bridged USDC (Abstract),usdc.e,Recently Added,1.001,3127785,DO NOTHING,https://www.coingecko.com/en/coins/stargate-bridged-usdc-abstract
+2025-01-29T08:53:56.160376,orionpay,OrionPay,orion,Recently Added,0.00015988,360057,DO NOTHING,https://www.coingecko.com/en/coins/orionpay
+2025-01-29T08:54:01.708044,lc-shib,LC SHIB,lc,Recently Added,0.00050603,673245,DO NOTHING,https://www.coingecko.com/en/coins/lc-shib
+2025-01-29T08:54:06.338209,venice-token,Venice Token,vvv,Recently Added,9.57,250916894,DO NOTHING,https://www.coingecko.com/en/coins/venice-token
+2025-01-29T08:54:11.836969,invify-ai,INVIFY AI,invify,Recently Added,0.00024255,241274,DO NOTHING,https://www.coingecko.com/en/coins/invify-ai
+2025-01-29T08:54:17.401709,xtta,XTTA,xtta,Recently Added,0.201007,214925,DO NOTHING,https://www.coingecko.com/en/coins/xtta
+2025-01-29T08:54:22.691635,national-digital-asset-stockpile,National Digital Asset Stockpile,ndas,Recently Added,0.000365,81641,DO NOTHING,https://www.coingecko.com/en/coins/national-digital-asset-stockpile
+2025-01-29T08:54:28.358897,community-coin-3,Community Coin,comcoin,Recently Added,0.000489,544707,DO NOTHING,https://www.coingecko.com/en/coins/community-coin-3
+2025-01-29T08:54:33.770966,talos,Talos,talos,Recently Added,0.00799776,113712,DO NOTHING,https://www.coingecko.com/en/coins/talos
+2025-01-29T08:54:39.487817,soleng,SOLENG,soleng,Recently Added,0.00709602,335071,DO NOTHING,https://www.coingecko.com/en/coins/soleng
+2025-01-29T08:54:45.121164,chromia-s-eval-by-virtuals,Chromia's EVAL by Virtuals,eval,Recently Added,0.01163083,522278,DO NOTHING,https://www.coingecko.com/en/coins/chromia-s-eval-by-virtuals
+2025-01-29T08:54:50.305786,fart-accelerationism,Fart Accelerationism,f/acc,Recently Added,0.00366396,2202635,DO NOTHING,https://www.coingecko.com/en/coins/fart-accelerationism
+2025-01-29T08:54:55.798960,yoko,Yoko,yoko,Recently Added,0.00147246,192.52,DO NOTHING,https://www.coingecko.com/en/coins/yoko
+2025-01-29T08:55:01.439183,rouge-studio,Rouge Studio,rouge,Recently Added,0.0122454,7296.09,DO NOTHING,https://www.coingecko.com/en/coins/rouge-studio
+2025-01-29T08:55:06.810273,kitsune-2,Kitsune,$kit,Recently Added,0.00506345,1877874,DO NOTHING,https://www.coingecko.com/en/coins/kitsune-2
+2025-01-29T08:55:12.408947,_gai16zbrielshai16zpr0,_gai16zbrielShai16zpr0,gaib,Recently Added,0.00355702,338191,DO NOTHING,https://www.coingecko.com/en/coins/_gai16zbrielshai16zpr0
+2025-01-29T08:55:17.829825,book-of-binance,Book of Binance,book,Recently Added,0.00165826,5840.56,DO NOTHING,https://www.coingecko.com/en/coins/book-of-binance
+2025-01-29T08:55:23.703363,szar,SZAR,szar,Recently Added,3.37e-06,113942,DO NOTHING,https://www.coingecko.com/en/coins/szar
+2025-01-29T08:55:29.643219,degent,Degent,degent,Recently Added,0.00124897,1747.03,DO NOTHING,https://www.coingecko.com/en/coins/degent
+2025-01-29T08:55:34.577891,doge-caucus,Doge Caucus,dogecaucus,Recently Added,1.63,243511,DO NOTHING,https://www.coingecko.com/en/coins/doge-caucus
+2025-01-29T08:55:40.211218,cloudyheart,cloudyheart,cloudy,Recently Added,0.01883102,5376083,DO NOTHING,https://www.coingecko.com/en/coins/cloudyheart
+2025-01-29T08:55:45.434786,official-ray-lewis,OFFICIAL RAY LEWIS,fit,Recently Added,0.00295593,475407,DO NOTHING,https://www.coingecko.com/en/coins/official-ray-lewis
+2025-01-29T08:55:50.284037,gofundmeme,GoFundMeme,gfm,Recently Added,0.089487,28389990,DO NOTHING,https://www.coingecko.com/en/coins/gofundmeme
+2025-01-29T08:55:55.578841,stupidcoin-2,StupidCoin,Stupid,Recently Added,0.0194045,47930444,DO NOTHING,https://www.coingecko.com/en/coins/stupidcoin-2
+2025-01-29T08:56:00.836335,shroomy,Shroomy,shroomy,Recently Added,0.00064182,56086,DO NOTHING,https://www.coingecko.com/en/coins/shroomy
+2025-01-29T08:56:06.097423,the-year-of-the-snake,The Year Of The Snake,2025,Recently Added,4.567e-05,1338108,DO NOTHING,https://www.coingecko.com/en/coins/the-year-of-the-snake
+2025-01-29T08:56:11.452217,pwog,PWOG,pwog,Recently Added,5.319e-05,139644,DO NOTHING,https://www.coingecko.com/en/coins/pwog
+2025-01-29T08:56:17.861756,kanstar,KANSTAR,$kanstar,Recently Added,0.00061071,27510,DO NOTHING,https://www.coingecko.com/en/coins/kanstar
+2025-01-29T08:56:23.712229,kendo-ai,Kendo AI,$realkendo,Recently Added,0.00077984,682724,DO NOTHING,https://www.coingecko.com/en/coins/kendo-ai
+2025-01-29T08:56:29.206293,space-frog-x,Space Frog X,sfx,Recently Added,9.09e-06,63366,DO NOTHING,https://www.coingecko.com/en/coins/space-frog-x
+2025-01-29T08:56:34.486769,pseudo-reality,PSEUDO REALITY,pseudo,Recently Added,0.00036363,3548.61,DO NOTHING,https://www.coingecko.com/en/coins/pseudo-reality
+2025-01-29T08:56:40.136647,toto-2,TOTO,toto,Recently Added,0.00125163,2083.08,DO NOTHING,https://www.coingecko.com/en/coins/toto-2
+2025-01-29T08:56:45.645896,sharky-sharkx,Sharky Sharkx,shark,Recently Added,0.00025208,172040,DO NOTHING,https://www.coingecko.com/en/coins/sharky-sharkx
+2025-01-29T08:56:51.091977,asha,Asha,asha,Recently Added,0.00147096,374501,DO NOTHING,https://www.coingecko.com/en/coins/asha
+2025-01-29T08:56:56.234016,elon4afd,Elon4AfD,elon4afd,Recently Added,0.0974,3220490,DO NOTHING,https://www.coingecko.com/en/coins/elon4afd
+2025-01-29T08:57:01.903196,marionawfal-on-x,MarioNawfal on X,mario,Recently Added,0.00316167,798788,DO NOTHING,https://www.coingecko.com/en/coins/marionawfal-on-x
+2025-01-29T08:57:07.668914,cerebrum,Cerebrum,cbm,Recently Added,0.00814562,379633,DO NOTHING,https://www.coingecko.com/en/coins/cerebrum
+2025-01-29T08:57:13.467245,koku-the-shikoku,Koku The Shikoku,$koku,Recently Added,0.00716596,167723,DO NOTHING,https://www.coingecko.com/en/coins/koku-the-shikoku
+2025-01-29T08:57:18.981830,ghostwire,ghostwire,gwire,Recently Added,0.0006846,109216,DO NOTHING,https://www.coingecko.com/en/coins/ghostwire
+2025-01-29T08:57:24.623822,heart-sparkle-mermaid,Heart Sparkle Mermaid,hsm,Recently Added,0.0004185,253923,DO NOTHING,https://www.coingecko.com/en/coins/heart-sparkle-mermaid
+2025-01-29T08:57:30.518978,kolwai,Kolwaii,kwaii,Recently Added,0.01546328,675301,DO NOTHING,https://www.coingecko.com/en/coins/kolwai
+2025-01-29T08:57:36.320119,nest-ai-by-virtuals,Nest AI by Virtuals,nest,Recently Added,0.00125431,5853.27,DO NOTHING,https://www.coingecko.com/en/coins/nest-ai-by-virtuals
+2025-01-29T08:57:41.602235,lyra-3,LYRA,lyra,Recently Added,0.00360137,21887,DO NOTHING,https://www.coingecko.com/en/coins/lyra-3
+2025-01-29T08:57:47.132823,starkman,Starkman,stam,Recently Added,8.2443e-08,27033,DO NOTHING,https://www.coingecko.com/en/coins/starkman
+2025-01-29T08:57:52.842451,e-d-a-s-token,E.D.A.S Token,edas,Recently Added,0.00037765,50996,DO NOTHING,https://www.coingecko.com/en/coins/e-d-a-s-token
+2025-01-29T08:57:58.234900,lillo-ai,Lillo AI,$lillo,Recently Added,0.00249704,230697,DO NOTHING,https://www.coingecko.com/en/coins/lillo-ai
+2025-01-29T08:58:03.530415,bepe-2,BEPE,bepe,Recently Added,8.177e-05,176.79,DO NOTHING,https://www.coingecko.com/en/coins/bepe-2
+2025-01-29T08:58:09.480837,yod-agent,Yod Agent,yod,Recently Added,0.00042166,72003,DO NOTHING,https://www.coingecko.com/en/coins/yod-agent
+2025-01-29T08:58:15.028112,velvet-ai,Velvet AI,velai,Recently Added,0.00194687,284286,DO NOTHING,https://www.coingecko.com/en/coins/velvet-ai
+2025-01-29T08:58:20.594975,socialgrowai,SocialGrowAI,growai,Recently Added,0.00601088,49930,DO NOTHING,https://www.coingecko.com/en/coins/socialgrowai
+2025-01-29T08:58:26.366702,nibbles,Nibbles,nibbles,Recently Added,4.574e-05,724799,DO NOTHING,https://www.coingecko.com/en/coins/nibbles
+2025-01-29T08:58:32.510041,liminal-agent,Liminal Agent by Virtuals,lmnl,Recently Added,0.0021557,40574,DO NOTHING,https://www.coingecko.com/en/coins/liminal-agent
+2025-01-29T08:58:38.423229,venator-universe,Venator Universe,vnt,Recently Added,0.42143,107245,DO NOTHING,https://www.coingecko.com/en/coins/venator-universe
+2025-01-29T08:58:44.419297,nuit,nuit,nuit,Recently Added,0.01430805,11547763,DO NOTHING,https://www.coingecko.com/en/coins/nuit
+2025-01-29T08:58:50.301706,pinky-orbit,Pinky Orbit,pinko,Recently Added,0.00689614,1542019,DO NOTHING,https://www.coingecko.com/en/coins/pinky-orbit
+2025-01-29T08:58:55.717229,ondo-defai,Ondo DeFAI,ondoai,Recently Added,0.00333427,397571,DO NOTHING,https://www.coingecko.com/en/coins/ondo-defai
+2025-01-29T08:59:01.539075,tmc-corp,TMC Corp,tmc,Recently Added,0.00291139,4865916,DO NOTHING,https://www.coingecko.com/en/coins/tmc-corp
+2025-01-29T08:59:07.256589,frens-ai,Frens.ai,fren,Recently Added,0.254069,13774.96,DO NOTHING,https://www.coingecko.com/en/coins/frens-ai
+2025-01-29T08:59:13.286248,gold-token,Gold Token,gldt,Recently Added,0.867359,14061.75,DO NOTHING,https://www.coingecko.com/en/coins/gold-token
+2025-01-29T08:59:18.848988,price-ai,Price Ai,priceai,Recently Added,0.03555116,8905.78,DO NOTHING,https://www.coingecko.com/en/coins/price-ai
+2025-01-29T08:59:25.085526,cainam,Cainam,cainam,Recently Added,0.00241402,1218743,DO NOTHING,https://www.coingecko.com/en/coins/cainam
+2025-01-29T08:59:30.900881,bee-trade-finance,Bee Trade Finance,btf,Recently Added,1.46,534831,DO NOTHING,https://www.coingecko.com/en/coins/bee-trade-finance
+2025-01-29T08:59:36.697961,business-alliance-coin,Business Alliance Coin,bac,Recently Added,5.39,1998054,DO NOTHING,https://www.coingecko.com/en/coins/business-alliance-coin
+2025-01-29T08:59:42.249646,agent-dora,Agent DORA,ad,Recently Added,0.00047706,199739,DO NOTHING,https://www.coingecko.com/en/coins/agent-dora
+2025-01-29T08:59:47.295493,nox,NOX,nox,Recently Added,1.17,46745,DO NOTHING,https://www.coingecko.com/en/coins/nox
+2025-01-29T08:59:50.255136,onyx-arches,Onyx Arches,oxa,Recently Added,0.06829,71.28,DO NOTHING,https://www.coingecko.com/en/coins/onyx-arches
+2025-01-29T08:59:56.108414,built-different,Built Different,built,Recently Added,0.00015427,78958,DO NOTHING,https://www.coingecko.com/en/coins/built-different
+2025-01-29T09:00:01.301536,noon-usn,Noon USN,usn,Recently Added,0.999349,123996,DO NOTHING,https://www.coingecko.com/en/coins/noon-usn
+2025-01-29T09:00:06.758042,buildx,BuildX,buildx,Recently Added,0.00102986,32328,DO NOTHING,https://www.coingecko.com/en/coins/buildx
+2025-01-29T09:00:12.823164,king-assad-game,King Assad Game,king,Recently Added,1.57672e-07,2303.19,DO NOTHING,https://www.coingecko.com/en/coins/king-assad-game
+2025-01-29T09:00:18.036208,eolas,Eolas ☴,eolas,Recently Added,0.068305,14798.8,DO NOTHING,https://www.coingecko.com/en/coins/eolas
+2025-01-29T09:00:23.497725,meshchain-coin,MeshChain Coin,mcc,Recently Added,0.115696,428981,DO NOTHING,https://www.coingecko.com/en/coins/meshchain-coin
+2025-01-29T09:00:28.738702,neuravox,Neuravox,$vox,Recently Added,0.02840491,568302,DO NOTHING,https://www.coingecko.com/en/coins/neuravox
+2025-01-29T09:00:34.457804,fear-of-missing-out,Fear of Missing Out,fomo,Recently Added,0.00100452,190742,DO NOTHING,https://www.coingecko.com/en/coins/fear-of-missing-out
+2025-01-29T09:00:39.268458,edwin,Edwin,edwin,Recently Added,0.00585434,2062139,DO NOTHING,https://www.coingecko.com/en/coins/edwin
+2025-01-29T09:00:44.008016,made-in-america,Made In America,mia,Recently Added,0.00378058,3442076,DO NOTHING,https://www.coingecko.com/en/coins/made-in-america
+2025-01-29T09:00:49.588479,panterai,PanterAI,panterai,Recently Added,0.0003429,23276,DO NOTHING,https://www.coingecko.com/en/coins/panterai
+2025-01-29T09:00:55.264317,artificial-isle-clams,Artificial Isle Clams,clams,Recently Added,0.00016282,37027,DO NOTHING,https://www.coingecko.com/en/coins/artificial-isle-clams
+2025-01-29T09:01:01.249960,bear-in-bathrobe,Bear In Bathrobe,bib,Recently Added,0.00858714,189934,DO NOTHING,https://www.coingecko.com/en/coins/bear-in-bathrobe
+2025-01-29T09:01:06.920809,emoneytoken,E Money Network,EMYC,Recently Added,0.089791,2346023,DO NOTHING,https://www.coingecko.com/en/coins/emoneytoken
+2025-01-29T09:01:12.871197,bsop,Bsop,bsop,Recently Added,0.00071693,318763,DO NOTHING,https://www.coingecko.com/en/coins/bsop
+2025-01-29T09:01:18.546363,ninja-pump,Ninja Pump,ninjapump,Recently Added,0.00031289,49545,DO NOTHING,https://www.coingecko.com/en/coins/ninja-pump
+2025-01-29T09:01:23.901836,dogcoin-2,Dogcoin,dcoin,Recently Added,0.00393528,1242131,DO NOTHING,https://www.coingecko.com/en/coins/dogcoin-2
+2025-01-29T09:01:29.423442,ascia,ASCIA,ascia,Recently Added,9.453e-05,5641.78,DO NOTHING,https://www.coingecko.com/en/coins/ascia
+2025-01-29T09:01:34.905354,dtrxbt-by-virtuals,DTRXBT by Virtuals,dtrxbt,Recently Added,0.01262692,197946,DO NOTHING,https://www.coingecko.com/en/coins/dtrxbt-by-virtuals
+2025-01-29T09:01:40.721081,you-held,You Held,pov,Recently Added,0.00123272,1166395,DO NOTHING,https://www.coingecko.com/en/coins/you-held
+2025-01-29T09:01:46.640892,cgai,CGAI,cgai,Recently Added,0.00288828,389598,DO NOTHING,https://www.coingecko.com/en/coins/cgai
+2025-01-29T09:01:52.934055,miaocoin,MIAOCoin,miao,Recently Added,0.0034886,961473,DO NOTHING,https://www.coingecko.com/en/coins/miaocoin
+2025-01-29T09:01:58.489597,alon,Alon,alon,Recently Added,0.0110897,12700191,DO NOTHING,https://www.coingecko.com/en/coins/alon
+2025-01-29T09:02:03.804319,white-mountain-ermine,White Mountain Ermine,ermine,Recently Added,4.606e-05,15110.23,DO NOTHING,https://www.coingecko.com/en/coins/white-mountain-ermine
+2025-01-29T09:02:09.236074,agora-by-virtuals,Agora by Virtuals,agora,Recently Added,0.00026616,19417.23,DO NOTHING,https://www.coingecko.com/en/coins/agora-by-virtuals
+2025-01-29T09:02:14.510488,sosovalue,SoSoValue,soso,Recently Added,0.673934,12521546,DO NOTHING,https://www.coingecko.com/en/coins/sosovalue
+2025-01-29T09:02:19.354596,peeking-duck,PEEKING DUCK,qwack,Recently Added,0.00053225,37454,DO NOTHING,https://www.coingecko.com/en/coins/peeking-duck
+2025-01-29T09:02:25.473684,ben-pasternak,Ben Pasternak,pasternak,Recently Added,0.01031786,16742732,DO NOTHING,https://www.coingecko.com/en/coins/ben-pasternak
+2025-01-29T09:02:31.205063,tamatest,Tamatest,tamatest,Recently Added,0.00012403,7450.03,DO NOTHING,https://www.coingecko.com/en/coins/tamatest
+2025-01-29T09:02:36.971020,prol-ai,Prol AI,prol,Recently Added,0.00085938,333143,DO NOTHING,https://www.coingecko.com/en/coins/prol-ai
+2025-01-29T09:02:42.318081,cybertrader-ai,Cybertrader AI,cyb,Recently Added,0.00063824,241015,DO NOTHING,https://www.coingecko.com/en/coins/cybertrader-ai
+2025-01-29T09:02:48.153774,cryptohog,CryptoHog,hogscoin,Recently Added,0.00180246,194875,DO NOTHING,https://www.coingecko.com/en/coins/cryptohog
+2025-01-29T09:02:53.920498,trader,Trader,tde,Recently Added,2.34,3018.77,DO NOTHING,https://www.coingecko.com/en/coins/trader
+2025-01-29T09:03:00.043638,zaichxbt,ZaichXBT,zai,Recently Added,0.01241195,459129,DO NOTHING,https://www.coingecko.com/en/coins/zaichxbt
+2025-01-29T09:03:06.335723,neemo-staked-astar,Neemo Staked Astar,nsastr,Recently Added,0.050208,11701.83,DO NOTHING,https://www.coingecko.com/en/coins/neemo-staked-astar
+2025-01-29T09:03:11.730151,send-token-2,Send,send,Recently Added,0.01377083,6343.29,DO NOTHING,https://www.coingecko.com/en/coins/send-token-2
+2025-01-29T09:03:17.342454,mula-ai,Mula AI,mula,Recently Added,0.00090916,70986,DO NOTHING,https://www.coingecko.com/en/coins/mula-ai
+2025-01-29T09:03:23.151760,salute,Salute,slt,Recently Added,0.00021999,121053,DO NOTHING,https://www.coingecko.com/en/coins/salute
+2025-01-29T09:03:28.037976,keira,Keira,keira,Recently Added,0.00239411,13023.52,DO NOTHING,https://www.coingecko.com/en/coins/keira
+2025-01-29T09:03:33.724242,qai,qAI,qai,Recently Added,0.00065979,38553,DO NOTHING,https://www.coingecko.com/en/coins/qai
+2025-01-29T09:03:39.364841,rough-love-potion,Rough Love Potion,rlp,Recently Added,0.00056172,12762.46,DO NOTHING,https://www.coingecko.com/en/coins/rough-love-potion
+2025-01-29T09:03:44.635259,operating-system,Operating System,opsys,Recently Added,1.71e-06,19596.93,DO NOTHING,https://www.coingecko.com/en/coins/operating-system
+2025-01-29T09:03:50.086074,bridged-tether-bevm,Bridged Tether (BEVM),usdt,Recently Added,0.997369,68884,DO NOTHING,https://www.coingecko.com/en/coins/bridged-tether-bevm
+2025-01-29T09:03:55.968615,cute-asian-girl,Cute Asian Girl,cag,Recently Added,0.00366642,454956,DO NOTHING,https://www.coingecko.com/en/coins/cute-asian-girl
+2025-01-29T09:04:01.408862,dexai,DEXAI,dexai,Recently Added,0.00030774,260152,DO NOTHING,https://www.coingecko.com/en/coins/dexai
+2025-01-29T09:04:06.628660,sports-analyst-ai,Sports Analyst AI,sport,Recently Added,0.03865929,8451.48,DO NOTHING,https://www.coingecko.com/en/coins/sports-analyst-ai
+2025-01-29T09:04:12.778490,xyro,XYRO,xyro,Recently Added,0.03627975,4145908,DO NOTHING,https://www.coingecko.com/en/coins/xyro
+2025-01-29T09:04:18.337328,golden-age-2,Golden Age,golden,Recently Added,0.00024845,183871,DO NOTHING,https://www.coingecko.com/en/coins/golden-age-2
+2025-01-29T09:04:23.657090,fart-of-the-united-states,Fart Of The United States,fotus,Recently Added,3.561e-05,4223.56,DO NOTHING,https://www.coingecko.com/en/coins/fart-of-the-united-states
+2025-01-29T09:04:29.812493,goatindex-ai,GoatIndex.ai,aiai,Recently Added,0.00775726,564039,DO NOTHING,https://www.coingecko.com/en/coins/goatindex-ai
+2025-01-29T09:04:35.371373,lumo-8b-instruct,Lumo-8B-Instruct,lumo,Recently Added,0.01617815,5313851,DO NOTHING,https://www.coingecko.com/en/coins/lumo-8b-instruct
+2025-01-29T09:04:41.015930,jarvis-ai-2,Jarvis AI,jarvis,Recently Added,0.0003415,67419,DO NOTHING,https://www.coingecko.com/en/coins/jarvis-ai-2
+2025-01-29T09:04:46.523494,soulbazaar,SoulBazaar,$souls,Recently Added,0.00207516,156971,DO NOTHING,https://www.coingecko.com/en/coins/soulbazaar
+2025-01-29T09:04:51.924265,fins,FINS,fins,Recently Added,0.00020907,5544.99,DO NOTHING,https://www.coingecko.com/en/coins/fins
+2025-01-29T09:04:57.581541,defi-agents-ai,DeFi Agents AI,defai,Recently Added,0.00291259,23718,DO NOTHING,https://www.coingecko.com/en/coins/defi-agents-ai
+2025-01-29T09:05:03.527121,replicat-one-by-virtuals,Replicat-One by Virtuals,rcat,Recently Added,0.00711741,133970,DO NOTHING,https://www.coingecko.com/en/coins/replicat-one-by-virtuals
+2025-01-29T09:05:09.287977,schrodinger-3,Schrodinger,schrdngr,Recently Added,0.00019027,112838,DO NOTHING,https://www.coingecko.com/en/coins/schrodinger-3
+2025-01-29T09:05:14.790223,degpt,deGPT,degpt,Recently Added,0.00010511,3564.19,DO NOTHING,https://www.coingecko.com/en/coins/degpt
+2025-01-29T09:05:20.356355,zeropai,ZeropAI,zeropai,Recently Added,7.945e-05,121675,DO NOTHING,https://www.coingecko.com/en/coins/zeropai
+2025-01-29T09:05:25.161267,strategic-solana-reserve,Strategic Solana Reserve,ssr,Recently Added,0.00048712,106958,DO NOTHING,https://www.coingecko.com/en/coins/strategic-solana-reserve
+2025-01-29T09:05:30.728659,artela-network,Artela Network,art,Recently Added,0.01775405,220671,DO NOTHING,https://www.coingecko.com/en/coins/artela-network
+2025-01-29T09:05:36.065953,purple,Purple,purple,Recently Added,0.00166788,152602,DO NOTHING,https://www.coingecko.com/en/coins/purple
+2025-01-29T09:05:41.664008,aintivirus-2,AIntivirus,ainti,Recently Added,0.067794,1293986,DO NOTHING,https://www.coingecko.com/en/coins/aintivirus-2
+2025-01-29T09:05:46.841746,creatorbid,CreatorBid,bid,Recently Added,0.112146,2140198,DO NOTHING,https://www.coingecko.com/en/coins/creatorbid
+2025-01-29T09:05:52.391054,melania-wif-hat,Melania Wif Hat,mwh,Recently Added,8.13e-05,7276.21,DO NOTHING,https://www.coingecko.com/en/coins/melania-wif-hat
+2025-01-29T09:05:57.633764,o3,O3,o3,Recently Added,0.097382,4345.14,DO NOTHING,https://www.coingecko.com/en/coins/o3
+2025-01-29T09:06:03.155196,metabrawl,Metabrawl,$brawl,Recently Added,0.00473524,7223.53,DO NOTHING,https://www.coingecko.com/en/coins/metabrawl
+2025-01-29T09:06:08.876585,solbae-ai,SolBae AI,bae,Recently Added,0.00056041,164822,DO NOTHING,https://www.coingecko.com/en/coins/solbae-ai
+2025-01-29T09:06:14.629044,hover-cat,Hover Cat,hcat,Recently Added,0.00201377,10829.37,DO NOTHING,https://www.coingecko.com/en/coins/hover-cat
+2025-01-29T09:06:20.169855,viralmind,ViralMind,viral,Recently Added,0.01178252,1254917,DO NOTHING,https://www.coingecko.com/en/coins/viralmind
+2025-01-29T09:06:25.765353,regent,REGENT,regent,Recently Added,0.01911006,11505068,DO NOTHING,https://www.coingecko.com/en/coins/regent
+2025-01-29T09:06:31.166684,ariacoin,Ariacoin,aria,Recently Added,8.608e-05,200886,DO NOTHING,https://www.coingecko.com/en/coins/ariacoin
+2025-01-29T09:06:36.370291,vine,Vine,vine,Recently Added,0.284815,500378992,DO NOTHING,https://www.coingecko.com/en/coins/vine
+2025-01-29T09:06:42.165448,mobcat,Mobcat,mob,Recently Added,0.0004606,3211.78,DO NOTHING,https://www.coingecko.com/en/coins/mobcat
+2025-01-29T09:06:47.583227,beenz,BEENZ,BEENZ,Recently Added,0.02110431,13862870,DO NOTHING,https://www.coingecko.com/en/coins/beenz
+2025-01-29T09:06:53.112191,virtualdaos,VirtualDaos,daox,Recently Added,0.00086863,121542,DO NOTHING,https://www.coingecko.com/en/coins/virtualdaos
+2025-01-29T09:06:58.335890,money-dogs,Money Dogs,mdogs,Recently Added,1.129e-05,4856100,DO NOTHING,https://www.coingecko.com/en/coins/money-dogs
+2025-01-29T09:07:03.653389,dogeai-2,DOGEai,$dogeai,Recently Added,0.052382,9412463,DO NOTHING,https://www.coingecko.com/en/coins/dogeai-2
+2025-01-29T09:07:08.961744,nitro-2,Nitro,nitro,Recently Added,5.64e-06,533971,DO NOTHING,https://www.coingecko.com/en/coins/nitro-2
+2025-01-29T09:07:14.477738,trumped-ai,trumped.ai,trumped.ai,Recently Added,0.00044727,67321,DO NOTHING,https://www.coingecko.com/en/coins/trumped-ai
+2025-01-29T09:07:20.094678,stargate,Stargate,stargate,Recently Added,0.00083396,1058700,DO NOTHING,https://www.coingecko.com/en/coins/stargate
+2025-01-29T09:07:25.543340,godcoin-2,Godcoin,god,Recently Added,0.071233,85502,DO NOTHING,https://www.coingecko.com/en/coins/godcoin-2
+2025-01-29T09:07:31.379210,heidrun,Heidrun,heidrun,Recently Added,0.00017026,3409.26,DO NOTHING,https://www.coingecko.com/en/coins/heidrun
+2025-01-29T09:07:36.509956,lake,LAKE,lak3,Recently Added,1.18,149471,DO NOTHING,https://www.coingecko.com/en/coins/lake
+2025-01-29T09:07:42.425990,hyperfly,HyperFly,fly,Recently Added,0.01367541,3433173,DO NOTHING,https://www.coingecko.com/en/coins/hyperfly
+2025-01-29T09:07:47.661522,bijiri,BiJiRi,bjr,Recently Added,0.02412732,97991,DO NOTHING,https://www.coingecko.com/en/coins/bijiri
+2025-01-29T09:07:52.351609,j3ff-by-virtuals,J3FF by Virtuals,j3ff,Recently Added,0.00451086,40092,DO NOTHING,https://www.coingecko.com/en/coins/j3ff-by-virtuals
+2025-01-29T09:07:57.962517,aitrump,AITRUMP,aitrump,Recently Added,4.627e-05,2546.82,DO NOTHING,https://www.coingecko.com/en/coins/aitrump
+2025-01-29T09:08:03.190532,santa-by-virtuals,SANTA by Virtuals,santa,Recently Added,0.00184704,22235,DO NOTHING,https://www.coingecko.com/en/coins/santa-by-virtuals
+2025-01-29T09:08:08.761102,ssui,sSUI,ssui,Recently Added,3.85,8980.05,DO NOTHING,https://www.coingecko.com/en/coins/ssui
+2025-01-29T09:08:14.115259,based-bully,BASED BULLY,bully,Recently Added,5.55001e-07,596.37,DO NOTHING,https://www.coingecko.com/en/coins/based-bully
+2025-01-29T09:08:19.856533,daydreams,Daydreams,dreams,Recently Added,0.02284849,3688039,DO NOTHING,https://www.coingecko.com/en/coins/daydreams
+2025-01-29T09:08:24.962668,bunkercoin,BUNKERCOIN,bunker,Recently Added,0.00073393,98065,DO NOTHING,https://www.coingecko.com/en/coins/bunkercoin
+2025-01-29T09:08:30.510812,fatalismftw,Fatalismftw,fatal,Recently Added,1.757e-05,321472,DO NOTHING,https://www.coingecko.com/en/coins/fatalismftw
+2025-01-29T09:08:35.777523,nazareai,NazareAI,nazareai,Recently Added,0.00139134,561798,DO NOTHING,https://www.coingecko.com/en/coins/nazareai
+2025-01-29T09:08:41.242526,cool-mustache,Cool Mustache,$must,Recently Added,1.94e-06,2774.93,DO NOTHING,https://www.coingecko.com/en/coins/cool-mustache
+2025-01-29T09:08:47.267538,waifu-3,WaiFU,waifu,Recently Added,0.00407161,939280,DO NOTHING,https://www.coingecko.com/en/coins/waifu-3
+2025-01-29T09:08:52.789752,istarai-by-virtuals,ISTARAI by Virtuals,istar,Recently Added,0.00040774,20374,DO NOTHING,https://www.coingecko.com/en/coins/istarai-by-virtuals
+2025-01-29T09:08:58.452186,jpow-ai,JPOW AI,jpow,Recently Added,0.00080188,67946,DO NOTHING,https://www.coingecko.com/en/coins/jpow-ai
+2025-01-29T09:09:04.075234,fartboy,Fartboy,$fartboy,Recently Added,0.04031771,2042203,DO NOTHING,https://www.coingecko.com/en/coins/fartboy
+2025-01-29T09:09:09.926368,kuma-world,Kuma World,kuma,Recently Added,4.31377e-07,35252,DO NOTHING,https://www.coingecko.com/en/coins/kuma-world
