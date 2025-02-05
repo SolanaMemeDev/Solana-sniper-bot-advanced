@@ -1,0 +1,36 @@
+Solana Dev's Accumulation Manipulation Strategy Stats 🚀
+
+Start                     2023-01-01 00:00:00
+End                       2023-11-20 19:15:00
+Duration                    323 days 19:15:00
+Exposure Time [%]                     1.62879
+Equity Final [$]                   1034728.19
+Equity Peak [$]                    1048949.58
+Return [%]                           3.472819
+Buy & Hold Return [%]                127.7687
+Return (Ann.) [%]                    3.920792
+Volatility (Ann.) [%]                5.361591
+Sharpe Ratio                         0.731274
+Sortino Ratio                        1.584507
+Calmar Ratio                         1.458875
+Max. Drawdown [%]                   -2.687544
+Avg. Drawdown [%]                   -0.979935
+Max. Drawdown Duration      146 days 05:00:00
+Avg. Drawdown Duration       29 days 19:17:00
+# Trades                                   71
+Win Rate [%]                        32.394366
+Best Trade [%]                       2.189601
+Worst Trade [%]                     -0.836326
+Avg. Trade [%]                       0.051441
+Max. Trade Duration           0 days 16:30:00
+Avg. Trade Duration           0 days 01:32:00
+Profit Factor                        1.283229
+Expectancy [%]                       0.053132
+SQN                                  0.716466
+_strategy                 AccumulationMani...
+_equity_curve                             ...
+_trades                       Size  EntryB...
+dtype: object
+
+Strategy Parameters:
+AccumulationManipulation

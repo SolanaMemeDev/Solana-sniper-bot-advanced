@@ -1,0 +1,46 @@
+Start: 2023-01-01 00:00:00
+End: 2023-11-20 19:15:00
+Duration: 323 days 19:15:00
+Exposure Time [%]: 0.0
+Equity Final [$]: 1000000.0
+Equity Peak [$]: 1000000.0
+Return [%]: 0.0
+Buy & Hold Return [%]: 127.76869955580645
+Return (Ann.) [%]: 0.0
+Volatility (Ann.) [%]: 0.0
+Sharpe Ratio: nan
+Sortino Ratio: nan
+Calmar Ratio: nan
+Max. Drawdown [%]: -0.0
+Avg. Drawdown [%]: nan
+Max. Drawdown Duration: nan
+Avg. Drawdown Duration: nan
+# Trades: 0
+Win Rate [%]: nan
+Best Trade [%]: nan
+Worst Trade [%]: nan
+Avg. Trade [%]: nan
+Max. Trade Duration: nan
+Avg. Trade Duration: nan
+Profit Factor: nan
+Expectancy [%]: nan
+SQN: nan
+_strategy: BollingerBandsStrategy
+_equity_curve:                         Equity  DrawdownPct  DrawdownDuration
+datetime                                                     
+2023-01-01 00:00:00  1000000.0          0.0               NaN
+2023-01-01 00:15:00  1000000.0          0.0               NaN
+2023-01-01 00:30:00  1000000.0          0.0               NaN
+2023-01-01 00:45:00  1000000.0          0.0               NaN
+2023-01-01 01:00:00  1000000.0          0.0               NaN
+...                        ...          ...               ...
+2023-11-20 18:15:00  1000000.0          0.0               NaN
+2023-11-20 18:30:00  1000000.0          0.0               NaN
+2023-11-20 18:45:00  1000000.0          0.0               NaN
+2023-11-20 19:00:00  1000000.0          0.0               NaN
+2023-11-20 19:15:00  1000000.0          0.0               NaN
+
+[31066 rows x 3 columns]
+_trades: Empty DataFrame
+Columns: [Size, EntryBar, ExitBar, EntryPrice, ExitPrice, PnL, ReturnPct, EntryTime, ExitTime, Duration]
+Index: []

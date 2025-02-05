@@ -1,0 +1,37 @@
+🌙✨ Solana Dev's ATR Mean Reversion Strategy Stats 🚀
+
+Start                     2023-01-01 00:00:00
+End                       2023-11-20 19:15:00
+Duration                    323 days 19:15:00
+Exposure Time [%]                         0.0
+Equity Final [$]                    1000000.0
+Equity Peak [$]                     1000000.0
+Return [%]                                0.0
+Buy & Hold Return [%]                127.7687
+Return (Ann.) [%]                         0.0
+Volatility (Ann.) [%]                     0.0
+Sharpe Ratio                              NaN
+Sortino Ratio                             NaN
+Calmar Ratio                              NaN
+Max. Drawdown [%]                        -0.0
+Avg. Drawdown [%]                         NaN
+Max. Drawdown Duration                    NaN
+Avg. Drawdown Duration                    NaN
+# Trades                                    0
+Win Rate [%]                              NaN
+Best Trade [%]                            NaN
+Worst Trade [%]                           NaN
+Avg. Trade [%]                            NaN
+Max. Trade Duration                       NaN
+Avg. Trade Duration                       NaN
+Profit Factor                             NaN
+Expectancy [%]                            NaN
+SQN                                       NaN
+_strategy                    ATRMeanReversion
+_equity_curve                             ...
+_trades                   Empty DataFrame
+...
+dtype: object
+
+Strategy Parameters:
+ATRMeanReversion
