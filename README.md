@@ -230,3 +230,6 @@ The bot has a UI which runs in the terminal, this allows you to run the bot on r
 
 #### version 1.3.1 
 - Refactoring/performance improvements
+
+
+- Updated on: - Wed Feb 05 2025 17:01:39 GMT+0200 (Eastern European Standard Time)
