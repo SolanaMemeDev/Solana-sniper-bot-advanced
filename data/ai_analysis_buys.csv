@@ -1,0 +1,96 @@
+timestamp,token_id,symbol,name,volume_24h,market_cap,agent_one_recommendation,agent_two_recommendation,price,agent_one_analysis,agent_two_analysis,coingecko_url
+2025-01-31T10:53:52.852697,solcard,solc,SolCard,175472.0,0.0,BUY,DO NOTHING,0.03406223,,,https://www.coingecko.com/en/coins/solcard
+2025-01-31T10:53:51.044643,big-jim,BIGJIM,BIG JIM,175041.0,4283262.0,BUY,DO NOTHING,4.29e-06,,,https://www.coingecko.com/en/coins/big-jim
+2025-01-31T10:51:34.168490,gmika,GMIKA,GMika,221339.0,3413092.0,BUY,BUY,0.00345041,,,https://www.coingecko.com/en/coins/gmika
+2025-01-31T10:43:53.735850,wild-goat-coin-2,wgc,Wild Goat Coin,458199.0,2159311.0,BUY,DO NOTHING,0.0004317,,,https://www.coingecko.com/en/coins/wild-goat-coin-2
+2025-01-31T10:36:22.052753,sylvi-agent,sylviai,SYLVI AGENT,1260757.0,2833554.0,BUY,DO NOTHING,0.00281909,,,https://www.coingecko.com/en/coins/sylvi-agent
+2025-01-31T10:34:11.015863,choise,CHO,Choise.ai,1632503.0,2297522.0,BUY,BUY,0.02096778,,,https://www.coingecko.com/en/coins/choise
+2025-01-30T09:57:00.962571,roaland-core,ROA,ROACORE,833793.0,8419609.0,BUY,BUY,0.01799978,,,https://www.coingecko.com/en/coins/roaland-core
+2025-01-30T09:52:11.110653,alpha-3,alpha,Reject Modernity,3305491.0,2925315.0,BUY,DO NOTHING,0.0029254,,,https://www.coingecko.com/en/coins/alpha-3
+2025-01-28T08:27:52.682900,real-world-ai,RWA,Real World AI,1350132.0,5303418.0,BUY,BUY,0.00570261,,,https://www.coingecko.com/en/coins/real-world-ai
+2025-01-27T18:14:04.990803,simsai,simsai,SimsAI,196910.0,4085880.0,BUY,DO NOTHING,0.00408588,,,https://www.coingecko.com/en/coins/simsai
+2025-01-27T13:22:10.861694,gofundmeme,gfm,GoFundMeme,23898356.0,0.0,BUY,BUY,0.0404543,,,https://www.coingecko.com/en/coins/gofundmeme
+2025-01-27T13:19:19.509273,stupidcoin-2,stupid,StupidCoin,167388331.0,0.0,BUY,DO NOTHING,0.03267882,,,https://www.coingecko.com/en/coins/stupidcoin-2
+2025-01-27T13:03:14.984419,aether-collective,AETHER,aether collective,11410085.0,7814488.0,BUY,BUY,0.00793042,,,https://www.coingecko.com/en/coins/aether-collective
+2025-01-12T10:09:21.481034,valleydao,GROW,ValleyDAO,104091.0,7398521.0,DO NOTHING,BUY,1.16,,,https://www.coingecko.com/en/coins/valleydao
+2025-01-12T10:09:19.128648,pepe-trump,ptrump,Pepe Trump,101942.0,2782312.0,BUY,DO NOTHING,0.00273301,,,https://www.coingecko.com/en/coins/pepe-trump
+2025-01-12T10:09:18.669101,fluffington,FLUFFI,Fluffington,104327.0,361944.0,BUY,DO NOTHING,0.00036385,,,https://www.coingecko.com/en/coins/fluffington
+2025-01-12T10:09:05.475937,fuku-2,fuku,Fuku,108816.0,8441141.0,BUY,BUY,0.00859993,,,https://www.coingecko.com/en/coins/fuku-2
+2025-01-12T10:09:03.713694,enkrypto,KRYPT,EnKrypto,105010.0,4536489.0,BUY,DO NOTHING,0.00478693,,,https://www.coingecko.com/en/coins/enkrypto
+2025-01-12T10:09:02.859231,chill-drone,CHONE,Chill Drone,107544.0,1144810.0,BUY,DO NOTHING,0.001149,,,https://www.coingecko.com/en/coins/chill-drone
+2025-01-12T10:08:50.860031,binance-coin-wormhole,BNB,Binance Coin (Wormhole),111047.0,0.0,DO NOTHING,BUY,691.7,,,https://www.coingecko.com/en/coins/binance-coin-wormhole
+2025-01-12T10:08:49.986672,corn-2,CORN,Corn,113951.0,1294273.0,BUY,BUY,0.00129431,,,https://www.coingecko.com/en/coins/corn-2
+2025-01-12T10:08:49.965598,l24ai-agent,L24AI,L24AI AGENT,111323.0,605123.0,BUY,DO NOTHING,0.00064586,,,https://www.coingecko.com/en/coins/l24ai-agent
+2025-01-12T10:08:36.866455,based,BASED,BASED,116735.0,3757321.0,BUY,BUY,0.00379474,,,https://www.coingecko.com/en/coins/based
+2025-01-12T10:08:32.460747,feenix,FEENIX,Feenix,122065.0,5243483.0,BUY,BUY,0.00653216,,,https://www.coingecko.com/en/coins/feenix
+2025-01-12T10:08:32.134335,ruri-truth-terminal-s-crush,RURI,Ruri - Truth Terminal's Crush,121935.0,1208716.0,BUY,DO NOTHING,0.00120872,,,https://www.coingecko.com/en/coins/ruri-truth-terminal-s-crush
+2025-01-12T10:08:20.993616,starship-4,STSHIP,Starship on Solana 🚀,123210.0,0.0,BUY,DO NOTHING,4.97e-06,,,https://www.coingecko.com/en/coins/starship-4
+2025-01-12T10:08:06.250414,pigeon-tech,GOVAI,Pigeon Tech,137432.0,3323580.0,BUY,BUY,0.00332412,,,https://www.coingecko.com/en/coins/pigeon-tech
+2025-01-12T10:07:52.166771,legit,LEGIT,LEGIT,142874.0,2798250.0,BUY,BUY,0.00280861,,,https://www.coingecko.com/en/coins/legit
+2025-01-12T10:07:35.304857,mind-zero,MIND,Mind Zero,149269.0,644696.0,BUY,BUY,0.00064499,,,https://www.coingecko.com/en/coins/mind-zero
+2025-01-12T10:07:07.794355,let-that-sink-in,SINK,Let that sink in,168047.0,310138.0,BUY,DO NOTHING,0.00038705,,,https://www.coingecko.com/en/coins/let-that-sink-in
+2025-01-12T10:07:07.649588,coine,COINE,COINE,162573.0,288705.0,BUY,BUY,0.00028874,,,https://www.coingecko.com/en/coins/coine
+2025-01-12T10:07:06.608909,keep-gambling,GAMBLE,Keep Gambling,172690.0,926147.0,BUY,DO NOTHING,0.00092652,,,https://www.coingecko.com/en/coins/keep-gambling
+2025-01-12T10:06:53.867263,darksun,BINARY,darksun,187865.0,1655270.0,BUY,BUY,0.00165009,,,https://www.coingecko.com/en/coins/darksun
+2025-01-12T10:06:40.148688,kitten-wif-hat,KWIF,Kitten Wif Hat,202552.0,214856.0,BUY,DO NOTHING,0.00021569,,,https://www.coingecko.com/en/coins/kitten-wif-hat
+2025-01-12T10:06:38.572641,skainet,SKAI,SKAINET,200960.0,4512465.0,DO NOTHING,BUY,0.00451416,,,https://www.coingecko.com/en/coins/skainet
+2025-01-12T10:06:37.423928,new-born-rhino,LAKKHI,New Born Rhino,195053.0,1377777.0,BUY,BUY,0.0013769,,,https://www.coingecko.com/en/coins/new-born-rhino
+2025-01-12T10:06:22.871067,roflcopter,$ROFL,ROFLcopter,207669.0,1768426.0,BUY,DO NOTHING,0.00305611,,,https://www.coingecko.com/en/coins/roflcopter
+2025-01-12T10:06:21.637012,media-network,MEDIA,Media Network,215956.0,3886684.0,DO NOTHING,BUY,15.55,,,https://www.coingecko.com/en/coins/media-network
+2025-01-12T10:06:10.901002,cyphomancer,42,Cyphomancer,233473.0,1771557.0,BUY,BUY,0.00189352,,,https://www.coingecko.com/en/coins/cyphomancer
+2025-01-12T10:06:09.640719,adillo,ADILLO,Adillo,237759.0,2038365.0,BUY,DO NOTHING,0.00205577,,,https://www.coingecko.com/en/coins/adillo
+2025-01-12T10:06:08.721991,gmika,GMIKA,GMika,221339.0,3413092.0,BUY,BUY,0.00345041,,,https://www.coingecko.com/en/coins/gmika
+2025-01-12T10:05:55.919155,the-vault-staked-sol,VSOL,The Vault Staked SOL,240608.0,0.0,DO NOTHING,BUY,196.98,,,https://www.coingecko.com/en/coins/the-vault-staked-sol
+2025-01-12T10:05:40.791043,hop-cat,HOP,hop cat,263575.0,3138780.0,BUY,BUY,0.00313911,,,https://www.coingecko.com/en/coins/hop-cat
+2025-01-12T10:05:39.859212,alphakek-ai,AIKEK,AlphaKEK.AI,251434.0,9821761.0,BUY,BUY,0.04100216,,,https://www.coingecko.com/en/coins/alphakek-ai
+2025-01-12T10:05:37.415999,first-reply,SIRIUS,first reply,262299.0,2354765.0,BUY,BUY,0.00244035,,,https://www.coingecko.com/en/coins/first-reply
+2025-01-12T10:05:25.603549,agents-ai,AGENT,Agents AI,280779.0,7936543.0,BUY,DO NOTHING,0.00813382,,,https://www.coingecko.com/en/coins/agents-ai
+2025-01-12T10:05:24.855528,dojo-protocol,DOAI,Dojo Protocol,273508.0,1743963.0,BUY,BUY,0.00387656,,,https://www.coingecko.com/en/coins/dojo-protocol
+2025-01-12T10:05:22.753737,naval-ai,NAVAL,Patchwork Naval,281299.0,3716480.0,BUY,BUY,0.00384264,,,https://www.coingecko.com/en/coins/naval-ai
+2025-01-12T10:05:10.002582,playzap,PZP,PlayZap,319713.0,4521866.0,BUY,BUY,0.054615,,,https://www.coingecko.com/en/coins/playzap
+2025-01-12T10:04:56.796670,red-genesis,$R3D,Red Genesis,330116.0,4093588.0,BUY,BUY,0.00415892,,,https://www.coingecko.com/en/coins/red-genesis
+2025-01-12T10:04:54.211395,kira-3,KIRA,KIRA,351778.0,7570204.0,BUY,DO NOTHING,0.00757366,,,https://www.coingecko.com/en/coins/kira-3
+2025-01-12T10:04:54.016153,fomo-radio-ai,RADIO,FOMO RADIO AI,351625.0,4310568.0,BUY,BUY,0.00424494,,,https://www.coingecko.com/en/coins/fomo-radio-ai
+2025-01-12T10:04:38.658529,paperclip-ai,PAPERCLIPS,Paperclip AI,378951.0,2467540.0,BUY,BUY,0.0029031,,,https://www.coingecko.com/en/coins/paperclip-ai
+2025-01-12T10:04:38.318699,exodas,EXO,EXODAS,381628.0,6993118.0,BUY,BUY,0.00699313,,,https://www.coingecko.com/en/coins/exodas
+2025-01-12T10:04:26.653192,vibe-cat-2,VIBE,Vibe Cat,410910.0,7518800.0,BUY,BUY,0.00799647,,,https://www.coingecko.com/en/coins/vibe-cat-2
+2025-01-12T10:04:24.981438,prism,PRISM,Prism,394776.0,6330418.0,BUY,BUY,0.00344996,,,https://www.coingecko.com/en/coins/prism
+2025-01-12T10:04:24.753846,convo,CONVO,Convo,397788.0,3518435.0,BUY,DO NOTHING,0.00352217,,,https://www.coingecko.com/en/coins/convo
+2025-01-12T10:04:24.553996,goofy-2,GOOFY,GOOFY,425697.0,2485233.0,DO NOTHING,BUY,0.00354459,,,https://www.coingecko.com/en/coins/goofy-2
+2025-01-12T10:04:12.297953,morud,MORUD,Morud,434953.0,604372.0,BUY,DO NOTHING,0.00060476,,,https://www.coingecko.com/en/coins/morud
+2025-01-12T10:03:33.273086,lea-ai,LEA,LEA AI,456566.0,4881634.0,BUY,DO NOTHING,0.00482485,,,https://www.coingecko.com/en/coins/lea-ai
+2025-01-12T10:03:17.810329,cove-quant,COVE,Cove Quant,513698.0,1292163.0,BUY,DO NOTHING,0.00129224,,,https://www.coingecko.com/en/coins/cove-quant
+2025-01-12T10:02:55.813679,forest,FOREST,FOREST,569736.0,7599167.0,DO NOTHING,BUY,0.00759931,,,https://www.coingecko.com/en/coins/forest
+2025-01-12T10:02:19.384773,pillzumi,PILLZUMI,Pillzumi,634260.0,7445736.0,BUY,BUY,0.00744859,,,https://www.coingecko.com/en/coins/pillzumi
+2025-01-12T10:02:08.308375,nora,NORA,NORA,687456.0,2889575.0,BUY,BUY,0.0028898,,,https://www.coingecko.com/en/coins/nora
+2025-01-12T10:01:55.395922,catwifbag,BAG,catwifbag,701552.0,2209870.0,BUY,BUY,0.00222165,,,https://www.coingecko.com/en/coins/catwifbag
+2025-01-12T10:01:54.493418,sheerluck-ai,SHEERLUCK,Sheerluck AI,724364.0,1296559.0,BUY,BUY,0.00129656,,,https://www.coingecko.com/en/coins/sheerluck-ai
+2025-01-12T10:01:54.325166,slop,SLOP,Slop,744672.0,812111.0,BUY,DO NOTHING,0.00082071,,,https://www.coingecko.com/en/coins/slop
+2025-01-12T10:01:45.114790,druid-ai,DRU,Druid AI,772606.0,3027281.0,BUY,BUY,0.00302728,,,https://www.coingecko.com/en/coins/druid-ai
+2025-01-12T10:01:43.321877,voyager-ai,VOYAGE,Voyager AI,758032.0,2713670.0,BUY,BUY,0.002951,,,https://www.coingecko.com/en/coins/voyager-ai
+2025-01-12T10:01:42.539685,anti-rug-agent,ANTIRUG,Anti Rug Agent,794589.0,2822221.0,BUY,BUY,0.00282274,,,https://www.coingecko.com/en/coins/anti-rug-agent
+2025-01-12T10:01:32.079134,cas9,CRISPR,Cas9,809608.0,7030015.0,BUY,BUY,0.00703003,,,https://www.coingecko.com/en/coins/cas9
+2025-01-12T10:01:31.744053,x-community,X,X Community,817533.0,9037368.0,DO NOTHING,BUY,0.00905649,,,https://www.coingecko.com/en/coins/x-community
+2025-01-12T10:01:19.260434,all-will-retire,AWR,All Will Retire,876208.0,727997.0,BUY,DO NOTHING,0.00075395,,,https://www.coingecko.com/en/coins/all-will-retire
+2025-01-12T10:01:06.436507,pingu-land,PINGU,Pingu.Land,894296.0,1070670.0,DO NOTHING,BUY,0.00108278,,,https://www.coingecko.com/en/coins/pingu-land
+2025-01-12T10:00:31.008674,yousim,YOUSIM,YouSim,1122706.0,7976629.0,BUY,BUY,0.00797902,,,https://www.coingecko.com/en/coins/yousim
+2025-01-12T09:56:36.454164,jam-cat,JAM,jam cat,1219594.0,349213.0,BUY,DO NOTHING,0.00034937,,,https://www.coingecko.com/en/coins/jam-cat
+2025-01-12T09:55:12.356852,sandy-codex,SANDY,Sandy Codex,1272506.0,9814190.0,BUY,BUY,0.01179947,,,https://www.coingecko.com/en/coins/sandy-codex
+2025-01-12T09:53:33.725181,mustaaaaaard,MUSTARD,MUSTAAAAAARD,1317953.0,788457.0,BUY,DO NOTHING,0.00078938,,,https://www.coingecko.com/en/coins/mustaaaaaard
+2025-01-12T09:53:22.162771,pixocracy,PIX,Pixocracy,1346729.0,6541272.0,BUY,DO NOTHING,0.00654159,,,https://www.coingecko.com/en/coins/pixocracy
+2025-01-12T09:53:08.653860,real-world-ai,RWA,Real World AI,1350132.0,5303418.0,BUY,BUY,0.00570261,,,https://www.coingecko.com/en/coins/real-world-ai
+2025-01-12T09:52:43.692749,slopfather,FATHA,Slopfather,1366771.0,7884855.0,BUY,DO NOTHING,0.00791712,,,https://www.coingecko.com/en/coins/slopfather
+2025-01-12T09:49:01.082488,blackrack,RACKS,BlackRack,1590947.0,4559926.0,BUY,DO NOTHING,0.00455995,,,https://www.coingecko.com/en/coins/blackrack
+2025-01-12T09:48:36.939458,lapapuy,LPP,Lampapuy,1619112.0,121655.0,BUY,BUY,0.00024331,,,https://www.coingecko.com/en/coins/lapapuy
+2025-01-12T09:48:23.526045,choise,CHO,Choise.ai,1632503.0,2297522.0,BUY,BUY,0.02096778,,,https://www.coingecko.com/en/coins/choise
+2025-01-12T09:45:42.655405,trenchai,TRENCHAI,TrenchAI,1782655.0,9160685.0,DO NOTHING,BUY,0.00924522,,,https://www.coingecko.com/en/coins/trenchai
+2025-01-12T09:43:45.650490,kando-ai,KANDO,KANDO AI,1928713.0,3805323.0,DO NOTHING,BUY,0.00031685,,,https://www.coingecko.com/en/coins/kando-ai
+2025-01-12T09:43:09.860086,hive-2,HIVE,HIVE,1964658.0,9332129.0,BUY,DO NOTHING,0.00952399,,,https://www.coingecko.com/en/coins/hive-2
+2025-01-12T09:41:19.511248,storagent,STORAGENT,STORAGENT,2135509.0,1628336.0,BUY,BUY,0.00162836,,,https://www.coingecko.com/en/coins/storagent
+2025-01-12T09:39:15.545472,kekius-maximus-4,KM,Kekius Maximus,2436758.0,9684158.0,BUY,DO NOTHING,0.0096892,,,https://www.coingecko.com/en/coins/kekius-maximus-4
+2025-01-12T09:37:34.921757,tensorium,TNSR,Tensorium,2611614.0,9419923.0,BUY,BUY,0.00930106,,,https://www.coingecko.com/en/coins/tensorium
+2025-01-12T09:37:20.850121,1-squirrel,PEANUT,OG Peanut,2641023.0,3210331.0,BUY,BUY,0.00321174,,,https://www.coingecko.com/en/coins/1-squirrel
+2025-01-12T09:34:18.053214,orbitt-pro,ORBT,Orbitt Token,3227506.0,6428849.0,DO NOTHING,BUY,0.430327,,,https://www.coingecko.com/en/coins/orbitt-pro
+2025-01-12T09:26:14.184358,quain,QUAIN,QUAIN,5389690.0,3952575.0,BUY,DO NOTHING,0.00395284,,,https://www.coingecko.com/en/coins/quain
+2025-01-12T09:20:44.148955,wrapped-btc-wormhole,WBTC,Wrapped BTC (Wormhole),8958980.0,0.0,DO NOTHING,BUY,94123.0,,,https://www.coingecko.com/en/coins/wrapped-btc-wormhole
+2025-01-12T09:15:47.396535,flashwash,FLSH,FlashWash,13995868.0,1355662.0,BUY,BUY,0.00178184,,,https://www.coingecko.com/en/coins/flashwash
