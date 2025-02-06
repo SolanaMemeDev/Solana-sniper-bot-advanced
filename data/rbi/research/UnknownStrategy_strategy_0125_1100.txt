@@ -1,0 +1,51 @@
+### Strategy Instructions for Backtesting
+
+#### 1. **Key Strategy Components**
+   - **Trend Identification**: Use a combination of moving averages to identify the overall market trend.
+   - **Momentum Confirmation**: Utilize the Relative Strength Index (RSI) to confirm momentum in the direction of the trend.
+   - **Entry Signals**: Look for specific candlestick patterns or price action signals that align with the trend and momentum.
+   - **Exit Signals**: Use trailing stops or predefined profit targets to exit trades.
+
+#### 2. **Entry Rules**
+   - **Trend Confirmation**: 
+     - Use a 50-period Simple Moving Average (SMA) and a 200-period SMA.
+     - Enter a long position if the 50 SMA is above the 200 SMA (bullish trend).
+     - Enter a short position if the 50 SMA is below the 200 SMA (bearish trend).
+   - **Momentum Confirmation**:
+     - Use a 14-period RSI.
+     - For a long position, ensure the RSI is above 50 (bullish momentum).
+     - For a short position, ensure the RSI is below 50 (bearish momentum).
+   - **Price Action Signal**:
+     - Look for a bullish engulfing pattern for long entries.
+     - Look for a bearish engulfing pattern for short entries.
+
+#### 3. **Exit Rules**
+   - **Profit Target**: Set a fixed profit target at 2 times the Average True Range (ATR) of the last 14 periods.
+   - **Trailing Stop**: Use a trailing stop set at 1.5 times the ATR of the last 14 periods.
+   - **Stop Loss**: Place a stop loss at 1 times the ATR of the last 14 periods from the entry point.
+
+#### 4. **Risk Management**
+   - **Position Sizing**: Risk no more than 1% of the total account balance on any single trade.
+   - **Risk-Reward Ratio**: Aim for a minimum risk-reward ratio of 1:2.
+   - **Maximum Drawdown**: Set a maximum drawdown limit of 5% of the account balance.
+
+#### 5. **Required Indicators**
+   - **Simple Moving Averages (SMA)**: 50-period and 200-period.
+   - **Relative Strength Index (RSI)**: 14-period.
+   - **Average True Range (ATR)**: 14-period.
+
+#### 6. **Backtesting Parameters**
+   - **Timeframe**: Daily charts.
+   - **Data Range**: Use at least 5 years of historical data.
+   - **Asset**: Apply the strategy to a diversified portfolio of assets (e.g., stocks, forex, commodities).
+   - **Slippage and Commission**: Account for 0.1% slippage and $5 commission per trade.
+
+#### 7. **Performance Metrics to Track**
+   - **Win Rate**: Percentage of winning trades.
+   - **Average Profit per Trade**: Average profit of winning trades.
+   - **Average Loss per Trade**: Average loss of losing trades.
+   - **Maximum Drawdown**: Largest peak-to-trough decline in the account balance.
+   - **Sharpe Ratio**: Measure of risk-adjusted return.
+   - **Sortino Ratio**: Measure of downside risk-adjusted return.
+
+These instructions should provide a clear framework for backtesting the strategy.

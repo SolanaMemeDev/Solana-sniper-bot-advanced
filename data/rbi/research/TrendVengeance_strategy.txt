@@ -1,0 +1,108 @@
+STRATEGY_NAME: TrendVengeance
+
+STRATEGY_DETAILS:
+The TrendVengeance strategy is a robust trend-following approach designed to capitalize on strong, sustained market trends while minimizing losses during choppy or sideways markets. This strategy emphasizes trailing stops and risk management to allow trades to run for maximum profit potential, even if it means enduring frequent small losses. Here’s a detailed breakdown of the strategy:
+
+---
+
+### **Key Strategy Components**
+1. **True Trend Following (TTF) Philosophy**:
+   - Focuses on identifying and riding strong, healthy trends.
+   - Avoids predicting market movements; instead, reacts to price action and market structure.
+   - Relies on both technical and fundamental analysis to identify high-probability trending environments.
+
+2. **Market Environment**:
+   - Works best in trending markets (strong uptrends or downtrends).
+   - Avoids choppy or sideways markets where trends are absent.
+
+3. **Trailing Stops with a Vengeance**:
+   - Uses trailing stops to lock in profits as the trend progresses.
+   - No fixed take-profit levels; instead, the strategy lets winners run until the trend reverses.
+
+4. **Risk Management**:
+   - Small, consistent risk per trade (e.g., 1% of account balance).
+   - High risk-to-reward potential (e.g., 15:1 or more on winning trades).
+   - Accepts a low win rate (e.g., 43% winners, 57% losers) but compensates with large gains on successful trades.
+
+---
+
+### **Entry Rules**
+1. **Identify a Strong Trend**:
+   - Use higher timeframes (e.g., daily or 4-hour charts) to confirm the overall trend direction.
+   - Look for markets with clear higher highs and higher lows (uptrend) or lower highs and lower lows (downtrend).
+
+2. **Wait for a Pullback**:
+   - Enter trades during retracements or pullbacks within the trend.
+   - Look for price to retest key support (in an uptrend) or resistance (in a downtrend) levels.
+
+3. **Entry Trigger**:
+   - Enter long when price bounces off support in an uptrend.
+   - Enter short when price rejects resistance in a downtrend.
+   - Use candlestick patterns or momentum indicators (e.g., RSI, MACD) to confirm the entry.
+
+---
+
+### **Exit Rules**
+1. **Trailing Stop-Loss**:
+   - Initially place a tight stop-loss below the recent swing low (for longs) or above the recent swing high (for shorts).
+   - As the trend progresses, move the stop-loss to just below the most recent support (for longs) or above the most recent resistance (for shorts).
+
+2. **No Take-Profit Levels**:
+   - Let the trade run until the trailing stop is hit.
+   - Avoid closing trades prematurely, even if price reaches resistance (in an uptrend) or support (in a downtrend).
+
+3. **Trend Reversal Signal**:
+   - Exit the trade if price breaks below key support (in an uptrend) or above key resistance (in a downtrend).
+
+---
+
+### **Risk Management**
+1. **Position Sizing**:
+   - Risk a small percentage of the account balance per trade (e.g., 1-2%).
+   - Adjust position size based on the distance to the stop-loss level.
+
+2. **Acceptance of Losses**:
+   - Understand that losing trades are part of the strategy.
+   - Focus on the long-term profitability of the strategy, not individual trade outcomes.
+
+3. **Psychological Discipline**:
+   - Avoid emotional decision-making (e.g., cutting winners short or holding onto losers).
+   - Stick to the trailing stop rules, even if it means being stopped out frequently.
+
+---
+
+### **Required Indicators**
+1. **Price Action**:
+   - Use candlestick patterns and market structure (support/resistance, swing highs/lows) to identify trends and pullbacks.
+
+2. **Momentum Indicators (Optional)**:
+   - RSI (Relative Strength Index) to confirm overbought/oversold conditions during pullbacks.
+   - MACD (Moving Average Convergence Divergence) to confirm trend direction and momentum.
+
+3. **Higher Timeframe Analysis**:
+   - Use daily or 4-hour charts to confirm the overall trend before trading on lower timeframes.
+
+---
+
+### **Example Trade Setup**
+1. **Uptrend Example**:
+   - Identify an uptrend on the daily chart (higher highs and higher lows).
+   - Wait for a pullback to a key support level on the 4-hour chart.
+   - Enter long when price bounces off support with a bullish candlestick pattern.
+   - Place a stop-loss below the recent swing low.
+   - Trail the stop-loss as price makes new highs.
+
+2. **Downtrend Example**:
+   - Identify a downtrend on the daily chart (lower highs and lower lows).
+   - Wait for a pullback to a key resistance level on the 4-hour chart.
+   - Enter short when price rejects resistance with a bearish candlestick pattern.
+   - Place a stop-loss above the recent swing high.
+   - Trail the stop-loss as price makes new lows.
+
+---
+
+### **Key Takeaways**
+- The TrendVengeance strategy is simple in concept but requires strong psychological discipline to execute effectively.
+- It thrives in trending markets but struggles in choppy or sideways conditions.
+- The strategy’s edge comes from letting winners run while cutting losses quickly, resulting in occasional large gains that outweigh frequent small losses.
+- Success depends on strict adherence to trailing stop rules and risk management principles.

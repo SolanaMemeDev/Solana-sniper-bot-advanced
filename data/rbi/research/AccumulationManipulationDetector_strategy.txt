@@ -1,0 +1,30 @@
+STRATEGY_NAME: AccumulationManipulationDetector
+
+STRATEGY_DETAILS:
+
+The AccumulationManipulationDetector strategy focuses on identifying specific patterns in the market to predict price movements and capitalize on them. The strategy is based on the idea that price tends to consolidate (accumulation) before making a big move in the opposite direction (manipulation and distribution).
+
+Key strategy components:
+1. Market bias detection: Identify the market bias by analyzing the higher time frames (e.g., 1H) for trends. Uptrends are characterized by higher highs and higher lows, while downtrends have lower highs and lower lows.
+2. Time frame selection: Trade within the 10:00 a.m. to 11:30 a.m. Eastern Standard Time window (30 minutes after the market open) on the 5-minute time frame.
+3. Accumulation and manipulation: Look for sideways movement or accumulation followed by a manipulation in the desired direction based on the market bias.
+
+Entry rules:
+1. After identifying accumulation and manipulation, find a fair value gap for entry. A fair value gap is a large price jump with a gap between the candle before the big move and the candle after the big move.
+2. Set the entry point at the fair value gap.
+3. For a bullish bias, wait for price to come back down to the gap and set the stop loss below the low. Set the take profit at the high.
+
+Exit rules:
+1. Utilize Fibonacci retracement levels for a better take-profit area. Change the values to 1, 0.79, 0.62, 0, -1, -2, -2.5, and -4, with -2 and -2.5 in red.
+2. After entering the trade, look for the red zone in the Fibonacci retracement levels as the primary target for taking profits. Ideally, this red zone should align with other confluences, such as buy-side liquidity.
+
+Risk management:
+1. Set a proper stop loss below the low of the manipulation move.
+2. Utilize the Fibonacci retracement levels for a more precise take-profit target.
+
+Required indicators:
+1. 1H time frame for market bias detection.
+2. 5-minute time frame for trading.
+3. Fibonacci retracement tool for identifying take-profit levels.
+
+This strategy has been backtested for 20 trading days with a starting balance of $100,000 and resulted in a 44.4% profit with a win rate of 66.67%. It is essential to test the strategy on your own and adjust it according to your risk tolerance and preferences.

@@ -1,0 +1,44 @@
+STRATEGY_NAME: TrendFollower
+
+STRATEGY_DETAILS:
+This strategy is a trend-following approach that uses moving averages and price action to identify and trade with the prevailing trend. The key components, entry/exit rules, risk management, and required indicators are as follows:
+
+### Key Strategy Components:
+1. **Trend Identification**: The strategy uses moving averages to determine the overall trend direction. A combination of short-term and long-term moving averages helps identify whether the market is in an uptrend, downtrend, or ranging.
+2. **Price Action Confirmation**: Entry signals are confirmed using price action, such as breakouts or pullbacks, to ensure alignment with the identified trend.
+3. **Risk-Reward Optimization**: The strategy emphasizes favorable risk-reward ratios by setting stop-loss and take-profit levels based on recent price structure.
+
+### Entry Rules:
+1. **Uptrend Entry**:
+   - The short-term moving average (e.g., 20-period) must be above the long-term moving average (e.g., 50-period).
+   - Wait for a pullback to the short-term moving average or a breakout above a recent high.
+   - Enter a long position when the price confirms the trend continuation with a bullish candle or breakout.
+
+2. **Downtrend Entry**:
+   - The short-term moving average must be below the long-term moving average.
+   - Wait for a pullback to the short-term moving average or a breakout below a recent low.
+   - Enter a short position when the price confirms the trend continuation with a bearish candle or breakout.
+
+### Exit Rules:
+1. **Take-Profit**:
+   - Set a take-profit level at a predefined risk-reward ratio (e.g., 2:1 or 3:1) based on the distance between the entry point and the stop-loss level.
+   - Alternatively, exit when the price reaches a significant resistance (in an uptrend) or support (in a downtrend) level.
+
+2. **Stop-Loss**:
+   - Place a stop-loss below the recent swing low (for long positions) or above the recent swing high (for short positions).
+   - Ensure the stop-loss is outside the noise of the market to avoid premature exits.
+
+### Risk Management:
+1. **Position Sizing**: Risk only a small percentage of the trading capital per trade (e.g., 1-2%).
+2. **Stop-Loss Placement**: Always use a stop-loss to limit potential losses.
+3. **Avoid Overtrading**: Only take trades that align with the trend and have clear confirmation signals.
+
+### Required Indicators:
+1. **Moving Averages**:
+   - Short-term moving average (e.g., 20-period SMA or EMA).
+   - Long-term moving average (e.g., 50-period SMA or EMA).
+2. **Price Action Tools**:
+   - Support and resistance levels.
+   - Candlestick patterns for confirmation.
+
+This strategy is designed to capitalize on sustained trends while minimizing risk through disciplined entry and exit rules. It is suitable for traders who prefer a systematic approach to trend-following.

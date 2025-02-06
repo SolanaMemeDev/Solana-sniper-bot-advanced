@@ -1,0 +1,36 @@
+STRATEGY_NAME: TimeframeTrendAnalyzer
+
+STRATEGY_DETAILS:
+
+This strategy focuses on understanding different market structures in various time frames to identify potential entry points in trends. It uses a simple approach of higher highs and higher lows for uptrends and lower highs and lower lows for downtrends.
+
+Key strategy components:
+1. Identifying market structures in different time frames.
+2. Analyzing trends based on higher highs and higher lows (for uptrends) and lower highs and lower lows (for downtrends).
+3. Using a bottom-up approach, starting from the weekly time frame and moving down to the 15-minute time frame.
+
+Entry rules:
+1. Start with the weekly time frame and identify the overall market structure.
+2. If the weekly time frame is bullish, move down to the daily time frame and look for a similar trend.
+3. If the daily trend is also bullish, look for a potential entry on the four-hour time frame.
+4. Identify a clear trend on the four-hour time frame (uptrend or downtrend).
+5. If there is no clear trend on the four-hour time frame, move down to the one-hour time frame and wait for a trend to break in one direction.
+6. Set an order for a potential short trade if the trend breaks downwards or a long trade if the trend breaks upwards.
+7. Wait for an alert when the trend breaks on the 50-minute time frame.
+8. Enter the position on the 50-minute time frame when the trend breaks.
+
+Exit rules:
+1. Set a stop loss above the previous high for a short trade or below the previous low for a long trade.
+2. Set a take profit above the previous low for a short trade or below the previous high for a long trade.
+3. Aim for a risk-reward ratio of 1:2 or more.
+
+Risk management:
+1. Understand the overall market structure and set realistic targets.
+2. Set a stop loss to minimize potential losses.
+3. Set a take profit to secure potential profits.
+4. Maintain a positive risk-reward ratio for long-term profitability.
+
+Required indicators:
+1. None (this strategy is based on price action and trend analysis without using any indicators).
+
+This strategy, named TimeframeTrendAnalyzer, focuses on understanding and analyzing market structures in various time frames to identify potential entry points in trends. It uses a bottom-up approach, starting from the weekly time frame and moving down to the 15-minute time frame, ensuring that the overall market structure is bullish before entering a position. By following these steps, traders can avoid making mistakes and maintain a simple, reliable, and profitable strategy for crypto trading.

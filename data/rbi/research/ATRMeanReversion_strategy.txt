@@ -1,0 +1,30 @@
+STRATEGY_NAME: ATR MeanReversion
+
+STRATEGY_DETAILS:
+
+This strategy focuses on mean reversion using Kelter Channels and Average True Range (ATR) to identify overextended instruments and manage position sizing. Mean reversion is a natural part of the market where large moves in price tend to reverse towards an average price. The strategy aims to trade instruments with an imbalance, either in momentum or mean reversion tendency, rather than trading during equilibrium.
+
+KEY STRATEGY COMPONENTS:
+1. Mean reversion: Trading against the trend when the market is overextended.
+2. Kelter Channels: Identifying overextended instruments based on standard deviation from an average price.
+3. ATR: Managing position sizing and risk.
+
+ENTRY RULES:
+1. Identify an instrument with a significant momentum move.
+2. Wait for price to poke outside the upper or lower Kelter channel.
+3. Look for a reversal candlestick pattern (e.g., bullish engulfing or bearish engulfing).
+4. Place a sell stop order below the reversal candle for short trades or a buy stop order above the reversal candle for long trades.
+
+EXIT RULES:
+1. Set a protective stop loss beyond the high of the reversal candle (for short trades) or the low of the reversal candle (for long trades).
+2. Close the position when price moves in the desired direction (trend) and breaks the high or low of the reversal candle.
+
+RISK MANAGEMENT:
+1. Use half of your normal position size for these trades, as there might be another poke above or below the channel due to different time frames reacting to the event.
+2. Expect the first position to be a loss, but be prepared to profit from subsequent positions if the setup presents again.
+
+REQUIRED INDICATORS:
+1. Kelter Channels (20-period, multiplier of 2.5)
+2. Average True Range (ATR)
+
+This strategy combines mean reversion with specific entry, exit, and risk management rules using Kelter Channels and ATR. The unique aspect of this strategy is its use of ATR for position sizing and risk management, making it an ATR MeanReversion strategy.

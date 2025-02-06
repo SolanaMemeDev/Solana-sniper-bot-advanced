@@ -1,0 +1,28 @@
+STRATEGY_NAME: Structural Demand Reversal
+
+STRATEGY_DETAILS:
+
+This strategy focuses on identifying the overall market structure and trading in the direction of the prevailing trend using demand and supply zones. The key components are:
+
+1. Market Structure Analysis:
+   - Determine if the market is in an uptrend (higher highs and higher lows) or a downtrend (lower lows and lower highs).
+   - Only take trades in the direction of the established trend. Do not try to "fade" or trade against the trend.
+   - The market must break the previous valid low/high to confirm a trend reversal.
+
+2. Demand and Supply Zones:
+   - In an uptrend, identify areas of demand (consolidation before an impulsive move higher).
+   - In a downtrend, identify areas of supply (consolidation before an impulsive move lower).
+   - Mark the demand/supply zones using a rectangle tool, covering the low to high of the candle prior to the impulsive move.
+   - Only look to enter long trades in demand zones during an uptrend, and short trades in supply zones during a downtrend.
+
+3. Risk Management:
+   - Implement a strict risk-to-reward ratio of at least 1:2.5 or higher.
+   - Place stop losses just below the demand zone (for longs) or just above the supply zone (for shorts).
+   - Set take-profit targets at recent swing highs (for longs) or recent swing lows (for shorts).
+
+Key Requirements:
+- Price action analysis to determine market structure and identify valid support/resistance levels.
+- Drawing tools to accurately mark demand and supply zones.
+- Discipline to only trade in the direction of the established trend and maintain a favorable risk-to-reward ratio.
+
+This strategy aims to capitalize on the market's natural supply and demand dynamics while respecting the overall trend direction. The combination of trend identification, zone recognition, and risk management creates a robust and profitable trading approach.

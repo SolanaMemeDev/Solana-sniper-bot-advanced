@@ -1,0 +1,81 @@
+STRATEGY_NAME: AdaptiveTrendline
+
+STRATEGY_DETAILS:
+The AdaptiveTrendline strategy is a dynamic trend-following approach that utilizes trendlines and moving averages to identify and capitalize on strong market trends. The strategy focuses on drawing trendlines on higher timeframes (e.g., 1-hour or 4-hour charts) and uses moving averages to confirm the trend direction. Here's a detailed breakdown of the strategy:
+
+---
+
+### **Key Strategy Components**
+1. **Trendline Analysis**:
+   - Draw trendlines on higher timeframes to identify key support and resistance levels.
+   - Use trendline breaks as potential entry signals.
+
+2. **Moving Averages**:
+   - Use a combination of two moving averages (e.g., 50-period and 200-period) to confirm the trend direction.
+   - The 50-period MA acts as a short-term trend indicator, while the 200-period MA confirms the long-term trend.
+
+3. **Higher Timeframe Confirmation**:
+   - Always align trades with the higher timeframe trend to ensure consistency and reduce false signals.
+
+4. **Price Action**:
+   - Look for price action signals (e.g., candlestick patterns) near trendlines or moving averages to confirm entries.
+
+---
+
+### **Entry Rules**
+1. **Trendline Breakout**:
+   - Enter a long position when the price breaks above a downtrend line with confirmation from the moving averages (50 MA > 200 MA).
+   - Enter a short position when the price breaks below an uptrend line with confirmation from the moving averages (50 MA < 200 MA).
+
+2. **Pullback to Moving Averages**:
+   - Enter a long position when the price pulls back to the 50 MA in an uptrend (50 MA > 200 MA) and shows bullish price action.
+   - Enter a short position when the price pulls back to the 50 MA in a downtrend (50 MA < 200 MA) and shows bearish price action.
+
+3. **Higher Timeframe Alignment**:
+   - Ensure the trade aligns with the higher timeframe trend (e.g., 4-hour or daily chart).
+
+---
+
+### **Exit Rules**
+1. **Trendline Break**:
+   - Exit a long position if the price breaks below a newly formed uptrend line.
+   - Exit a short position if the price breaks above a newly formed downtrend line.
+
+2. **Moving Average Cross**:
+   - Exit a long position if the 50 MA crosses below the 200 MA.
+   - Exit a short position if the 50 MA crosses above the 200 MA.
+
+3. **Target Levels**:
+   - Use previous swing highs or lows as profit targets.
+   - Alternatively, use a risk-reward ratio (e.g., 2:1 or 3:1) based on the stop-loss distance.
+
+---
+
+### **Risk Management**
+1. **Stop-Loss Placement**:
+   - Place stop-loss orders below the recent swing low for long positions or above the recent swing high for short positions.
+   - Alternatively, use the opposite side of the trendline as a stop-loss level.
+
+2. **Position Sizing**:
+   - Risk no more than 1-2% of the trading account on any single trade.
+
+3. **Avoid Overtrading**:
+   - Only take trades that align with the higher timeframe trend and have clear confirmation signals.
+
+---
+
+### **Required Indicators**
+1. **Trendline Tool**:
+   - Manually draw trendlines on the chart to identify key levels.
+
+2. **Moving Averages**:
+   - 50-period Simple Moving Average (SMA).
+   - 200-period Simple Moving Average (SMA).
+
+3. **Price Action**:
+   - Candlestick patterns (e.g., engulfing, pin bars) for confirmation.
+
+---
+
+### **Summary**
+The AdaptiveTrendline strategy is a robust trend-following approach that combines trendline analysis, moving averages, and higher timeframe confirmation to identify high-probability trades. By focusing on strong trends and using clear entry and exit rules, this strategy aims to capture significant market moves while minimizing risk. Always backtest and practice the strategy on a demo account before applying it to live trading.

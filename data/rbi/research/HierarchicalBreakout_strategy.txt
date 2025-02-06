@@ -1,0 +1,28 @@
+STRATEGY_NAME: HierarchicalBreakout
+
+STRATEGY_DETAILS:
+This strategy is built around a clear, multi-timeframe approach that relies solely on price action and market structure to help traders ride trends without cluttering their charts with multiple indicators. Its unique aspect is the hierarchical analysis—from the highest timeframes down to granular setups—to ensure that entries are made completely in line with the overall market bias. Below is a detailed breakdown:
+
+1. Key Strategy Components:
+ • Multi-Timeframe Analysis: The trader first examines the weekly chart to determine the strongest market structure. A bullish weekly trend (characterized by higher highs and higher lows) or a bearish one sets the overarching bias.
+ • Confirmation on Daily Charts: The daily timeframe reinforces the weekly trend, offering further confirmation of the ongoing market direction.
+ • Intermediate Consolidation: The four-hour chart is used to identify zones of consolidation or sideways movement. This stage helps pinpoint where the market is pausing, potentially marking ideal areas for an entry setup.
+ • Precise Entry Timing: The one-hour, and specifically the 50-minute (or 15-minute) timeframe, is then employed to time the breakout from consolidation. This low-level, price-action signal (the moment when the structure “breaks”) is the trigger for entry.
+
+2. Entry/Exit Rules:
+ • Trend Bias Confirmation: Begin by confirming the overall trend on the weekly and daily charts. In an upward trend (higher highs/lows), only look for long entries; in a downward trend (lower highs/lows), consider only short entries.
+ • Watch Consolidation Zones: On the four-hour chart, note price ranges where the market is trading sideways. Such consolidation areas often precede a decisive move.
+ • Alert Setup & Entry on Lower Timeframes: Set alerts (for example, using TradingView) at critical levels during the one-hour/50-minute phases. When price action clearly breaks the consolidation in the direction of the higher timeframe trend, enter the trade.
+ • Order Setup and Confirmation: Use clear price levels for entries. For instance, if entering a short trade within a bullish multi-timeframe bias, ensure price breaks in the expected direction on the lower timeframe, then confirm the entry with a preset alert.
+
+3. Risk Management:
+ • Predefined Risk/Reward Ratio: Adopt a simple risk/reward framework (e.g., 1:2 or 1:3). For example, if risking $500, target a potential profit of $1,000.
+ • Stop Loss Placement: Place your stop loss just beyond recent significant highs (for shorts) or lows (for longs) based on the lower timeframe structure.
+ • Trailing & Break-even Adjustments: Once the trade becomes sufficiently profitable (e.g., reaching 50% of the target), consider moving your stop loss to break-even to protect gains and minimize risk.
+
+4. Required Indicators & Tools:
+ • Pure Price Action & Market Structure: The strategy intentionally avoids technical indicators, instead relying on identifying higher highs/lows (for long trends) or lower highs/lows (for shorts) across weekly, daily, and intraday charts.
+ • Manual Trend Line Drawing: Use manual drawing of trend lines on each timeframe to identify key support/resistance and potential breakout points.
+ • Alert System: Utilize TradingView or similar platforms to set alerts at the critical levels where the low timeframe trend breaks, ensuring timely entries without needing continuous monitoring.
+
+Overall, HierarchicalBreakout emphasizes simplicity and clarity in trading by using a structured, multi-timeframe approach to filter out noise and focus on price action. It is ideal for traders seeking a reliable trend-following method that manages risk effectively while timing entries at precise breakout moments.

@@ -1,0 +1,33 @@
+STRATEGY_NAME: AdaptiveTrendline
+
+STRATEGY_DETAILS:
+The AdaptiveTrendline strategy is a trend-following approach that focuses on identifying and trading breakouts from dynamically adjusted trendlines. This strategy is designed to capture significant price movements by combining trendline analysis with momentum confirmation.
+
+Key Strategy Components:
+1. Trendline Analysis: The strategy uses manually drawn trendlines to identify key support and resistance levels. These trendlines are adjusted dynamically based on price action.
+2. Momentum Confirmation: The strategy incorporates the Relative Strength Index (RSI) to confirm the strength of the trend and avoid false breakouts.
+3. Breakout Entry: Trades are initiated when the price breaks through a significant trendline with strong momentum.
+4. Risk Management: The strategy employs strict stop-loss and take-profit levels to manage risk and lock in profits.
+
+Entry Rules:
+1. Draw a trendline connecting significant swing highs or swing lows.
+2. Wait for the price to approach the trendline.
+3. Confirm the breakout with a close above (for an uptrend) or below (for a downtrend) the trendline.
+4. Ensure the RSI is above 50 (for an uptrend) or below 50 (for a downtrend) to confirm momentum.
+5. Enter a long position on a bullish breakout or a short position on a bearish breakout.
+
+Exit Rules:
+1. Set a stop-loss just below the breakout point for a long position or above the breakout point for a short position.
+2. Set a take-profit level at a predetermined risk-reward ratio (e.g., 2:1).
+3. Exit the trade if the price retraces and closes back within the trendline, indicating a false breakout.
+
+Risk Management:
+1. Risk no more than 1-2% of the trading capital on any single trade.
+2. Use a fixed risk-reward ratio for each trade to ensure consistency.
+3. Avoid overtrading by waiting for high-probability setups.
+
+Required Indicators:
+1. Trendline Tool: Manually drawn on the price chart to identify key levels.
+2. Relative Strength Index (RSI): Set to a 14-period to confirm momentum.
+
+The AdaptiveTrendline strategy is ideal for traders who prefer a visual and dynamic approach to trend following. By combining trendline analysis with momentum confirmation, this strategy aims to capture significant price movements while minimizing false breakouts.

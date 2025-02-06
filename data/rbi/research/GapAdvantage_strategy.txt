@@ -1,0 +1,27 @@
+STRATEGY_NAME: GapAdvantage
+
+STRATEGY_DETAILS:
+
+This strategy, named "GapAdvantage", focuses on volatile stocks with fundamental news, such as earnings announcements, partnership deals, or clinical trials. The goal is to capture a sliver of a significant percentage gain in a single day.
+
+Key strategy components:
+1. Identify stocks with significant percentage gains (100-200%) on the day.
+2. Focus on lower-priced stocks (between $2 and $20) with a float of less than 20 million shares.
+3. Utilize a gap-and-go strategy, where the stock gaps up (opens higher than the previous day's close) due to breaking news.
+
+Entry/exit rules:
+1. Enter the trade when the stock pulls back to a key support level, such as the volume-weighted average price or moving averages.
+2. Look for the first pullback following a fresh breakout, with the first candle making a new high as the entry point.
+3. Exit the trade when the price action shows signs of weakness, such as a topping tail or extended pullbacks.
+
+Risk management:
+1. Start with a small position size and gradually increase as confidence and experience grow.
+2. Use stop-loss orders to limit potential losses.
+3. Focus on consistency, aiming for one or two profitable trades per day rather than overtrading.
+
+Required indicators:
+1. Volume-weighted average price (VWAP)
+2. Moving averages (9, 50, or 200-period)
+3. Scanners for top gainers and leading gapper stocks
+
+In summary, the "GapAdvantage" strategy aims to take advantage of volatile stocks with significant percentage gains on the day. By focusing on the right type of stocks and dialing in entries, traders can potentially capture substantial profits while managing risk through consistent trading and proper risk management.

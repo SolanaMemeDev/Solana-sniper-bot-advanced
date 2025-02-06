@@ -1,0 +1,53 @@
+### Momentum Trading Strategy Instructions for Backtesting
+
+#### 1. **Key Strategy Components**
+   - **Objective**: Capture trends by identifying strong momentum in price movements.
+   - **Timeframe**: Use daily or intraday charts (e.g., 1-hour or 4-hour).
+   - **Market**: Applicable to stocks, forex, or cryptocurrencies.
+   - **Core Principle**: Buy during uptrends, sell during downtrends, and avoid sideways markets.
+
+#### 2. **Entry Rules**
+   - **Indicator Setup**:
+     - Use the **Relative Strength Index (RSI)** with a period of 14.
+     - Use the **Exponential Moving Average (EMA)** with a period of 50.
+   - **Long Entry**:
+     - Price must be above the 50 EMA (confirms uptrend).
+     - RSI must cross above 50 (confirms momentum).
+     - Enter on the next candle after both conditions are met.
+   - **Short Entry**:
+     - Price must be below the 50 EMA (confirms downtrend).
+     - RSI must cross below 50 (confirms momentum).
+     - Enter on the next candle after both conditions are met.
+
+#### 3. **Exit Rules**
+   - **Take Profit**:
+     - Set a fixed risk-reward ratio (e.g., 1:2 or 1:3).
+     - Alternatively, exit when RSI crosses back below 70 (for long trades) or above 30 (for short trades).
+   - **Stop Loss**:
+     - Place stop loss below the most recent swing low (for long trades) or above the most recent swing high (for short trades).
+     - Alternatively, use a fixed percentage (e.g., 1-2% of account equity).
+
+#### 4. **Risk Management**
+   - **Position Sizing**:
+     - Risk no more than 1-2% of account equity per trade.
+   - **Diversification**:
+     - Avoid over-concentration in a single asset or sector.
+   - **Avoid Overtrading**:
+     - Only take trades that meet all entry criteria.
+
+#### 5. **Required Indicators**
+   - **Relative Strength Index (RSI)**:
+     - Period: 14.
+     - Overbought level: 70.
+     - Oversold level: 30.
+   - **Exponential Moving Average (EMA)**:
+     - Period: 50.
+
+#### 6. **Additional Notes**
+   - **Filter for Sideways Markets**:
+     - Avoid trading if the price is consolidating (e.g., RSI hovering around 50 and price near the 50 EMA).
+   - **Backtesting Parameters**:
+     - Test over multiple timeframes and asset classes.
+     - Adjust RSI and EMA periods if necessary to optimize for specific markets.
+
+These instructions are ready for backtesting. Ensure all conditions are coded precisely to replicate the strategy accurately.

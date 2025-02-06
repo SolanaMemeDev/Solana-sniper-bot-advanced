@@ -1,0 +1,79 @@
+STRATEGY_NAME: AdaptiveTrendSync
+
+STRATEGY_DETAILS:
+The AdaptiveTrendSync strategy is a trend-following approach that combines multiple technical indicators to identify and capitalize on strong market trends. It focuses on synchronizing signals from different indicators to confirm trend direction and strength, ensuring higher probability trades. Below is a detailed breakdown of the strategy:
+
+---
+
+### **Key Strategy Components**
+1. **Trend Identification**: 
+   - Uses a combination of moving averages (e.g., 50 EMA and 200 EMA) to determine the overall trend direction.
+   - The 50 EMA crossing above the 200 EMA indicates a bullish trend, while crossing below indicates a bearish trend.
+
+2. **Momentum Confirmation**:
+   - Utilizes the Relative Strength Index (RSI) to confirm momentum in the direction of the trend.
+   - RSI above 50 confirms bullish momentum, while RSI below 50 confirms bearish momentum.
+
+3. **Volatility Filter**:
+   - Incorporates the Average True Range (ATR) to measure market volatility and set dynamic stop-loss levels.
+   - Higher ATR values indicate stronger trends, while lower values suggest consolidation.
+
+4. **Entry Confirmation**:
+   - Requires a confluence of signals from the moving averages, RSI, and ATR to confirm entries.
+   - For example, in a bullish trend, the price must be above the 50 EMA, RSI above 50, and ATR showing increasing volatility.
+
+---
+
+### **Entry Rules**
+1. **Bullish Entry**:
+   - 50 EMA crosses above the 200 EMA (Golden Cross).
+   - RSI is above 50 and rising.
+   - ATR is increasing, indicating strong momentum.
+   - Enter a long position on a pullback to the 50 EMA or a breakout above a recent high.
+
+2. **Bearish Entry**:
+   - 50 EMA crosses below the 200 EMA (Death Cross).
+   - RSI is below 50 and falling.
+   - ATR is increasing, indicating strong momentum.
+   - Enter a short position on a pullback to the 50 EMA or a breakdown below a recent low.
+
+---
+
+### **Exit Rules**
+1. **Take Profit**:
+   - Use a trailing stop based on ATR (e.g., 2x ATR) to lock in profits as the trend continues.
+   - Alternatively, exit when the RSI reaches overbought (70) or oversold (30) levels, depending on the trend direction.
+
+2. **Stop Loss**:
+   - Place a stop-loss below the 50 EMA for long positions or above the 50 EMA for short positions.
+   - Adjust the stop-loss dynamically using ATR to account for volatility.
+
+---
+
+### **Risk Management**
+1. **Position Sizing**:
+   - Risk no more than 1-2% of the trading capital on any single trade.
+   - Use the ATR to calculate position size based on the distance to the stop-loss level.
+
+2. **Diversification**:
+   - Apply the strategy across multiple timeframes (e.g., 1-hour and 4-hour charts) and different assets to reduce risk.
+
+3. **Avoid Overtrading**:
+   - Only take trades when all indicators align, and avoid trading during low volatility or choppy market conditions.
+
+---
+
+### **Required Indicators**
+1. **Exponential Moving Averages (EMA)**:
+   - 50 EMA and 200 EMA for trend identification.
+
+2. **Relative Strength Index (RSI)**:
+   - 14-period RSI for momentum confirmation.
+
+3. **Average True Range (ATR)**:
+   - 14-period ATR for volatility measurement and stop-loss placement.
+
+---
+
+### **Summary**
+The AdaptiveTrendSync strategy is designed to capture strong trends by combining trend-following indicators with momentum and volatility filters. It emphasizes disciplined risk management and requires patience to wait for high-probability setups. By synchronizing signals from multiple indicators, this strategy aims to reduce false signals and improve overall trading performance.

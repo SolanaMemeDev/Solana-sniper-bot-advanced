@@ -1,0 +1,50 @@
+STRATEGY_NAME: MomentumRejection
+
+STRATEGY_DETAILS:
+The MomentumRejection strategy is a sophisticated trend-following approach that combines trendline analysis with momentum confirmation and rejection patterns to identify high-probability trade setups. This strategy is designed to capitalize on both continuation and breakout patterns within trending markets, ensuring a robust framework for consistent profitability.
+
+### Key Strategy Components:
+1. **Trendline Drawing**: 
+   - **Uptrend**: Draw the trendline below the price action, connecting higher lows.
+   - **Downtrend**: Draw the trendline above the price action, connecting lower highs.
+   - Adjust the trendline to maximize the number of touches, treating it as a general area rather than an exact line.
+
+2. **Continuation Pattern**:
+   - **Identification**: Price bounces back in the direction of the trend after hitting the trendline.
+   - **Confirmation**: Use a mini trendline at the pullback and wait for the price to break out of this mini trendline.
+   - **Indicator Confirmation**: Utilize the Stochastic Oscillator to confirm the continuation pattern. For an uptrend, wait for the Stochastic to cross back inside the oversold level. For a downtrend, wait for it to cross back inside the overbought level.
+
+3. **Breakout Pattern**:
+   - **Identification**: Price breaks out of the trendline, indicating a potential trend reversal.
+   - **Confirmation**: Look for signs of momentum loss before the breakout, such as a lower high in an uptrend or a higher low in a downtrend.
+   - **Double Rejection**: Spot double rejection patterns (e.g., double top or double bottom) to further confirm the breakout.
+
+### Entry Rules:
+1. **Continuation Pattern**:
+   - **Buy Signal**: In an uptrend, after the price breaks out of the mini trendline and the Stochastic confirms by crossing back inside the oversold level.
+   - **Sell Signal**: In a downtrend, after the price breaks out of the mini trendline and the Stochastic confirms by crossing back inside the overbought level.
+
+2. **Breakout Pattern**:
+   - **Sell Signal**: In an uptrend, after the price breaks below the trendline following a lower high (momentum loss) or a double top rejection.
+   - **Buy Signal**: In a downtrend, after the price breaks above the trendline following a higher low (momentum loss) or a double bottom rejection.
+
+### Exit Rules:
+1. **Continuation Pattern**:
+   - **Take Profit**: Set a target based on the previous swing high (for buys) or swing low (for sells).
+   - **Stop Loss**: Place the stop loss just below the recent swing low (for buys) or above the recent swing high (for sells).
+
+2. **Breakout Pattern**:
+   - **Take Profit**: Set a target based on the next significant support or resistance level.
+   - **Stop Loss**: Place the stop loss just above the recent swing high (for sells) or below the recent swing low (for buys).
+
+### Risk Management:
+1. **Position Sizing**: Risk a fixed percentage of your trading capital on each trade (e.g., 1-2%).
+2. **Risk-Reward Ratio**: Aim for a minimum risk-reward ratio of 1:2 to ensure profitability over the long term.
+3. **Diversification**: Avoid over-concentration in a single asset or market to spread risk.
+
+### Required Indicators:
+1. **Trendlines**: For identifying key levels and potential trade setups.
+2. **Stochastic Oscillator**: For confirming continuation patterns and momentum shifts.
+3. **Price Action Analysis**: For spotting momentum loss and rejection patterns (e.g., double tops, double bottoms).
+
+By following the MomentumRejection strategy, traders can effectively navigate trending markets with a high degree of confidence, leveraging both technical analysis and momentum indicators to maximize their trading success.

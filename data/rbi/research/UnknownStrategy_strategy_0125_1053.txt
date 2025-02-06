@@ -1,0 +1,62 @@
+### Strategy Instructions for Backtesting
+
+#### 1. **Key Strategy Components**
+   - **Trend Identification**: Use a combination of moving averages to identify the overall market trend.
+   - **Momentum Confirmation**: Utilize the Relative Strength Index (RSI) to confirm momentum in the direction of the trend.
+   - **Entry Signals**: Look for specific candlestick patterns or price action signals that align with the trend and momentum.
+   - **Exit Signals**: Use trailing stops or predefined profit targets to exit trades.
+
+#### 2. **Entry Rules**
+   - **Trend Confirmation**: 
+     - Calculate the 50-period Simple Moving Average (SMA) and the 200-period SMA.
+     - A bullish trend is confirmed when the 50 SMA is above the 200 SMA.
+     - A bearish trend is confirmed when the 50 SMA is below the 200 SMA.
+   - **Momentum Confirmation**:
+     - Use the 14-period RSI.
+     - For a bullish entry, RSI should be above 50 but not in overbought territory (below 70).
+     - For a bearish entry, RSI should be below 50 but not in oversold territory (above 30).
+   - **Price Action Signal**:
+     - Look for a bullish engulfing pattern or a breakout above a recent high for a long entry.
+     - Look for a bearish engulfing pattern or a breakdown below a recent low for a short entry.
+
+#### 3. **Exit Rules**
+   - **Profit Target**:
+     - Set a fixed profit target, such as 2 times the Average True Range (ATR) for the period.
+   - **Trailing Stop**:
+     - Use a trailing stop based on the ATR, such as 1.5 times the ATR, to lock in profits as the trade moves in your favor.
+   - **Stop Loss**:
+     - Place a stop loss at 1 times the ATR below the entry price for a long trade or above the entry price for a short trade.
+
+#### 4. **Risk Management**
+   - **Position Sizing**:
+     - Risk no more than 1% of your trading capital on any single trade.
+   - **Risk-Reward Ratio**:
+     - Aim for a minimum risk-reward ratio of 1:2.
+   - **Maximum Drawdown**:
+     - Set a maximum drawdown limit, such as 10% of your total capital, to prevent excessive losses.
+
+#### 5. **Required Indicators**
+   - **Simple Moving Averages (SMA)**:
+     - 50-period SMA
+     - 200-period SMA
+   - **Relative Strength Index (RSI)**:
+     - 14-period RSI
+   - **Average True Range (ATR)**:
+     - 14-period ATR
+
+#### 6. **Backtesting Parameters**
+   - **Timeframe**: Use a daily chart for backtesting.
+   - **Data Range**: Test the strategy on at least 2 years of historical data.
+   - **Market Conditions**: Ensure the backtest includes both trending and ranging markets to evaluate the strategy's robustness.
+
+#### 7. **Optimization**
+   - **Parameter Tuning**: Adjust the SMA periods, RSI levels, and ATR multiples to optimize the strategy for different market conditions.
+   - **Walk-Forward Analysis**: Perform walk-forward analysis to validate the strategy's performance over different time periods.
+
+#### 8. **Performance Metrics**
+   - **Win Rate**: Calculate the percentage of winning trades.
+   - **Average Profit/Loss**: Determine the average profit and loss per trade.
+   - **Sharpe Ratio**: Measure the risk-adjusted return of the strategy.
+   - **Maximum Drawdown**: Assess the largest peak-to-trough decline in the account balance.
+
+These instructions should provide a comprehensive framework for backtesting the trading strategy outlined in the video.

@@ -1,0 +1,33 @@
+STRATEGY_NAME: Adaptive Stochastic Reversal
+
+STRATEGY_DETAILS:
+
+Key Strategy Components:
+1. Uses the Stochastic RSI indicator as the primary signal generator.
+2. Focuses on identifying overbought and oversold conditions in the market.
+3. Employs a multi-timeframe approach to align trading decisions with different trader profiles.
+
+Entry/Exit Rules:
+- On the weekly/long-term timeframe:
+  - Buy signal: When Stochastic RSI crosses below the 15% oversold level.
+  - Sell signal: When Stochastic RSI crosses above the 80% overbought level.
+- On the shorter-term timeframes (e.g., hourly, 4-hour):
+  - Buy signal: When Stochastic RSI crosses below the 20% oversold level.
+  - Sell signal: When Stochastic RSI crosses above the 80% overbought level.
+
+Risk Management:
+- Use a trailing stop-loss to protect profits as the trade progresses.
+- Implement position sizing based on risk tolerance, with a maximum risk of 1-2% per trade.
+- Diversify across multiple assets or markets to reduce overall portfolio risk.
+
+Required Indicators:
+- Stochastic RSI (with default 14,3,3 settings)
+- Price chart (weekly, daily, 4-hour, hourly)
+
+Key Features:
+1. Adaptive Approach: The strategy adjusts its entry and exit levels based on the timeframe, catering to different trader profiles and risk preferences.
+2. Stochastic Reversal: The Stochastic RSI indicator is used to identify potential reversal points in the market, allowing traders to capitalize on overbought and oversold conditions.
+3. Disciplined Execution: The strategy emphasizes the importance of adhering to the signal generation rules and ignoring market noise, promoting a systematic and unemotional trading approach.
+4. Compounding Gains: By consistently following the strategy and reinvesting profits, traders can potentially compound their returns over time, as demonstrated in the example.
+
+This Adaptive Stochastic Reversal strategy provides a structured and disciplined approach to trading, leveraging the Stochastic RSI indicator to identify opportune entry and exit points across multiple timeframes. By focusing on overbought and oversold conditions, traders can aim to capture meaningful market moves while managing risk effectively.

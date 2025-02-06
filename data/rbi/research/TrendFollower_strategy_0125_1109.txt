@@ -1,0 +1,37 @@
+STRATEGY_NAME: TrendFollower
+
+STRATEGY_DETAILS:
+This strategy is a trend-following approach that uses moving averages and price action to identify and trade with the prevailing trend. The key components include:
+
+1. **Key Strategy Components**:
+   - **200 EMA (Exponential Moving Average)**: Used to determine the overall trend direction. Price above the 200 EMA indicates an uptrend, while price below indicates a downtrend.
+   - **9 EMA**: Used as a dynamic support/resistance level and to identify short-term momentum.
+   - **Price Action**: Focuses on candlestick patterns and key levels (support/resistance) for confirmation of entries and exits.
+
+2. **Entry Rules**:
+   - **Long Entry**: 
+     - Price must be above the 200 EMA (uptrend).
+     - Wait for a pullback to the 9 EMA or a key support level.
+     - Enter on a bullish candlestick pattern (e.g., engulfing, pin bar) or a break above a recent high.
+   - **Short Entry**:
+     - Price must be below the 200 EMA (downtrend).
+     - Wait for a pullback to the 9 EMA or a key resistance level.
+     - Enter on a bearish candlestick pattern (e.g., engulfing, pin bar) or a break below a recent low.
+
+3. **Exit Rules**:
+   - **Take Profit**: Use a trailing stop or exit at a predefined risk-reward ratio (e.g., 2:1 or 3:1).
+   - **Stop Loss**: Place below the recent swing low (for long trades) or above the recent swing high (for short trades).
+   - **Trend Reversal**: Exit if the price crosses back below the 200 EMA (for long trades) or above the 200 EMA (for short trades).
+
+4. **Risk Management**:
+   - Risk no more than 1-2% of the trading account per trade.
+   - Use proper position sizing based on the distance between entry and stop loss.
+   - Avoid overtrading and stick to high-probability setups.
+
+5. **Required Indicators**:
+   - 200 EMA (Exponential Moving Average)
+   - 9 EMA (Exponential Moving Average)
+   - Candlestick patterns (e.g., engulfing, pin bars)
+   - Support and resistance levels
+
+This strategy emphasizes patience, discipline, and trading in the direction of the trend. It works best in trending markets and may underperform in choppy or sideways conditions.

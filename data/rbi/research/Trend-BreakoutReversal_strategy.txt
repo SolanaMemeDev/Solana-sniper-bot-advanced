@@ -1,0 +1,25 @@
+STRATEGY_NAME: Trend-Breakout Reversal
+
+STRATEGY_DETAILS:
+
+This is a simple trend-following strategy for cryptocurrency trading that focuses on identifying and trading the breakout of consolidation patterns within a larger market trend. The key components are:
+
+1. Market Structure Analysis:
+   - Analyze the market trend across multiple timeframes, starting from the weekly and moving down to the daily and 4-hour charts.
+   - Identify the overall market direction (uptrend or downtrend) using higher highs/lows and lower highs/lows.
+
+2. Consolidation Breakout Entry:
+   - On the 1-hour timeframe, wait for the market to consolidate in a sideways range.
+   - Set an alert to trigger when the 1-hour trend breaks out of the consolidation range, either to the upside or downside.
+   - Enter a trade in the direction of the breakout, using the 15-minute timeframe to time the entry.
+
+3. Risk Management:
+   - Set a stop-loss just above/below the previous high/low of the 1-hour consolidation range.
+   - Use a risk-reward ratio of approximately 1:2 or 1:3, taking partial profits at the first target and trailing the stop-loss on the remaining position.
+
+4. Indicators:
+   - This strategy does not rely on any indicators, focusing solely on price action and market structure.
+
+The key advantages of this approach are its simplicity, reliance on the broader market trend, and the use of consolidation breakouts as low-risk entry points. By analyzing the market structure across multiple timeframes and waiting for clear breakout signals, traders can identify high-probability trading opportunities while managing risk effectively.
+
+Remember, this is not financial advice, and as with any trading strategy, proper testing, risk management, and discipline are crucial for long-term success.

@@ -1,0 +1,26 @@
+STRATEGY_NAME: Trend-Breakout Momentum
+
+STRATEGY_DETAILS:
+
+1. Key Strategy Components:
+   - Focuses on identifying and trading the overall market trend across multiple timeframes
+   - Utilizes a multi-timeframe approach to confirm the trend direction
+   - Looks for breakouts on the lower timeframes to enter trades in the direction of the confirmed trend
+
+2. Entry/Exit Rules:
+   - Analyze the market structure on the weekly and daily timeframes to determine the overall trend direction
+   - On the 4-hour timeframe, identify sideways/consolidation phases
+   - On the 1-hour and 15-minute timeframes, wait for the price to break out of the consolidation and enter a trade in the direction of the higher timeframe trend
+   - Set stop-loss based on a favorable risk-to-reward ratio, such as 1:2 or 1:3
+   - Take profits at pre-determined levels, potentially trailing the stop-loss to protect profits as the trade progresses
+
+3. Risk Management:
+   - Utilize a fixed risk per trade, such as 1-2% of the account balance
+   - Adjust position size based on the stop-loss level to maintain the desired risk per trade
+   - Consider using a trailing stop-loss to lock in profits as the trade moves in the desired direction
+
+4. Required Indicators:
+   - No specific indicators are used, as the strategy focuses on identifying market structure and trend across multiple timeframes
+   - The trader may use basic technical analysis tools, such as trend lines, support/resistance levels, and candlestick patterns, to confirm the trend and breakout signals
+
+This strategy aims to capitalize on the overall market trend by using a multi-timeframe approach to confirm the direction and then entering trades on lower timeframes when the price breaks out of a consolidation phase. The focus on risk management and trailing stop-losses helps to protect profits as the trade progresses. This approach can be applied to various markets, including cryptocurrencies, forex, and stocks.

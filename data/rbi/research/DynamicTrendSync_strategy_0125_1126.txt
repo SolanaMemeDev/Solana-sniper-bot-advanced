@@ -1,0 +1,49 @@
+STRATEGY_NAME: DynamicTrendSync
+
+STRATEGY_DETAILS:
+The DynamicTrendSync strategy is a trend-following approach that focuses on identifying and trading in the direction of strong, established trends while minimizing false signals. It combines multiple technical indicators to confirm trend strength and momentum, ensuring high-probability entries and exits.
+
+### Key Strategy Components:
+1. **Trend Identification**: Uses moving averages (e.g., 50 EMA and 200 EMA) to determine the overall market trend.
+2. **Momentum Confirmation**: Utilizes the Relative Strength Index (RSI) to confirm momentum in the direction of the trend.
+3. **Volatility Filter**: Incorporates the Average True Range (ATR) to assess market volatility and set appropriate stop-loss levels.
+4. **Entry Signals**: Relies on price action breakouts or pullbacks within the trend for precise entries.
+5. **Exit Signals**: Uses trailing stops or trend reversal signals to lock in profits.
+
+### Entry Rules:
+1. **Trend Confirmation**:
+   - The 50 EMA must be above the 200 EMA for an uptrend (or below for a downtrend).
+   - Price should be consistently above the 50 EMA in an uptrend (or below in a downtrend).
+2. **Momentum Confirmation**:
+   - RSI should be above 50 for an uptrend (or below 50 for a downtrend) to confirm bullish or bearish momentum.
+3. **Entry Trigger**:
+   - Look for a pullback to the 50 EMA in an uptrend (or a rally to the 50 EMA in a downtrend).
+   - Enter on a breakout above the recent swing high in an uptrend (or below the swing low in a downtrend).
+
+### Exit Rules:
+1. **Trailing Stop**:
+   - Use the ATR to set a trailing stop-loss. For example, 2x ATR below the recent swing low in an uptrend (or above the swing high in a downtrend).
+2. **Trend Reversal**:
+   - Exit the trade if the 50 EMA crosses below the 200 EMA in an uptrend (or above in a downtrend).
+   - Exit if RSI crosses below 50 in an uptrend (or above 50 in a downtrend).
+
+### Risk Management:
+1. **Position Sizing**:
+   - Risk no more than 1-2% of your trading capital per trade.
+2. **Stop-Loss Placement**:
+   - Use the ATR to set a dynamic stop-loss. For example, 1.5x ATR from the entry point.
+3. **Take-Profit Levels**:
+   - Use a risk-reward ratio of at least 1:2. For example, if the stop-loss is 10 pips, aim for a 20-pip profit target.
+
+### Required Indicators:
+1. **50 EMA**: To identify short-term trend direction.
+2. **200 EMA**: To confirm the long-term trend.
+3. **RSI (14-period)**: To confirm momentum in the direction of the trend.
+4. **ATR (14-period)**: To measure volatility and set stop-loss levels.
+
+### Additional Notes:
+- This strategy works best in trending markets. Avoid using it during choppy or sideways market conditions.
+- Always backtest the strategy on historical data before applying it to live trading.
+- Adjust the ATR multiplier and RSI thresholds based on the asset's volatility and your risk tolerance.
+
+By combining trend identification, momentum confirmation, and volatility filtering, the DynamicTrendSync strategy provides a robust framework for trading in the direction of strong trends while managing risk effectively.

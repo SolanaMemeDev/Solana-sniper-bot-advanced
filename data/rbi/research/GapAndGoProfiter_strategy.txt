@@ -1,0 +1,30 @@
+STRATEGY_NAME: "GapAndGoProfiter"
+
+STRATEGY_DETAILS:
+This strategy, called "GapAndGoProfiter", focuses on volatile stocks with fundamental news, such as earnings announcements, partnership deals, or clinical trials. The main idea is to find stocks with a significant gap up from the previous day's closing price and trade them with the expectation of a continued upward movement.
+
+Key strategy components:
+1. Identify leading percentage gainers with a significant gap up from the previous day's closing price.
+2. Focus on stocks with a catalyst, such as news or fundamental events.
+3. Look for an imbalance between supply and demand, driven by high demand and low float (number of shares available for trading).
+4. Utilize a scanner or tool that looks for stocks moving up quickly in real-time.
+
+Entry rules:
+1. Look for the first pullback after the gap up, preferably at the volume weighted average price (VWAP) or the 9-period moving average.
+2. Wait for the first pullback candle to make a new high.
+3. Consider trading on the 1-minute chart with 5-minute charts for reference points.
+
+Exit rules:
+1. Set a profit target based on the stock's volatility and potential for further gains.
+2. Implement a trailing stop loss to protect profits as the stock price increases.
+
+Risk management:
+1. Start by trading a simulator before putting real money on the line.
+2. Focus on trading less frequently (1-2 trades per day) to build confidence and consistency.
+3. Be cautious when trading during earnings season or around major news events.
+
+Required indicators:
+1. Volume Weighted Average Price (VWAP)
+2. Moving Averages (9-period)
+
+This strategy is best suited for beginner traders looking to minimize risk while maximizing potential gains by focusing on volatile stocks with significant news events. By using this approach, traders can potentially capture slivers of large percentage moves, leading to substantial profits.

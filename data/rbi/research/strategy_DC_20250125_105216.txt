@@ -1,0 +1,56 @@
+### Strategy Instructions for Backtesting
+
+#### 1. **Key Strategy Components**
+   - **Trend Identification**: Use moving averages to identify the overall market trend.
+   - **Momentum Confirmation**: Use the Relative Strength Index (RSI) to confirm momentum.
+   - **Entry Signals**: Look for specific candlestick patterns or price action signals.
+   - **Exit Signals**: Use trailing stops or predefined profit targets.
+
+#### 2. **Entry Rules**
+   - **Long Entry**:
+     - The 50-period Simple Moving Average (SMA) must be above the 200-period SMA (uptrend).
+     - RSI must be above 50 but below 70 (indicating bullish momentum but not overbought).
+     - A bullish candlestick pattern (e.g., bullish engulfing or hammer) must form near the 50-period SMA.
+   - **Short Entry**:
+     - The 50-period SMA must be below the 200-period SMA (downtrend).
+     - RSI must be below 50 but above 30 (indicating bearish momentum but not oversold).
+     - A bearish candlestick pattern (e.g., bearish engulfing or shooting star) must form near the 50-period SMA.
+
+#### 3. **Exit Rules**
+   - **Long Exit**:
+     - If the price closes below the 50-period SMA.
+     - If the RSI crosses below 50.
+     - If a trailing stop loss of 2% below the highest price since entry is triggered.
+   - **Short Exit**:
+     - If the price closes above the 50-period SMA.
+     - If the RSI crosses above 50.
+     - If a trailing stop loss of 2% above the lowest price since entry is triggered.
+
+#### 4. **Risk Management**
+   - **Position Sizing**: Risk no more than 1% of the total account balance per trade.
+   - **Stop Loss**: Set a stop loss at 2% below the entry price for long trades and 2% above the entry price for short trades.
+   - **Take Profit**: Set a take profit at 4% above the entry price for long trades and 4% below the entry price for short trades.
+   - **Trailing Stop**: Use a trailing stop of 2% to lock in profits as the trade moves in your favor.
+
+#### 5. **Required Indicators**
+   - **Simple Moving Averages (SMA)**:
+     - 50-period SMA.
+     - 200-period SMA.
+   - **Relative Strength Index (RSI)**:
+     - 14-period RSI.
+   - **Candlestick Patterns**:
+     - Bullish engulfing, hammer, bearish engulfing, shooting star.
+
+#### 6. **Backtesting Parameters**
+   - **Timeframe**: Daily charts.
+   - **Data Range**: At least 5 years of historical data.
+   - **Asset Class**: Equities, Forex, or Commodities.
+   - **Commission**: Include a standard commission fee of $0.01 per share or equivalent.
+
+#### 7. **Performance Metrics to Track**
+   - **Win Rate**: Percentage of winning trades.
+   - **Risk-Reward Ratio**: Average profit per trade divided by average loss per trade.
+   - **Maximum Drawdown**: Largest peak-to-trough decline in the account balance.
+   - **Sharpe Ratio**: Risk-adjusted return of the strategy.
+
+These instructions should provide a clear framework for backtesting the strategy.

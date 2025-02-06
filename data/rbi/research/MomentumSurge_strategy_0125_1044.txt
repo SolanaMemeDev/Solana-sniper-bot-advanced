@@ -1,0 +1,30 @@
+STRATEGY_NAME: MomentumSurge
+
+STRATEGY_DETAILS:
+This strategy focuses on identifying and capitalizing on strong momentum moves in the market, using a combination of technical indicators and price action. The key components include the use of moving averages, RSI, and volume to confirm momentum and potential entry/exit points.
+
+1. **Key Strategy Components:**
+   - **Moving Averages (MA):** Use a 9-period Exponential Moving Average (EMA) and a 21-period EMA to identify the trend direction. The 9 EMA crossing above the 21 EMA indicates a bullish trend, while crossing below indicates a bearish trend.
+   - **Relative Strength Index (RSI):** Use a 14-period RSI to gauge overbought or oversold conditions. An RSI above 70 suggests overbought conditions (potential sell), and below 30 suggests oversold conditions (potential buy).
+   - **Volume:** Use volume as a confirmation tool. Increasing volume on a breakout or trend continuation adds confidence to the trade.
+
+2. **Entry Rules:**
+   - **Long Entry:** Enter a long position when the 9 EMA crosses above the 21 EMA, RSI is above 50 (but not overbought), and volume is increasing.
+   - **Short Entry:** Enter a short position when the 9 EMA crosses below the 21 EMA, RSI is below 50 (but not oversold), and volume is increasing.
+
+3. **Exit Rules:**
+   - **Long Exit:** Exit the long position when the 9 EMA crosses below the 21 EMA, or RSI moves above 70 (overbought), or volume starts to decrease significantly.
+   - **Short Exit:** Exit the short position when the 9 EMA crosses above the 21 EMA, or RSI moves below 30 (oversold), or volume starts to decrease significantly.
+
+4. **Risk Management:**
+   - **Stop Loss:** Place a stop loss below the recent swing low for long positions and above the recent swing high for short positions.
+   - **Position Sizing:** Risk no more than 1-2% of the trading capital on any single trade.
+   - **Take Profit:** Use a trailing stop or a fixed risk-reward ratio (e.g., 2:1) to lock in profits.
+
+5. **Required Indicators:**
+   - 9-period Exponential Moving Average (EMA)
+   - 21-period Exponential Moving Average (EMA)
+   - 14-period Relative Strength Index (RSI)
+   - Volume indicator
+
+This strategy is designed to capture strong momentum moves while managing risk effectively. It is suitable for traders who prefer a systematic approach to trading and are comfortable with using multiple indicators to confirm their trades.

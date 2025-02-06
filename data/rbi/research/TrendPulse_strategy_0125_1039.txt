@@ -1,0 +1,59 @@
+STRATEGY_NAME: TrendPulse
+
+STRATEGY_DETAILS:
+This strategy focuses on identifying and trading strong trends using a combination of moving averages, volume analysis, and price action. It is designed to capture sustained directional moves while minimizing false signals.
+
+### Key Strategy Components:
+1. **Trend Identification**: 
+   - Use a combination of Exponential Moving Averages (EMAs) to identify the trend direction. 
+   - Primary EMAs: 50 EMA (short-term trend) and 200 EMA (long-term trend).
+   - The trend is considered bullish when the 50 EMA is above the 200 EMA, and bearish when the 50 EMA is below the 200 EMA.
+
+2. **Volume Confirmation**:
+   - Use volume as a confirmation tool. A strong trend is confirmed when volume increases in the direction of the trend.
+   - Look for higher-than-average volume on breakout or continuation candles.
+
+3. **Price Action**:
+   - Use candlestick patterns (e.g., engulfing, pin bars) to identify potential entry points within the trend.
+   - Look for pullbacks or retracements to key support/resistance levels or moving averages for low-risk entries.
+
+### Entry Rules:
+1. **Bullish Entry**:
+   - Wait for the 50 EMA to cross above the 200 EMA, confirming a bullish trend.
+   - Look for a pullback to the 50 EMA or a key support level.
+   - Enter on a bullish candlestick pattern (e.g., bullish engulfing, hammer) with increasing volume.
+
+2. **Bearish Entry**:
+   - Wait for the 50 EMA to cross below the 200 EMA, confirming a bearish trend.
+   - Look for a pullback to the 50 EMA or a key resistance level.
+   - Enter on a bearish candlestick pattern (e.g., bearish engulfing, shooting star) with increasing volume.
+
+### Exit Rules:
+1. **Take Profit**:
+   - Use a trailing stop or a fixed risk-reward ratio (e.g., 2:1 or 3:1).
+   - Exit when the price closes below the 50 EMA (in a bullish trend) or above the 50 EMA (in a bearish trend).
+
+2. **Stop Loss**:
+   - Place the stop loss below the recent swing low (for bullish trades) or above the recent swing high (for bearish trades).
+   - Alternatively, use a percentage-based stop loss (e.g., 1-2% of the trade value).
+
+### Risk Management:
+1. **Position Sizing**:
+   - Risk no more than 1-2% of the trading capital on any single trade.
+   - Adjust position size based on the distance between entry and stop loss.
+
+2. **Diversification**:
+   - Avoid over-concentration in a single asset or sector. Spread risk across multiple instruments.
+
+### Required Indicators:
+1. **Exponential Moving Averages (EMAs)**:
+   - 50 EMA (short-term trend).
+   - 200 EMA (long-term trend).
+
+2. **Volume Indicator**:
+   - Use volume bars or a volume moving average to confirm trend strength.
+
+3. **Candlestick Patterns**:
+   - Monitor for bullish/bearish reversal patterns at key levels.
+
+This strategy is best suited for trending markets and may underperform in choppy or range-bound conditions. Always backtest and optimize parameters before live trading.

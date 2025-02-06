@@ -1,0 +1,62 @@
+STRATEGY_NAME: MomentumLine
+
+STRATEGY_DETAILS:
+The MomentumLine strategy is a sophisticated trend-following approach that combines trendline analysis with momentum confirmation to identify high-probability trade setups. This strategy focuses on two primary patterns: continuation patterns and breakout patterns, both of which are confirmed using additional price action techniques and the Stochastic oscillator.
+
+### Key Strategy Components:
+1. **Trendline Drawing**: 
+   - Draw trendlines in the direction of the prevailing trend (below for uptrends, above for downtrends).
+   - Adjust the trendline to maximize the number of touches, treating it as a general area rather than an exact line.
+
+2. **Continuation Pattern**:
+   - Occurs when price bounces back in the direction of the trend after hitting the trendline.
+   - Confirmation is done by drawing a mini trendline at the pullback and waiting for a breakout.
+   - Use the Stochastic oscillator to confirm the continuation pattern (oversold for uptrends, overbought for downtrends).
+
+3. **Breakout Pattern**:
+   - Occurs when price breaks out of the trendline, indicating a potential trend reversal.
+   - Look for signs of momentum loss (e.g., lower highs in an uptrend or higher lows in a downtrend) before the breakout.
+   - Additional confirmation can be obtained by spotting double rejections (e.g., double tops or double bottoms).
+
+### Entry Rules:
+1. **Continuation Pattern**:
+   - Wait for the price to break out of the mini trendline.
+   - Confirm with Stochastic crossing back inside the oversold (for uptrends) or overbought (for downtrends) levels.
+   - Enter a buy position in an uptrend or a sell position in a downtrend.
+
+2. **Breakout Pattern**:
+   - Wait for the price to break out of the trendline.
+   - Confirm with signs of momentum loss (e.g., lower highs in an uptrend or higher lows in a downtrend).
+   - Enter a sell position in an uptrend or a buy position in a downtrend.
+
+### Exit Rules:
+1. **Continuation Pattern**:
+   - Exit the trade when the price reaches a significant resistance (for uptrends) or support (for downtrends) level.
+   - Alternatively, use a trailing stop to lock in profits as the trend continues.
+
+2. **Breakout Pattern**:
+   - Exit the trade when the price reaches a significant support (for sell positions) or resistance (for buy positions) level.
+   - Alternatively, use a trailing stop to capture maximum profit from the new trend.
+
+### Risk Management:
+1. **Position Sizing**:
+   - Risk a small percentage of your trading capital on each trade (e.g., 1-2%).
+   
+2. **Stop-Loss Placement**:
+   - For continuation patterns, place the stop-loss just below the mini trendline (for buy positions) or above the mini trendline (for sell positions).
+   - For breakout patterns, place the stop-loss just above the trendline (for sell positions) or below the trendline (for buy positions).
+
+3. **Risk-Reward Ratio**:
+   - Aim for a minimum risk-reward ratio of 1:2 to ensure profitability over the long term.
+
+### Required Indicators:
+1. **Trendlines**:
+   - Used to identify key levels and potential trade setups.
+
+2. **Stochastic Oscillator**:
+   - Used to confirm continuation patterns by identifying overbought or oversold conditions.
+
+3. **Price Action Analysis**:
+   - Used to confirm breakout patterns by identifying signs of momentum loss (e.g., lower highs, higher lows, double rejections).
+
+By following the MomentumLine strategy, traders can effectively capitalize on high-probability trend-following opportunities while minimizing risk through careful confirmation and disciplined risk management.

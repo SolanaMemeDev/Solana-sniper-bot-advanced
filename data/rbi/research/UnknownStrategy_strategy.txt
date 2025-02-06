@@ -1,0 +1,25 @@
+STRATEGY\_NAME: ATR\_MeanReversion
+
+STRATEGY\_DETAILS:
+
+This strategy focuses on mean reversion using the Keltner channel, an ATR-based stop loss, and a 2B price pattern for entry.
+
+1. Key strategy components:
+- Keltner channel with a 20-period setting and a multiplier of 2.5
+- ATR-based stop loss
+- 2B price pattern for entry
+
+2. Entry/exit rules:
+- Enter a short position when price breaks the upper Keltner channel and forms a reversal candlestick.
+- Place a sell stop order below the reversal candle.
+- Set a protective stop loss just beyond the high of the reversal candle.
+- Exit the position if price continues in the trend direction and breaks the high of the reversal candle.
+
+3. Risk management:
+- Use an ATR-based stop loss to protect your capital. Calculate the ATR for the same 20-period setting as the Keltner channel and set your stop loss a certain number of ATRs away from the entry price.
+
+4. Required indicators:
+- Keltner channel
+- ATR (Average True Range)
+
+This strategy aims to trade overextended instruments by identifying mean reversion opportunities using the Keltner channel and a 2B price pattern. It uses an ATR-based stop loss to manage risk and protect capital during trend moves. By combining these tools, traders can potentially profit from mean reversion while minimizing risk.

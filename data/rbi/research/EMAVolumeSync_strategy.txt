@@ -1,0 +1,65 @@
+STRATEGY_NAME: EMAVolumeSync
+
+STRATEGY_DETAILS:
+The EMAVolumeSync strategy is a powerful trend-following approach that combines the use of Exponential Moving Averages (EMAs) with volume analysis to identify high-probability trade entries. This strategy is designed to capitalize on strong, fresh trends while minimizing the risk of entering during weak or consolidating markets. Here’s a detailed breakdown of the strategy:
+
+### Key Strategy Components:
+1. **EMA Indicators**: 
+   - Two EMAs are used: 
+     - **Green EMA (20-period, source: High)**: Tracks the high prices to identify the upper boundary of the trend.
+     - **Red EMA (20-period, source: Low)**: Tracks the low prices to identify the lower boundary of the trend.
+   - These EMAs act as dynamic support and resistance levels, helping to confirm the strength and direction of the trend.
+
+2. **Volume Analysis**:
+   - Volume is used to confirm the strength of the trend and the validity of pullbacks.
+   - A volume moving average is applied to filter out weak volume spikes and focus on significant volume changes.
+
+3. **Trend Identification**:
+   - The trend must originate from a consolidation phase and stay above (for an uptrend) or below (for a downtrend) the 20 EMA lines.
+   - The price should only retrace and resume between the two EMA lines, indicating a strong trend.
+
+### Entry Rules:
+1. **Trend Confirmation**:
+   - Wait for the price to break out of a consolidation phase and aggressively move away from the EMA lines.
+   - Confirm the breakout with strong volume that pops above the volume moving average.
+
+2. **Pullback Analysis**:
+   - Look for a weak pullback to the EMA lines, where the volume is within the volume moving average.
+   - The pullback leg should visually struggle compared to the swing leg, indicating a lack of selling/buying pressure.
+
+3. **Entry Signal**:
+   - When the price reaches the EMA lines area, look for candlestick patterns (e.g., support/resistance, engulfing patterns) or other signals suggesting a reversal.
+   - Enter the trade in the direction of the trend when the price shows signs of resuming its movement away from the EMA lines.
+
+### Exit Rules:
+1. **Stop Loss**:
+   - Place the stop loss below the recent swing low (for an uptrend) or above the recent swing high (for a downtrend).
+   - Alternatively, use the opposite EMA line as a stop-loss level.
+
+2. **Take Profit**:
+   - Use a trailing stop or a fixed risk-reward ratio (e.g., 2:1 or 3:1) to lock in profits.
+   - Exit the trade if the price breaks the 20 EMA lines, indicating a potential trend reversal.
+
+### Risk Management:
+1. **Position Sizing**:
+   - Risk only a small percentage of your trading capital (e.g., 1-2%) per trade.
+   - Adjust position size based on the distance to the stop-loss level to maintain consistent risk.
+
+2. **Trade Filtering**:
+   - Only take trades that meet all the criteria (strong trend, valid pullback, and volume confirmation).
+   - Avoid trading during low-volume periods or when the market is in a tight range.
+
+### Required Indicators:
+1. **Exponential Moving Averages (EMAs)**:
+   - Two EMAs with a length of 20: one set to the high (Green) and one set to the low (Red).
+
+2. **Volume Indicator**:
+   - A volume moving average to filter out weak volume spikes and confirm strong trends.
+
+3. **Candlestick Patterns**:
+   - Use candlestick patterns (e.g., engulfing, pin bars) to identify potential reversal points at the EMA lines.
+
+### Time Frame:
+- This strategy works best on the **1-hour time frame**, as it provides a balance between noise and trend clarity.
+
+By following the EMAVolumeSync strategy, traders can effectively identify and capitalize on strong trends while minimizing the risk of entering during weak or consolidating markets. Rewatch the video and practice on a demo account to fully grasp the nuances of this approach.

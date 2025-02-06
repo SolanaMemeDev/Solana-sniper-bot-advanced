@@ -1,0 +1,32 @@
+STRATEGY_NAME: TrendReversal
+
+STRATEGY_DETAILS:
+This strategy focuses on identifying potential trend reversals using a combination of moving averages, RSI, and volume analysis. The goal is to catch early signs of a trend change and capitalize on the new direction.
+
+Key Strategy Components:
+1. Moving Averages: Use a 50-period and 200-period Exponential Moving Average (EMA) to identify the overall trend.
+2. Relative Strength Index (RSI): Use a 14-period RSI to identify overbought or oversold conditions.
+3. Volume Analysis: Use volume spikes to confirm potential reversals.
+
+Entry Rules:
+1. Long Entry: When the 50 EMA crosses above the 200 EMA (Golden Cross) and RSI is below 30 (oversold), enter a long position.
+2. Short Entry: When the 50 EMA crosses below the 200 EMA (Death Cross) and RSI is above 70 (overbought), enter a short position.
+3. Volume Confirmation: Ensure there is a significant volume spike on the day of the crossover to confirm the entry.
+
+Exit Rules:
+1. Long Exit: Exit the long position when the RSI crosses above 70 (overbought) or when the 50 EMA crosses below the 200 EMA.
+2. Short Exit: Exit the short position when the RSI crosses below 30 (oversold) or when the 50 EMA crosses above the 200 EMA.
+3. Stop Loss: Set a stop loss at 2% below the entry price for long positions and 2% above the entry price for short positions.
+
+Risk Management:
+1. Position Sizing: Risk no more than 1% of the total portfolio on any single trade.
+2. Stop Loss: Always use a stop loss to limit potential losses.
+3. Diversification: Avoid putting all capital into a single trade or asset.
+
+Required Indicators:
+1. 50-period Exponential Moving Average (EMA)
+2. 200-period Exponential Moving Average (EMA)
+3. 14-period Relative Strength Index (RSI)
+4. Volume Indicator
+
+This strategy aims to capitalize on trend reversals by combining technical indicators and volume analysis, ensuring a disciplined approach to risk management.

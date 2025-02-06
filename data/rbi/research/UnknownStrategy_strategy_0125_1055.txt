@@ -1,0 +1,68 @@
+### Momentum Trading Strategy Instructions for Backtesting
+
+#### 1. **Key Strategy Components**
+   - **Objective**: Capture trends by identifying strong momentum in price movements.
+   - **Timeframe**: Use a 15-minute or 1-hour chart for intraday trading.
+   - **Asset**: Suitable for liquid assets with high volatility (e.g., major forex pairs, indices, or cryptocurrencies).
+   - **Core Principle**: Buy during uptrends and sell during downtrends, focusing on breakouts and pullbacks.
+
+---
+
+#### 2. **Required Indicators**
+   - **Moving Average (MA)**:
+     - Use a 50-period Exponential Moving Average (EMA) to identify the trend direction.
+   - **Relative Strength Index (RSI)**:
+     - Use a 14-period RSI to gauge overbought/oversold conditions.
+   - **Average True Range (ATR)**:
+     - Use a 14-period ATR to measure volatility and set stop-loss levels.
+
+---
+
+#### 3. **Entry Rules**
+   - **Long Entry**:
+     1. Price must be above the 50 EMA (indicating an uptrend).
+     2. RSI must be above 50 (confirming bullish momentum).
+     3. Enter on a breakout above a recent swing high or during a pullback to the 50 EMA.
+   - **Short Entry**:
+     1. Price must be below the 50 EMA (indicating a downtrend).
+     2. RSI must be below 50 (confirming bearish momentum).
+     3. Enter on a breakout below a recent swing low or during a pullback to the 50 EMA.
+
+---
+
+#### 4. **Exit Rules**
+   - **Take Profit**:
+     - Set a take-profit level at 1.5x the ATR value from the entry point.
+   - **Stop Loss**:
+     - Place a stop-loss at 1x the ATR value below the entry point for long trades or above the entry point for short trades.
+   - **Trailing Stop**:
+     - Use a trailing stop of 0.5x the ATR to lock in profits as the trend continues.
+
+---
+
+#### 5. **Risk Management**
+   - **Position Sizing**:
+     - Risk no more than 1-2% of the trading capital per trade.
+   - **Risk-Reward Ratio**:
+     - Aim for a minimum risk-reward ratio of 1:1.5.
+   - **Maximum Daily Loss**:
+     - Stop trading for the day if losses exceed 5% of the account balance.
+
+---
+
+#### 6. **Additional Rules**
+   - **Avoid Trading During Low Volatility**:
+     - Do not enter trades if the ATR value is below a predefined threshold (e.g., 10 pips for forex).
+   - **Time Filter**:
+     - Only trade during high-volume hours (e.g., London or New York session for forex).
+
+---
+
+#### 7. **Backtesting Parameters**
+   - **Data Range**: Use at least 6 months of historical data.
+   - **Slippage**: Assume 1 pip slippage per trade.
+   - **Commission**: Include trading fees (e.g., $5 per round trip for futures).
+
+---
+
+This strategy is designed to capitalize on strong momentum while minimizing risk through strict entry/exit rules and robust risk management. Adjust parameters as needed based on the asset and market conditions.

@@ -1,0 +1,51 @@
+STRATEGY_NAME: MomentumRejection
+
+STRATEGY_DETAILS:
+The MomentumRejection strategy is a sophisticated trend-following approach that combines trendline analysis with momentum confirmation and rejection patterns to identify high-probability trade setups. This strategy is designed to capitalize on both continuation and breakout patterns within trending markets, ensuring a robust framework for consistent profits.
+
+### Key Strategy Components:
+1. **Trendline Drawing**: 
+   - **Uptrend**: Draw the trendline below the price action, connecting higher lows.
+   - **Downtrend**: Draw the trendline above the price action, connecting lower highs.
+   - Adjust the trendline to maximize the number of touches, treating it as a general area rather than an exact line.
+
+2. **Continuation Pattern**:
+   - **Identification**: Price bounces back in the direction of the trend after hitting the trendline.
+   - **Confirmation**: Use a mini trendline at the pullback and wait for the price to break out of this mini trendline.
+   - **Indicator Confirmation**: Utilize the Stochastic Oscillator to confirm the continuation pattern. For an uptrend, wait for the Stochastic to cross back inside the oversold level. For a downtrend, wait for it to cross back inside the overbought level.
+
+3. **Breakout Pattern**:
+   - **Identification**: Price breaks out of the trendline, indicating a potential trend reversal.
+   - **Confirmation**: Look for signs of momentum loss before the breakout, such as lower highs in an uptrend or higher lows in a downtrend.
+   - **Double Rejection**: Spot double rejection patterns (e.g., double tops or double bottoms) to confirm the breakout.
+
+### Entry Rules:
+1. **Continuation Pattern**:
+   - **Buy Position**: In an uptrend, after the price breaks out of the mini trendline and the Stochastic confirms by crossing back inside the oversold level.
+   - **Sell Position**: In a downtrend, after the price breaks out of the mini trendline and the Stochastic confirms by crossing back inside the overbought level.
+
+2. **Breakout Pattern**:
+   - **Sell Position**: In an uptrend, after the price breaks out of the trendline with confirmed momentum loss (e.g., lower high) and/or a double rejection pattern.
+   - **Buy Position**: In a downtrend, after the price breaks out of the trendline with confirmed momentum loss (e.g., higher low) and/or a double rejection pattern.
+
+### Exit Rules:
+1. **Continuation Pattern**:
+   - Exit the trade when the price reaches a predefined profit target or when the trendline is breached in the opposite direction.
+
+2. **Breakout Pattern**:
+   - Exit the trade when the price reaches a predefined profit target or when the new trendline (drawn after the breakout) is breached.
+
+### Risk Management:
+1. **Position Sizing**: Use a fixed percentage of your trading capital for each trade to manage risk effectively.
+2. **Stop-Loss Placement**:
+   - **Continuation Pattern**: Place the stop-loss just below the mini trendline for a buy position or just above the mini trendline for a sell position.
+   - **Breakout Pattern**: Place the stop-loss just above the trendline for a sell position or just below the trendline for a buy position.
+3. **Risk-Reward Ratio**: Aim for a minimum risk-reward ratio of 1:2 to ensure profitable trades outweigh losses.
+
+### Required Indicators:
+1. **Trendlines**: For identifying key levels and potential trade setups.
+2. **Stochastic Oscillator**: For confirming continuation patterns and momentum shifts.
+3. **Price Action Analysis**: For spotting momentum loss and double rejection patterns.
+
+### Summary:
+The MomentumRejection strategy is a powerful tool for traders looking to capitalize on trending markets with high-probability setups. By combining trendline analysis with momentum confirmation and rejection patterns, this strategy offers a structured approach to identifying and executing trades with a high win rate. Always remember to wait for confirmations before entering a trade and to manage risk effectively to ensure long-term profitability.

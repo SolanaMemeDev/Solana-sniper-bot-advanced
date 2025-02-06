@@ -1,0 +1,30 @@
+STRATEGY_NAME: MomentumSurge
+
+STRATEGY_DETAILS:
+This strategy focuses on identifying and capitalizing on strong momentum moves in the market, particularly in trending conditions. It uses a combination of moving averages and momentum indicators to confirm entries and exits.
+
+1. **Key Strategy Components**:
+   - **Trend Identification**: Use a 50-period Exponential Moving Average (EMA) to determine the overall trend. Price above the 50 EMA indicates an uptrend, while price below indicates a downtrend.
+   - **Momentum Confirmation**: Use the Relative Strength Index (RSI) to confirm momentum. An RSI above 50 in an uptrend or below 50 in a downtrend confirms momentum alignment with the trend.
+   - **Entry Signal**: Look for a pullback to the 20-period EMA in the direction of the trend. Enter a trade when price bounces off the 20 EMA and RSI confirms momentum (above 50 for uptrend, below 50 for downtrend).
+   - **Exit Signal**: Exit the trade when price closes below the 20 EMA in an uptrend or above the 20 EMA in a downtrend. Alternatively, use a trailing stop or a fixed risk-reward ratio (e.g., 1:2).
+
+2. **Entry Rules**:
+   - **Uptrend Entry**: Price is above the 50 EMA, pulls back to the 20 EMA, and RSI is above 50.
+   - **Downtrend Entry**: Price is below the 50 EMA, rallies to the 20 EMA, and RSI is below 50.
+
+3. **Exit Rules**:
+   - **Uptrend Exit**: Price closes below the 20 EMA or hits a predefined profit target.
+   - **Downtrend Exit**: Price closes above the 20 EMA or hits a predefined profit target.
+
+4. **Risk Management**:
+   - Set a stop-loss below the recent swing low (for uptrend) or above the recent swing high (for downtrend).
+   - Use a risk-reward ratio of at least 1:2 to ensure favorable risk management.
+   - Limit position size to 1-2% of total account equity per trade.
+
+5. **Required Indicators**:
+   - 50-period Exponential Moving Average (EMA)
+   - 20-period Exponential Moving Average (EMA)
+   - Relative Strength Index (RSI) with a 14-period setting
+
+This strategy is designed to capture strong momentum moves while minimizing risk through clear trend identification and disciplined entry/exit rules.

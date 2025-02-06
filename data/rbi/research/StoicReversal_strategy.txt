@@ -1,0 +1,31 @@
+STRATEGY_NAME: Stoic Reversal
+
+STRATEGY_DETAILS:
+This strategy is built around a disciplined, emotion-free approach that leverages the power of the stochastic RSI indicator to time market reversals. The unique twist is to use clear, rule-based signals from the indicator’s overbought and oversold conditions across multiple time frames, ensuring that trading decisions are made mechanically rather than emotionally.
+
+Key Strategy Components:
+• Main Indicator – Stochastic RSI: Focus on the oscillator’s fluctuations between 0 and 100, where readings above 80 indicate an overbought market and levels below 20 (or even closer to 15 for longer-term trades) mark oversold conditions.
+• Multiple Time Frame Analysis: Use shorter time frames (like 1-hour for day trades) and higher time frames (4-hour, 8-hour, daily, or weekly) to set the context of the trade. Each time frame is tailored to specific trade durations while maintaining consistency in using the indicator’s extreme zones.
+• Emotionless & Systematic Trading: Inspired by a “stoic” approach, the strategy emphasizes following the indicator’s signals without getting distracted by market noise or emotions. This methodology is designed to build consistency and compound gains over a series of trades.
+
+Entry/Exit Rules:
+• Entry (Buying):
+ – Monitor for when the stochastic RSI falls into the oversold zone (below 20 on intraday charts and around 0–15 on longer-term charts).
+ – Once the price touches that oversold area, prepare to enter by gradually adding positions. The idea is to accumulate when fear has driven the price down—not chasing a perfect bottom but trusting the signal.
+• Exit (Selling):
+ – When the stochastic RSI moves into the overbought territory (above 80), it signals that the market is heated up.
+ – Begin prepping to sell as soon as the indicator enters this zone. Execution can be refined by using the crossover of the RSI lines as a confirmation trigger to start liquidating positions gradually.
+ – The method focuses on capturing consistent, partial profits rather than waiting to hit an absolute peak, thereby compounding gains trade after trade.
+ 
+Risk Management:
+• Strict Signal Adherence: Trade only when the indicator confirms the market’s condition—buy in oversold zones and sell when overbought—thus avoiding emotional or noisy market entries.
+• Gradual Positioning: Use incremental entries and exits (dollar-cost averaging) to safeguard against the natural variability of market moves.
+• Trade Frequency & Position Sizing: Given the strategy may yield only a handful of significant trades over extended periods (example trades every few months or even years for long-term charts), maintain a rigorous risk-per-trade plan and consider stop-loss orders if price action deviates unexpectedly.
+• Systematic Discipline: By treating each signal as a command to act and stepping away from the screen when decisions are executed, traders can avoid second-guessing and stick to their established risk/reward framework.
+
+Required Indicators:
+• Stochastic RSI: The core tool for spotting reversal opportunities by identifying extreme market conditions.
+• Price Candlestick Chart: To visually sync price behavior with oscillator cues.
+• (Optional) Volume or Trend Filters: To add extra layers of confirmation if desired, though the strategy is fundamentally designed to be simple and indicator-driven.
+
+By following this Stoic Reversal methodology, traders can remove emotion from the equation, trade with discipline, and allow the compound power of consistent, clear signals to work in their favor over time.

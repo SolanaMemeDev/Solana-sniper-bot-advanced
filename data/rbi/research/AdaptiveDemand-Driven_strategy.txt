@@ -1,0 +1,28 @@
+STRATEGY_NAME: Adaptive Demand-Driven
+
+STRATEGY_DETAILS:
+
+This strategy focuses on identifying and capitalizing on demand zones within an established trend direction. The key components are:
+
+1. Market Structure Analysis:
+   - Determine the current trend direction (uptrend or downtrend) by identifying higher highs/lows or lower highs/lows.
+   - Only consider trading in the direction of the established trend, avoiding countertrend trades.
+   - Identify valid lows/highs by looking for price breaking above/below the previous swing high/low.
+
+2. Demand/Supply Zone Identification:
+   - In an uptrend, look for areas of consolidation or sideways movement preceding a sharp move higher, which indicate potential demand zones.
+   - In a downtrend, identify areas of consolidation or sideways movement preceding a sharp move lower, which indicate potential supply zones.
+   - Mark the demand/supply zones by drawing a rectangle from the low to high of the candle before the impulsive move.
+
+3. Adaptive Risk Management:
+   - Only enter trades when the risk-to-reward ratio is at least 2.5:1 or higher.
+   - Place stop-loss orders just below the identified demand zone (for long trades) or just above the supply zone (for short trades).
+   - Set take-profit targets at the recent swing highs (for long trades) or recent swing lows (for short trades).
+
+The key advantages of this strategy are:
+
+1. Trend-following approach, which increases the probability of successful trades.
+2. Identification of dynamic demand and supply zones based on market structure analysis.
+3. Strict risk management through the 2.5:1 risk-to-reward ratio requirement.
+
+This adaptive, demand-driven strategy aims to capitalize on the strength of the prevailing trend while managing risk effectively. By focusing on high-probability trade setups and implementing robust risk controls, the strategy seeks to generate consistent, long-term profitability.

@@ -1,0 +1,35 @@
+STRATEGY_NAME: TrendFollower
+
+STRATEGY_DETAILS:
+This strategy is a trend-following approach that uses moving averages and price action to identify and trade with the prevailing trend. The key components include:
+
+1. **Key Strategy Components**:
+   - **200 EMA (Exponential Moving Average)**: Used to determine the overall trend direction. Price above the 200 EMA indicates an uptrend, while price below indicates a downtrend.
+   - **9 EMA**: Used as a dynamic support/resistance level and to identify short-term momentum.
+   - **Price Action**: Confirms entries and exits based on candlestick patterns and breakouts.
+
+2. **Entry Rules**:
+   - **Long Entry**: 
+     - Price must be above the 200 EMA (uptrend).
+     - Wait for a pullback to the 9 EMA.
+     - Enter on a bullish candlestick pattern (e.g., bullish engulfing, pin bar) or a breakout above a recent high.
+   - **Short Entry**:
+     - Price must be below the 200 EMA (downtrend).
+     - Wait for a pullback to the 9 EMA.
+     - Enter on a bearish candlestick pattern (e.g., bearish engulfing, pin bar) or a breakdown below a recent low.
+
+3. **Exit Rules**:
+   - **Take Profit**: Use a trailing stop or a fixed risk-reward ratio (e.g., 2:1 or 3:1).
+   - **Stop Loss**: Place below the recent swing low (for long trades) or above the recent swing high (for short trades).
+   - Exit if the price crosses back below the 9 EMA (for long trades) or above the 9 EMA (for short trades).
+
+4. **Risk Management**:
+   - Risk no more than 1-2% of the trading account per trade.
+   - Adjust position size based on the distance between entry and stop loss to maintain consistent risk.
+
+5. **Required Indicators**:
+   - 200 EMA (Exponential Moving Average).
+   - 9 EMA (Exponential Moving Average).
+   - Candlestick patterns for confirmation.
+
+This strategy is designed to capture trends while minimizing risk by using moving averages as dynamic support/resistance levels and price action for confirmation. It works best in trending markets and may underperform in choppy or sideways conditions.

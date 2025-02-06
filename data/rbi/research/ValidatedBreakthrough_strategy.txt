@@ -1,0 +1,27 @@
+STRATEGY_NAME: ValidatedBreakthrough
+
+STRATEGY_DETAILS:
+
+This strategy, called "ValidatedBreakthrough," focuses on identifying market structure, supply and demand zones, and managing risk to reward ratio. The unique aspect of this strategy lies in its specific rules for validating lows and highs, ensuring that the trader is always in tune with the current trend.
+
+1. Key strategy components:
+- Market structure identification (uptrends and downtrends)
+- Validating lows and highs
+- Supply and demand zones
+- Risk to reward ratio management
+
+2. Entry/exit rules:
+- Enter long positions in uptrends when price reenters a validated demand zone.
+- Set stop loss below the demand zone.
+- Set take profit at recent highs.
+- Enter short positions in downtrends when price reenters a validated supply zone.
+- Set stop loss above the supply zone.
+- Set take profit at recent lows.
+
+3. Risk management:
+- Only take trades if the risk to reward ratio is above 2.5:1, meaning for every $100 risked, you aim for a minimum of $250 in profit.
+
+4. Required indicators:
+- None, as the strategy relies on pure price action and chart analysis.
+
+By following the "ValidatedBreakthrough" strategy, traders can identify the current market trend, locate high-probability trade entries, and manage risk effectively to increase their profitability.

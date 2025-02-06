@@ -1,0 +1,52 @@
+STRATEGY_NAME: MomentumSurge
+
+STRATEGY_DETAILS:
+This strategy focuses on identifying and capitalizing on strong momentum moves in the market, using a combination of moving averages, volume analysis, and price action to confirm entries and exits.
+
+### Key Strategy Components:
+1. **Moving Averages**: 
+   - Use a 9-period Exponential Moving Average (EMA) and a 21-period EMA to identify the trend direction.
+   - The 9 EMA crossing above the 21 EMA signals a bullish trend, while crossing below signals a bearish trend.
+   
+2. **Volume Analysis**:
+   - Use volume as a confirmation tool. A surge in volume during a breakout or trend continuation increases the validity of the move.
+   
+3. **Price Action**:
+   - Look for breakouts above key resistance levels or below key support levels to confirm momentum.
+   - Use candlestick patterns (e.g., bullish/bearish engulfing, pin bars) to confirm entry signals.
+
+### Entry Rules:
+1. **Bullish Entry**:
+   - The 9 EMA must cross above the 21 EMA.
+   - Price must break above a key resistance level with a surge in volume.
+   - Enter on the next candle after the breakout, preferably on a pullback to the breakout level or the 9 EMA.
+
+2. **Bearish Entry**:
+   - The 9 EMA must cross below the 21 EMA.
+   - Price must break below a key support level with a surge in volume.
+   - Enter on the next candle after the breakdown, preferably on a pullback to the breakdown level or the 9 EMA.
+
+### Exit Rules:
+1. **Take Profit**:
+   - Use a trailing stop based on the 9 EMA. Exit when the price closes below the 9 EMA in a long trade or above the 9 EMA in a short trade.
+   - Alternatively, set a fixed risk-reward ratio (e.g., 1:2 or 1:3) based on the initial stop-loss distance.
+
+2. **Stop Loss**:
+   - Place the stop-loss below the recent swing low (for long trades) or above the recent swing high (for short trades).
+   - Ensure the stop-loss is outside the noise of the market, typically 1-2 ATR (Average True Range) away from the entry point.
+
+### Risk Management:
+1. **Position Sizing**:
+   - Risk no more than 1-2% of your trading capital on any single trade.
+   - Adjust position size based on the distance between entry and stop-loss levels.
+
+2. **Diversification**:
+   - Avoid over-concentration in a single asset or sector. Spread risk across multiple instruments.
+
+### Required Indicators:
+1. **9 EMA** and **21 EMA**: To identify trend direction and momentum.
+2. **Volume Indicator**: To confirm the strength of breakouts or breakdowns.
+3. **ATR (Average True Range)**: To set stop-loss levels and measure market volatility.
+4. **Support/Resistance Levels**: To identify key price levels for breakouts or breakdowns.
+
+This strategy is designed to capture strong momentum moves while minimizing risk through disciplined entry, exit, and risk management rules.

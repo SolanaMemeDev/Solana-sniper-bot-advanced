@@ -1,0 +1,73 @@
+### Momentum Trading Strategy Instructions for Backtesting
+
+#### 1. **Key Strategy Components**
+   - **Objective**: Capture trends by identifying strong momentum in price movements.
+   - **Timeframe**: Use daily or intraday charts (e.g., 1-hour or 4-hour).
+   - **Market**: Applicable to stocks, forex, or cryptocurrencies.
+   - **Core Principle**: Buy when momentum is strong and sell when momentum weakens.
+
+---
+
+#### 2. **Required Indicators**
+   - **Moving Average (MA)**:
+     - Use a 50-period Simple Moving Average (SMA) to identify the trend direction.
+   - **Relative Strength Index (RSI)**:
+     - Use a 14-period RSI to measure momentum strength.
+   - **Average True Range (ATR)**:
+     - Use a 14-period ATR to determine volatility and set stop-loss levels.
+
+---
+
+#### 3. **Entry Rules**
+   - **Long Entry**:
+     1. Price must be above the 50-period SMA (uptrend).
+     2. RSI must be above 50 (momentum is strong).
+     3. Wait for a pullback to the 50-period SMA or a key support level.
+     4. Enter a long position when price breaks above the recent high (confirmation of momentum continuation).
+   - **Short Entry**:
+     1. Price must be below the 50-period SMA (downtrend).
+     2. RSI must be below 50 (momentum is weak).
+     3. Wait for a pullback to the 50-period SMA or a key resistance level.
+     4. Enter a short position when price breaks below the recent low (confirmation of momentum continuation).
+
+---
+
+#### 4. **Exit Rules**
+   - **Take Profit**:
+     - Set a take-profit level at 2x the ATR value from the entry price.
+   - **Stop Loss**:
+     - Set a stop-loss level at 1x the ATR value from the entry price.
+   - **Trailing Stop**:
+     - Use a trailing stop of 1x ATR to lock in profits as the trend continues.
+   - **Exit on RSI Divergence**:
+     - Exit the trade if RSI shows divergence (e.g., price makes a higher high, but RSI makes a lower high).
+
+---
+
+#### 5. **Risk Management**
+   - **Position Sizing**:
+     - Risk no more than 1-2% of your trading capital per trade.
+   - **Risk-Reward Ratio**:
+     - Aim for a minimum risk-reward ratio of 1:2.
+   - **Maximum Drawdown**:
+     - Limit maximum drawdown to 5% of your account balance.
+
+---
+
+#### 6. **Backtesting Parameters**
+   - **Data Period**: Test on at least 1-2 years of historical data.
+   - **Market Conditions**: Include both trending and ranging markets.
+   - **Optimization**:
+     - Test different SMA periods (e.g., 20, 50, 100) and RSI thresholds (e.g., 50, 60, 40).
+     - Adjust ATR multiplier for stop-loss and take-profit levels (e.g., 1x, 1.5x, 2x).
+
+---
+
+#### 7. **Additional Notes**
+   - Avoid trading during low liquidity periods (e.g., weekends, holidays).
+   - Use volume confirmation to validate momentum signals.
+   - Monitor macroeconomic events that may impact momentum.
+
+---
+
+These instructions are ready for backtesting. Adjust parameters as needed based on the asset and timeframe being tested.

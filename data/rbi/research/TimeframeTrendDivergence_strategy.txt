@@ -1,0 +1,27 @@
+STRATEGY_NAME: TimeframeTrendDivergence
+
+STRATEGY_DETAILS:
+
+This strategy, called TimeframeTrendDivergence, focuses on trading trends in different timeframes to identify potential entry points. The strategy avoids using indicators and instead relies on observing price action and trend formations.
+
+1. Key strategy components:
+   - Identifying Market structures in various timeframes (weekly, daily, 4-hour, 1-hour, and 15-minute)
+   - Analyzing trend directions and consolidations
+   - Setting realistic targets based on overall Market structures
+
+2. Entry/exit rules:
+   - Identify a bullish weekly timeframe, followed by a bullish daily timeframe
+   - Look for a consolidation or sideways trend in the 4-hour timeframe
+   - Observe a clear trend (either up or down) in the 1-hour timeframe
+   - Set an order for a potential short or long trade, depending on the 1-hour trend direction
+   - Wait for the trend to break in the 1-hour timeframe, then enter the trade in the 15-minute timeframe
+   - Set a stop loss and take profit based on a simple risk-reward ratio, such as 1:2 or 1:3
+
+3. Risk management:
+   - Always consider the overall Market structure and trend direction
+   - Set realistic targets based on the risk-reward ratio
+   - Adjust stop losses and take profits as the trade progresses
+
+4. Required indicators: None
+
+This strategy can be used on various markets, including Bitcoin, Forex, and other cryptocurrencies. Be patient and monitor the trends in different timeframes to identify profitable trading opportunities.

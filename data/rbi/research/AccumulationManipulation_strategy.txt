@@ -1,0 +1,26 @@
+STRATEGY_NAME: AccumulationManipulation
+
+STRATEGY_DETAILS:
+
+1. Key strategy components:
+- Accumulation: Price moves sideways or consolidates, indicating resting liquidity above and below these areas.
+- Manipulation: Price manipulates in either direction before skyrocketing to the opposite direction.
+- Distribution: Price moves in the direction of the market bias after manipulation.
+
+2. Entry/exit rules:
+- Identify the market bias using the 1H time frame: higher highs and higher lows for an uptrend, lower highs and lower lows for a downtrend.
+- Focus on the 5-minute time frame between 10:00 a.m. and 11:30 a.m. Eastern Standard Time.
+- Look for accumulation (sideways movement) and manipulation (price moving against the market bias) within the specified time frame.
+- Enter a trade when a fair value gap is present after manipulation. Set the stop loss below the low and take profit at the high.
+- Improve take profit levels using Fibonacci retracement tool with values set to 1, 0.79, 0.62, 0, -0.62, -1, -1.5, -2, -2.5, and -4. Set take profit at the -2 or -2.5 level, preferably when it aligns with other confluences.
+
+3. Risk management:
+- Set a stop loss below the low after entering a trade.
+- Use Fibonacci retracement levels to set a more precise take profit level.
+
+4. Required indicators:
+- 1H time frame for identifying market bias.
+- 5-minute time frame for trade entry.
+- Fibonacci retracement tool for improving take profit levels.
+
+By following this AccumulationManipulation strategy, you can potentially predict the market's direction and take advantage of the resulting price movements.

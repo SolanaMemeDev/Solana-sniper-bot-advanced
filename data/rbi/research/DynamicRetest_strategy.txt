@@ -1,0 +1,32 @@
+STRATEGY_NAME: Dynamic Retest
+
+STRATEGY_DETAILS:
+1. Key Strategy Components:
+   • Pure Price Action: This method relies solely on reading price without any supplemental indicators. It centers on understanding market structure and letting the price confirm itself.
+   • Market Structure Validation: The strategy begins with detailed market structure analysis. Look for higher highs/higher lows in an uptrend (or lower lows/lower highs in a downtrend). A key twist: a “low” is only considered valid if a subsequent move breaks the prior high. This rule prevents mistaking a temporary pullback for a true trend reversal.
+   • Supply and Demand Zones: After establishing trend direction, identify zones by noting areas of consolidation that immediately precede strong impulsive moves. In an uptrend, these zones serve as Demand areas to buy on retests; in a downtrend, the equivalent Supply zones are used for short entries.
+
+2. Entry/Exit Rules:
+   • Trend Identification & Confirmation:
+       - Confirm the trend by observing consistent higher highs and higher lows (or lower counterparts in a downtrend).
+       - Identify critical “break points”: for an uptrend, if a price level (a low) breaks a previous high, it becomes a potential turning point—but only if the criteria for a valid low are met.
+   • Zone Marking & Entry Setup:
+       - Use a rectangle tool to mark the candle or consolidation area just before an impulsive move. This marked range becomes your Demand (or Supply) zone.
+       - Wait for price to reenter the marked zone. In an uptrend, look to buy when price retests a Demand zone; in a downtrend, seek a short entry at a Supply zone retest.
+   • Stop Loss & Take Profit:
+       - Set the stop loss just beyond the zone: below the demand zone for long positions (or above the supply zone for shorts) to account for minor fluctuations.
+       - Use recent highs (for longs) or recent lows (for shorts) as your take profit targets.
+       - Crucially, only take the trade if the potential risk-to-reward ratio is above 2.5:1.
+
+3. Risk Management:
+   • Strict Risk-to-Reward Filter: Before entering any trade, calculate the risk/reward ratio. The trade should only be executed if the ratio is 2.5:1 or better, ensuring that each winning trade covers potential losses.
+   • Directional Trading Only: Always trade in the direction of the confirmed trend. Avoid countertrend positions—if the key level is not broken as defined (e.g., a “valid low” remains unconfirmed), do not reverse your trade bias.
+   • Precise Stop Placement: By anchoring stop losses at the border of the marked supply/demand zones, you maintain tight risk control while giving the trade room to breathe.
+
+4. Required Tools/Indicators:
+   • Price Action & Charting Tools: This is an indicator-free strategy. Instead, use charting tools such as:
+       - A rectangle (or zone) drawing tool to visually mark consolidation areas that form demand or supply zones.
+       - Trendline drawing tools to highlight market structure and validate higher highs/higher lows.
+   • Basic Calculation: A simple risk/reward calculator (or manual calculation) helps ensure trades meet the 2.5:1 minimum threshold before entry.
+
+In summary, Dynamic Retest is a disciplined, pure price action approach that combines rigorous market structure validation with supply and demand zone retests. By trading exclusively in the direction of the trend and enforcing a strict risk management criterion, this strategy aims to capture high-probability moves and maintain profitability over the long term.

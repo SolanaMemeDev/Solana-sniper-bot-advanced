@@ -1,0 +1,96 @@
+STRATEGY_NAME: TrendVengeance Trailing
+
+STRATEGY_DETAILS:
+The TrendVengeance Trailing strategy is a robust trend-following approach designed to capitalize on strong, sustained market trends while minimizing losses during choppy or sideways markets. This strategy emphasizes the importance of trailing stops and disciplined risk management to capture significant profits during trending phases. Below is a detailed breakdown of the strategy:
+
+---
+
+### **Key Strategy Components**
+1. **True Trend Following (TTF) Philosophy**:
+   - Focuses on identifying and riding strong, healthy trends rather than predicting market movements.
+   - Avoids trading in choppy or sideways markets, as these conditions do not align with the strategy's core principles.
+
+2. **Fundamental and Technical Alignment**:
+   - Combines fundamental analysis (e.g., central bank policies, economic events) to identify potential trending markets.
+   - Uses technical analysis to confirm trends and identify entry points during pullbacks.
+
+3. **Trailing Stops with a Vengeance**:
+   - Employs aggressive trailing stops to lock in profits as the trend progresses.
+   - No fixed take-profit levels; instead, the strategy relies on trailing stops to exit trades when the trend reverses.
+
+4. **Low Win Rate, High Reward Potential**:
+   - Accepts a low win rate (e.g., 43% winners, 57% losers) in exchange for the potential to capture large, trending moves.
+   - Aims for high risk-to-reward ratios (e.g., 15:1 or higher) on winning trades to offset frequent small losses.
+
+---
+
+### **Entry Rules**
+1. **Identify a Strong Trend**:
+   - Look for markets exhibiting clear, sustained directional movement (up or down).
+   - Use higher timeframes (e.g., daily charts) to confirm the trend's strength.
+
+2. **Wait for a Pullback**:
+   - Enter trades during retracements or pullbacks within the established trend.
+   - Look for key support/resistance levels or moving averages to confirm the pullback's validity.
+
+3. **Place a Tight Stop-Loss**:
+   - Set a stop-loss just below the recent swing low (for long trades) or above the recent swing high (for short trades).
+   - The stop-loss should be tight to minimize risk while allowing room for market noise.
+
+---
+
+### **Exit Rules**
+1. **Trailing Stop Mechanism**:
+   - As the trade moves in your favor, trail the stop-loss to lock in profits.
+   - Move the stop-loss to just below the most recent swing low (for long trades) or above the most recent swing high (for short trades).
+
+2. **Exit on Trend Reversal**:
+   - Exit the trade when the price breaks below a key support level (for long trades) or above a key resistance level (for short trades).
+   - This indicates a potential trend reversal and signals the end of the trade.
+
+3. **No Fixed Take-Profit**:
+   - Avoid setting predefined take-profit levels. Instead, let the trailing stop determine the exit point to maximize potential gains.
+
+---
+
+### **Risk Management**
+1. **Position Sizing**:
+   - Risk a small percentage of your trading capital on each trade (e.g., 1-2%).
+   - Adjust position size based on the distance to the stop-loss to ensure consistent risk per trade.
+
+2. **Accept Frequent Losses**:
+   - Understand that losing trades are a normal part of the strategy.
+   - Focus on the long-term profitability of the strategy rather than individual trade outcomes.
+
+3. **Avoid Overtrading**:
+   - Only trade in strong trending markets. Avoid entering trades during choppy or sideways conditions.
+
+---
+
+### **Required Indicators**
+1. **Price Action**:
+   - Use candlestick patterns and key support/resistance levels to identify trends and pullbacks.
+
+2. **Moving Averages (Optional)**:
+   - Use a long-term moving average (e.g., 200-period) to confirm the overall trend direction.
+
+3. **Trailing Stop Tool**:
+   - Use your trading platform's trailing stop feature to automate the process of moving stop-loss levels.
+
+---
+
+### **Psychological Considerations**
+1. **Patience and Discipline**:
+   - Be prepared to endure frequent small losses while waiting for the occasional large winner.
+   - Avoid the temptation to close winning trades prematurely due to fear or greed.
+
+2. **Embrace Drawdowns**:
+   - Understand that drawdowns are inevitable with this strategy. Stay committed to the process during challenging periods.
+
+3. **Focus on Long-Term Results**:
+   - Measure success over a series of trades rather than individual outcomes. The strategy's edge lies in its ability to capture large trends over time.
+
+---
+
+### **Summary**
+The TrendVengeance Trailing strategy is a disciplined, trend-following approach that prioritizes risk management and patience. By focusing on strong trending markets, using trailing stops, and accepting frequent small losses, traders can position themselves to capture significant profits during extended trends. This strategy is not for everyone, as it requires a high tolerance for drawdowns and a long-term perspective. However, for those who can master its principles, it offers the potential for substantial rewards.

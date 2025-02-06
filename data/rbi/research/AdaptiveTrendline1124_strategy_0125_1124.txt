@@ -1,0 +1,50 @@
+STRATEGY_NAME: AdaptiveTrendline
+
+STRATEGY_DETAILS:
+The AdaptiveTrendline strategy is a trend-following approach that focuses on identifying and trading breakouts from dynamic trendlines. It combines price action analysis with key technical indicators to confirm trend direction and potential entry points. The strategy is designed to adapt to changing market conditions by adjusting trendlines and using multiple confirmation signals.
+
+Key Strategy Components:
+1. Trendline Analysis: Draw dynamic trendlines connecting swing highs and lows to identify potential support and resistance levels.
+2. Moving Averages: Use a combination of short-term (e.g., 20-period) and long-term (e.g., 50-period) moving averages to confirm trend direction.
+3. Volume Analysis: Incorporate volume indicators to confirm breakout strength and validate trend continuation.
+4. Price Action: Focus on candlestick patterns and key price levels for entry and exit signals.
+
+Entry Rules:
+1. Long Entry:
+   - Price breaks above a downward trendline with increasing volume
+   - Short-term moving average crosses above long-term moving average
+   - Confirmation with bullish candlestick pattern (e.g., bullish engulfing)
+   
+2. Short Entry:
+   - Price breaks below an upward trendline with increasing volume
+   - Short-term moving average crosses below long-term moving average
+   - Confirmation with bearish candlestick pattern (e.g., bearish engulfing)
+
+Exit Rules:
+1. Take Profit:
+   - Use previous swing highs/lows or Fibonacci extensions as profit targets
+   - Trail stop loss below/above recent swing points as the trend progresses
+   
+2. Stop Loss:
+   - Place stop loss below/above the most recent swing low/high
+   - Use ATR (Average True Range) to determine appropriate stop distance
+
+Risk Management:
+1. Position Sizing: Risk no more than 1-2% of account capital per trade
+2. Risk-Reward Ratio: Aim for minimum 1:2 risk-reward ratio
+3. Diversification: Trade multiple uncorrelated instruments to spread risk
+4. Trend Filter: Only trade in the direction of the dominant trend on higher timeframes
+
+Required Indicators:
+1. Moving Averages (20-period and 50-period)
+2. Volume Indicator (e.g., Volume Weighted Moving Average)
+3. ATR (Average True Range) for stop loss placement
+4. Trendline Drawing Tool
+
+Additional Notes:
+- The strategy works best in trending markets and may underperform in ranging conditions
+- Use higher timeframes (4H, Daily) for trend identification and lower timeframes (1H, 15M) for precise entries
+- Combine with fundamental analysis for additional confirmation in volatile markets
+- Regularly adjust trendlines as new price action develops to maintain accuracy
+
+This AdaptiveTrendline strategy provides a systematic approach to trend following while incorporating dynamic elements to adapt to changing market conditions. The combination of trendline analysis, moving averages, and volume confirmation creates a robust framework for identifying high-probability trading opportunities.

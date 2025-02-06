@@ -1,0 +1,24 @@
+STRATEGY_NAME: StochasticPhaseTrader
+
+STRATEGY_DETAILS:
+
+This strategy, named StochasticPhaseTrader, focuses on using the Stochastic RSI indicator to identify overbought and oversold conditions, enabling the trader to make informed decisions about when to buy and sell. The strategy is based on the idea that extreme buying (overbought) or selling (oversold) creates a phase in the market that can be exploited for profit.
+
+1. Key strategy components:
+   - Identifying overbought and oversold conditions using the Stochastic RSI indicator.
+   - Dollar-cost averaging out of positions when the Stochastic RSI crosses the 80 threshold.
+   - Buying when the Stochastic RSI crosses the 20 threshold.
+   - Focusing on buying in the oversold zone and selling in the overbought zone.
+
+2. Entry/exit rules:
+   - Entering a position: Buy when the Stochastic RSI crosses below the 20 threshold. Add positions as the Stochastic RSI continues to decline, focusing on the oversold zone.
+   - Exiting a position: Start dollar-cost averaging out of positions when the Stochastic RSI crosses above the 80 threshold. Sell the remaining position once the Stochastic RSI falls back below the 80 threshold.
+
+3. Risk management:
+   - Utilize stop-loss orders to limit potential losses.
+   - Dollar-cost average out of positions to manage risk and ensure partial profit realization.
+
+4. Required indicators:
+   - Stochastic RSI (with settings typically at 14 periods, 3-period K, and 3-period D).
+
+By employing the StochasticPhaseTrader strategy, traders can take advantage of market phases, minimize emotions, and make systematic, informed decisions.

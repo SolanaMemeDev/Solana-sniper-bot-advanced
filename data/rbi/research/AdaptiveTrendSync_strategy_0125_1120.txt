@@ -1,0 +1,45 @@
+STRATEGY_NAME: AdaptiveTrendSync
+
+STRATEGY_DETAILS:
+The AdaptiveTrendSync strategy is a dynamic trend-following approach that combines multiple technical indicators to identify and capitalize on strong trending markets. It focuses on synchronizing price action with momentum and trend confirmation signals to ensure high-probability entries and exits.
+
+### Key Strategy Components:
+1. **Trend Identification**: Uses a combination of moving averages (e.g., 50 EMA and 200 EMA) to determine the overall market trend.
+2. **Momentum Confirmation**: Utilizes the Relative Strength Index (RSI) to confirm momentum alignment with the trend.
+3. **Entry Signals**: Relies on price action breakouts and pullbacks within the trend for precise entries.
+4. **Exit Signals**: Uses trailing stops and trend exhaustion signals to lock in profits.
+
+### Entry Rules:
+1. **Trend Confirmation**: 
+   - The 50 EMA must be above the 200 EMA for an uptrend (or below for a downtrend).
+   - Price should be consistently making higher highs and higher lows (or lower highs and lower lows for a downtrend).
+2. **Momentum Alignment**:
+   - RSI should be above 50 for an uptrend (or below 50 for a downtrend) to confirm bullish or bearish momentum.
+3. **Entry Trigger**:
+   - Look for a pullback to the 50 EMA (or a breakout above a recent high in an uptrend).
+   - Enter on a bullish candlestick pattern (e.g., engulfing or pin bar) during the pullback or breakout.
+
+### Exit Rules:
+1. **Trailing Stop**:
+   - Use a trailing stop-loss below the most recent swing low (for an uptrend) or above the most recent swing high (for a downtrend).
+2. **Trend Exhaustion**:
+   - Exit when RSI shows overbought (above 70) or oversold (below 30) conditions, indicating potential trend reversal.
+3. **EMA Crossover**:
+   - Exit if the 50 EMA crosses below the 200 EMA (for an uptrend) or above the 200 EMA (for a downtrend).
+
+### Risk Management:
+1. **Position Sizing**:
+   - Risk no more than 1-2% of your trading capital on any single trade.
+2. **Stop-Loss Placement**:
+   - Place the initial stop-loss below the recent swing low (for an uptrend) or above the recent swing high (for a downtrend).
+3. **Risk-Reward Ratio**:
+   - Aim for a minimum risk-reward ratio of 1:2 or higher.
+
+### Required Indicators:
+1. **50 EMA (Exponential Moving Average)**: To identify short-term trend direction.
+2. **200 EMA**: To confirm the long-term trend.
+3. **RSI (Relative Strength Index)**: To gauge momentum and overbought/oversold conditions.
+4. **Price Action Tools**: Candlestick patterns for entry confirmation.
+
+### Summary:
+The AdaptiveTrendSync strategy is designed to align with strong trends while minimizing false signals through momentum and trend confirmation. It emphasizes disciplined risk management and precise entry/exit rules to maximize profitability in trending markets.

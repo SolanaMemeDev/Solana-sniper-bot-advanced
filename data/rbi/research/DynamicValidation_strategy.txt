@@ -1,0 +1,26 @@
+STRATEGY_NAME: DynamicValidation
+
+STRATEGY_DETAILS:
+
+This strategy, named "DynamicValidation," focuses on market structure, supply and demand, and risk management. The unique aspect of this strategy is its dynamic validation of lows and highs to determine the market trend, instead of relying on predefined patterns or indicators.
+
+1. Key strategy components:
+   - Market structure analysis to determine uptrends and downtrends
+   - Dynamic validation of lows and highs to ensure trend authenticity
+   - Supply and demand zone identification for trade entries
+
+2. Entry/exit rules:
+   - Identify the market trend by analyzing higher highs and higher lows (uptrend) or lower lows and lower highs (downtrend)
+   - Validate lows and highs by checking if the previous high or low has been broken
+   - In an uptrend, only look for long trades and enter when price retests a demand zone
+   - In a downtrend, only look for short trades and enter when price retests a supply zone
+   - Set stop loss below the demand zone for long trades or above the supply zone for short trades
+   - Set take profit at recent highs for long trades or recent lows for short trades
+
+3. Risk management:
+   - Ensure a risk-reward ratio of at least 2.5:1 for each trade, meaning you risk $100 for a potential profit of $250 or more
+
+4. Required indicators:
+   - None, as the strategy relies on pure price action and dynamic validation of lows and highs
+
+By following the DynamicValidation strategy, traders can identify the market trend accurately, enter trades at the right time, and manage risks effectively, ultimately leading to profitable and consistent returns.

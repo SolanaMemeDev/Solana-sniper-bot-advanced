@@ -1,0 +1,58 @@
+STRATEGY_NAME: DualEMA Momentum
+
+STRATEGY_DETAILS:
+The DualEMA Momentum strategy is a trend-following approach that leverages two Exponential Moving Averages (EMAs) to identify high-probability trading opportunities. The strategy focuses on capturing fresh trends that originate from consolidation phases and uses volume analysis to confirm the strength of the trend. Here’s a detailed breakdown of the strategy:
+
+### Key Strategy Components:
+1. **Indicators:**
+   - **EMA (Exponential Moving Average):** Two EMAs are used:
+     - **Green EMA (20-period, source: High):** Tracks the high prices to identify the upper boundary of the trend.
+     - **Red EMA (20-period, source: Low):** Tracks the low prices to identify the lower boundary of the trend.
+   - **Volume Indicator:** Used to confirm the strength of the trend by analyzing volume spikes and pullbacks.
+
+2. **Time Frame:**
+   - The strategy is optimized for the **1-hour time frame**, which provides a balance between noise reduction and timely trade execution.
+
+3. **Trend Selection:**
+   - The strategy focuses on **fresh trends** that emerge from consolidation phases. These trends are identified by the price staying above the 20 EMA lines and respecting them during pullbacks.
+
+### Entry Rules:
+1. **Trend Identification:**
+   - Look for a price breakout from a consolidation phase. The price should move aggressively away from the EMA lines with strong volume, indicating the start of a new trend.
+   - The price should stay above the 20 EMA lines during the trend, with pullbacks retracing to or between the EMA lines without breaking them.
+
+2. **Volume Confirmation:**
+   - During the breakout, volume should spike above the volume moving average, indicating strong buying or selling pressure.
+   - During the pullback, volume should be weak and within the volume moving average, suggesting a lack of significant counter-trend pressure.
+
+3. **Entry Signal:**
+   - Wait for the price to pull back to the EMA lines area.
+   - Look for candlestick patterns (e.g., support/resistance, engulfing patterns) or other signals that suggest the price is about to resume the trend.
+   - Enter the trade when the price shows signs of turning back in the direction of the trend.
+
+### Exit Rules:
+1. **Trend Continuation:**
+   - Stay in the trade as long as the price remains above the 20 EMA lines and continues to make higher highs (in an uptrend) or lower lows (in a downtrend).
+
+2. **Trend Reversal:**
+   - Exit the trade if the price breaks below the 20 EMA lines, indicating a potential trend reversal or weakening of the trend.
+
+### Risk Management:
+1. **Stop Loss:**
+   - Place the stop loss below the recent swing low (for long trades) or above the recent swing high (for short trades), ensuring it is outside the EMA lines to avoid being stopped out by normal market fluctuations.
+
+2. **Position Sizing:**
+   - Use proper position sizing to manage risk, ensuring that no single trade risks more than 1-2% of your trading capital.
+
+3. **Risk-Reward Ratio:**
+   - Aim for a minimum risk-reward ratio of 1:2, meaning the potential profit should be at least twice the amount risked on the trade.
+
+### Required Indicators:
+1. **Exponential Moving Average (EMA):**
+   - Two EMAs with a length of 20, one set to the high (Green) and the other to the low (Red).
+
+2. **Volume Indicator:**
+   - A volume moving average to confirm the strength of the trend and pullbacks.
+
+### Summary:
+The DualEMA Momentum strategy is designed to capture fresh trends with high probability by using dual EMAs to define the trend boundaries and volume analysis to confirm trend strength. By focusing on breakouts from consolidation phases and timing entries during pullbacks, this strategy aims to maximize profitability while minimizing risk. Proper risk management, including stop loss placement and position sizing, is crucial to the success of this strategy.

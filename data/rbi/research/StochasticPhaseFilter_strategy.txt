@@ -1,0 +1,26 @@
+STRATEGY_NAME: StochasticPhaseFilter
+
+STRATEGY_DETAILS:
+
+This strategy, named StochasticPhaseFilter, focuses on using the Stochastic RSI indicator to identify overbought and oversold conditions, guiding buying and selling decisions. The strategy revolves around two key aspects:
+1. Identifying phases of the market based on Stochastic RSI values.
+2. Utilizing a 'no-go zone' to minimize emotional trading decisions.
+
+ENTRY RULES:
+1. When the Stochastic RSI crosses above 80, it is considered overbought; prepare to sell.
+2. When the Stochastic RSI crosses below 20, it is considered oversold; prepare to buy.
+3. Enter buy orders when the price slightly dips below the 20 threshold.
+4. Enter sell orders when the price slightly rises above the 80 threshold.
+
+EXIT RULES:
+1. Exit buy orders when the Stochastic RSI crosses above 20.
+2. Exit sell orders when the Stochastic RSI crosses below 80.
+
+RISK MANAGEMENT:
+1. Dollar-cost averaging: Sell or buy a small portion of the position every few hours, days, or weeks.
+2. Focus on exiting or entering positions in the 'no-go zone' to minimize risk.
+
+REQUIRED INDICATORS:
+1. Stochastic RSI (default settings: 14 periods, 3-line version)
+
+The StochasticPhaseFilter strategy aims to simplify trading decisions by relying on the Stochastic RSI indicator, ensuring that emotional trading is minimized. By understanding the market phases and implementing a consistent strategy, traders can improve their chances of success.

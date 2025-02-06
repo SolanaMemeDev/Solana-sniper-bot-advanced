@@ -1,0 +1,78 @@
+STRATEGY_NAME: EMAWaveRider
+
+STRATEGY_DETAILS:
+The EMAWaveRider strategy is a trend-following approach that leverages the behavior of price action relative to two Exponential Moving Averages (EMAs) to identify high-probability trading opportunities. The strategy focuses on capturing strong trends early and timing entries during pullbacks to maximize profitability. Below are the key components, rules, and risk management techniques for implementing this strategy effectively.
+
+---
+
+### **Key Strategy Components**
+1. **Indicators Used:**
+   - Two Exponential Moving Averages (EMAs):
+     - **EMA 20 (High Source)**: Set to the high of the price, colored green.
+     - **EMA 20 (Low Source)**: Set to the low of the price, colored red.
+   - Volume Moving Average: To confirm the strength of the trend and pullbacks.
+
+2. **Timeframe:**
+   - Best suited for the **1-hour chart** for optimal balance between noise and trend clarity.
+
+3. **Trend Selection:**
+   - Focus on trends that originate from consolidation phases and respect the 20 EMA lines.
+   - Avoid trends that break the 20 EMA lines, as they indicate weakness.
+
+---
+
+### **Entry Rules**
+1. **Trend Identification:**
+   - Look for a price breakout from a consolidation phase.
+   - Ensure the price stays above the 20 EMA (green) for uptrends or below the 20 EMA (red) for downtrends.
+
+2. **Pullback Confirmation:**
+   - Wait for the price to pull back to the 20 EMA lines after an aggressive move away.
+   - Confirm the pullback is weak by observing:
+     - Volume during the pullback is within the volume moving average.
+     - The pullback leg visually struggles compared to the swing leg.
+
+3. **Entry Signal:**
+   - Look for candlestick patterns (e.g., pin bars, engulfing patterns) or support/resistance levels near the EMA lines.
+   - Enter the trade when the price shows signs of resuming the trend (e.g., a bullish candle closing above the EMA for an uptrend).
+
+---
+
+### **Exit Rules**
+1. **Take Profit:**
+   - Set take-profit levels based on key resistance (for uptrends) or support (for downtrends) levels.
+   - Alternatively, trail the stop loss to lock in profits as the trend progresses.
+
+2. **Stop Loss:**
+   - Place the stop loss below the recent swing low (for uptrends) or above the recent swing high (for downtrends).
+   - Ensure the stop loss is outside the 20 EMA lines to avoid premature exits.
+
+---
+
+### **Risk Management**
+1. **Position Sizing:**
+   - Risk no more than 1-2% of your trading capital per trade.
+   - Adjust position size based on the distance between entry and stop-loss levels.
+
+2. **Trade Filtering:**
+   - Only take trades where the trend is strong and the pullback is weak.
+   - Avoid trading during low-volume periods or when the market is choppy.
+
+3. **Avoid Overtrading:**
+   - Wait for high-probability setups that meet all the criteria.
+   - Be patient and disciplined in executing the strategy.
+
+---
+
+### **Required Indicators**
+1. **Exponential Moving Averages (EMAs):**
+   - EMA 20 (High Source): Green color.
+   - EMA 20 (Low Source): Red color.
+
+2. **Volume Moving Average:**
+   - Use a 20-period volume moving average to confirm trend strength and pullback weakness.
+
+---
+
+### **Summary**
+The EMAWaveRider strategy is designed to capitalize on strong trends by identifying early breakouts, confirming weak pullbacks, and timing entries with precision. By focusing on the relationship between price action and the 20 EMA lines, traders can increase their probability of success while minimizing risk. Proper risk management and disciplined execution are key to maximizing the effectiveness of this strategy.
