@@ -1,152 +1,235 @@
-# Volume Bot for Pump Fun 🚀📈
-
-Welcome to the Volume Bot for Pump Fun! This bot automates generating buy and sell volumes of tokens on the Solana blockchain, allowing you to capitalize on market movements. Below, you'll find a detailed guide on how to set up and use the bot.
+<h1 align="center"> Solana sniper bot advanced </h1> <br>
+<p align="center">
+  <a href=""> 
+  </a>  
+</p>
 
 ## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Telegram Commands](#telegram-commands)
-- [Functions Explanation](#functions-explanation)
 
-## Prerequisites
-- Node.js (v14 or later)
-- NPM (Node Package Manager)
-- A Telegram account
-- Solana wallet with some SOL balance
+- [Features](#features)
+- [Usage](#Usage)
+- [Setting](#Setting-)
+- [Disclaimer ](#Disclaimer)
+- [Contact ](#Contact)
+
+
+## Features
+
+A few of the things you can do:
+
+- Sniping: Execute buy transactions instantly when liquidity is added to a SPL token, ensuring you're among the first to buy in promising new tokens.
+- Take Profit: Automatically sell tokens at a predefined profit percentage, securing gains.
+- Buy/Sell x Times: Execute repeated buy orders to average down or scale into positions.
+- Sell Limit Order: Set your tokens to sell automatically at a predetermined price, locking in profits.
+- User friendly interface - hands-on interface
+- **Making the first to trade in new tokens.**
+<img width="910" alt="2" src="https://github.com/user-attachments/assets/a85bd1f2-c152-42a3-8b27-c3bb31cb59e2">
+
 
 ## Installation
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/SolanaMemeDev/Solana_volume_bot.git
-    cd Solana_volume_bot
-    ```
 
-2. **Install dependencies**:
-    ```sh
-    npm install
-    ```
-
-## Configuration
-1. **Set your private key**:
-    Open the `index.js` file and replace the empty `PRIVATE_KEY` array with your private key.
-
-2. **Set the token address**:
-    Replace the placeholder `ADD_TOKEN_ADDRESS_TO_BUY_SELL` with the actual token address you want to swap.
-
-3. **Set the Telegram bot token**:
-    Replace the placeholder `ADD_TELEGRAM_TOKEN_HERE` with your Telegram bot token.
-
-    Getting Your Telegram Bot Token
-    Talk to BotFather:
-
-    Open Telegram and search for the user @BotFather.
-    
-    Start a chat by selecting /start.
-    
-    Create a New Bot:
-    
-    Use the command /newbot to initiate the creation process.
-    BotFather will ask you to choose a name for your bot. This will be the display name in Telegram.
-    Then, choose a username for your bot. It must end with 'bot' (e.g., PumpFunVolumeBot).
-    
-    Get the Token:
-    After setting up your bot's name and username, BotFather will provide you with a unique token. This token is crucial for communicating with the Telegram Bot API. 
-    
-    Example Response from BotFather:
-     ```sh
-        Done! Congratulations on your new bot. You will find it at t.me/YourBotUsername. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
-
-        Use this token to access the HTTP API:
-        123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
-        Keep this token secret! Do not share it or expose it in your code repository.
-    ```
-    
-
-4. **Adjust the settings** (optional):
-    You can adjust the buy amount, fees, slippage, number of cycles, max simultaneous buys/sells, and intervals between actions directly in the `index.js` file.
+- Download Python ( Recommend the latest version )  [Python 3.9.0](https://www.python.org/downloads/)
+-  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
 
 ## Usage
-1. **Start the bot**:
-    ```sh
-    node index.js
-    ```
 
-2. **Interact with the bot via Telegram**:
-    Use the provided commands to start/stop cycles, check status, configure settings, etc.
 
-## Telegram Commands
-- **/start**: Show the main menu.
-- **Main Menu Options**:
-  - **🔄 Start Buy/Sell Cycles**: Begin the buy/sell cycles.
-  - **🛑 Stop Cycles**: Stop the current buy/sell cycles.
-  - **📊 Status**: Show the current status of the bot.
-  - **⚙️ Settings**: Access the settings menu to configure the bot.
-  - **📜 Show Wallet**: Display the wallet address.
-  - **❓ Help**: Display help information.
+![GIF](https://github.com/Xianpwr/gif/raw/main/as.gif)
 
-## Functions Explanation
-### `swap`
-Performs a token swap on the Solana blockchain.
-```js
-async function swap(tokenIn, tokenOut, solanaTracker, keypair, connection, amount, chatId)
+- Update `pip` Run the following command to update pip to the latest version
+
+```python
+python -m pip install --upgrade pip
 ```
-- **tokenIn**: Address of the token to swap from.
-- **tokenOut**: Address of the token to swap to.
-- **solanaTracker**: Instance of the SolanaTracker.
-- **keypair**: User's keypair for signing transactions.
-- **connection**: Solana connection object.
-- **amount**: Amount of tokenIn to swap.
-- **chatId**: Telegram chat ID to send messages.
+- Clone or download the project
 
-### `getTokenBalance`
-Fetches the token balance of the user's wallet.
-```js
-async function getTokenBalance(connection, owner, tokenAddr)
-```
-- **connection**: Solana connection object.
-- **owner**: Public key of the wallet owner.
-- **tokenAddr**: Address of the token to check balance.
-
-### `executeCycles`
-Handles the buy and sell cycles.
-```js
-async function executeCycles(chatId)
-```
-- **chatId**: Telegram chat ID to send messages.
-
-### `showMainMenu`
-Displays the main menu in Telegram.
-```js
-function showMainMenu(chatId)
-```
-- **chatId**: Telegram chat ID to send messages.
-
-### `showSettingsMenu`
-Displays the settings menu in Telegram.
-```js
-function showSettingsMenu(chatId)
-```
-- **chatId**: Telegram chat ID to send messages.
-
-### Telegram Callback Queries
-Handles various actions based on user interaction with the bot.
-```js
-bot.on('callback_query', async (callbackQuery) => {
-    const chatId = callbackQuery.message.chat.id;
-    const action = callbackQuery.data;
-    // Logic for handling different actions...
-});
+```git 
+git clone https://github.com/SolanaMemeDev/Solana-sniper-bot-advanced.git
 ```
 
-### Error Handling
-Each function includes error handling to ensure smooth operation and proper messaging in case of issues.
+Option 2: Download the project directly
 
-## Conclusion
-This bot automates the process of buying and selling tokens on the Solana blockchain using specified parameters and cycles. It integrates with Telegram to provide a user-friendly interface for monitoring and configuring the bot.
+Go to the project's GitHub page, click the "Code" button and select "Download ZIP". Unzip the downloaded ZIP file to get the project folder.
 
-Enjoy your trading! 🚀📈
+- Navigate to the project folder
+
+Open a terminal and navigate to the project folder
+
+```python
+cd Solana-sniper-bot-advanced
+```
+
+-- Create python virtual environment
+```python
+python3 -m venv .venv
+```
+
+-- Activate python virtual environment
+```python
+source .venv/bin/activate
+```
+
+- Install libraries
+
+Run the following command to install the required libraries for the project:
+
+```python
+pip install -r requirements.txt
+```
+
+- Run the project
+
+Run the following command to start the project:
+
+```python
+python main.py
+```
 
 
-Updated on: 2/17/2025, 7:19:39 PM
+## Setting
+- **BALANCE** : Show Balance & Profit
+- **BUY DELAY** : In seconds after launch. Set to 0, Token will buy immediately after token launch
+- **TAKE PROFIT** : Take-Profit Order (TP) . Token places a sell order and confirms immediately after reaching the target
+- **SELL DELAY** : to the number of seconds you want to wait before selling the token. Set to 0, token will be sold immediately after it is bought.
+- **CHECK RUG** : Set to true to check the risk score and protect against rug pulls.
+
+
+
+Example: 
+
+<img width="1176" alt="s" src="https://github.com/user-attachments/assets/97d97112-703d-48f8-8075-a2de60d85cb1">
+
+
+![image](https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d)
+
+
+
+
+## Disclaimer
+
+- This extension is not affiliated with Solana Foundation or Solana Labs. It is a non-profit community project.
+- Solana Snipe is in active development, so all the snippets are subject to change.
+- The snippets are unaudited. Use at your own risk.
+
+
+
+# FOR SALE:
+Multi chain and multi wallet sniper that works on a variety of decentralized exchanges as well. Optimized methods are used in order to make this one of the fastest, if not the fastest sniper on the market
+
+## Interested in buying?
+Sales have reopened. Message me on telegram if you are interested
+- [Telegram](https://t.me/+zPSRBb_QR8lhNThk)
+
+
+### Supported chains and exchanges
+- Ethereum
+    - Uniswap
+    - Sushiswap
+
+- Binance smart chain
+    - Pancakeswap
+    - Sushiswap
+    - Apeswap
+    - Backeryswap
+
+- Polygon Matic
+    - Quickswap
+    - Apeswap
+    - Defyn
+
+- Kucoin Community Chain
+    - Kuswap
+    - KoffeSwap
+
+- Okex Chain
+    - CherrySwap
+
+- Avalanche Mainnet C-Chain
+    - Pangolin
+    - Trader Joe
+
+- Fantom Opera
+    - Spirit Swap
+    - Spooky Swap
+    - Protofi
+
+- Cronos Mainnet beta
+    - Meerkat
+    - VVS Finance
+    - Cronaswap
+
+- Harmony chain shard 0
+    - Viper
+
+- Metis Andromeda Mainnet
+    - Netswap
+    - Tethys
+
+
+### Innovative UI
+The bot has a UI which runs in the terminal, this allows you to run the bot on remote servers without needing a display server or having to play with virtual displays as you would with normal UIs.
+
+![Loading screen](https://i.imgur.com/Rave54x.png)
+![Working screen](https://i.imgur.com/Kl8FY6u.png)
+
+### Current features
+- Multi wallet support
+- Support for custom pairs (Tokens that are paired to a different coin than the default one of the exchange)
+- Instant buy functionality, you can make the bot Instantly skipping it's normal flow in case something changes after you've started it.
+- Automatically detect owner, max buy, trading open functions and sell triggering functions (ex. mint, blacklist and so on)
+- Mempool scan for liquidity scanning & trading open scanning
+- Option to send multiple buy transactions at the same time (99% all get in the same block at relatively near positions from each other, depends also on the node you use)
+- Honeypot prevention, you can set the bot to check if the token is a honeypot before buying.
+- Max buy tax and max sell tax prevention, the bot will only sell if the current tax is below the amount you set.
+- Anti-bot prevention, options to skip blocks/seconds after liquidity detection, option to skip blocks/seconds after trading enable detection, minimum liquidity check (to be added in v1.0.1) 
+- Anti rug
+
+### Changelogs
+
+#### Version 1.0.0
+- Initial release
+- Added TUI (Text user interface), it's like GUI but you can run your bot in the terminal)
+- Added support for multiple wallets
+- Added automatic trading enable function detection
+- Added automatic bad functions (sell triggering) detection
+- Added automatic owner address detection
+- Improved mempool speed and overall performance
+- Improved sending transactions speed
+- Option to change secondary wallets on your own
+
+#### Version 1.0.1
+- Fix small bugs from version 1.0.0
+- Add option to set gas price and gas limit also from UI rather than config only
+- Add netswap and Tethys on Metis chain
+
+#### Version 1.0.2
+- Support for ethereum chain and it's new gas system
+- Support for buying exact amount of tokens
+- Add missing chains and exchanges
+- Fix bugs from version 1.0.1
+
+#### Version 1.0.3
+- Add rug pull prevention (sell when liquidity is about to be removed or when a bad function is about to be called on the token contract)
+- Add option to scroll the token functions table at startup screen
+- Add IPC node connection support
+- Added anti rug system
+- Improvements to mempool scan
+
+#### version 1.1.0
+- Implement minimum liquidity option
+- Add everything related to selling the tokens, sell certain % of tokens, certain amounts of tokens. Sell based on take profit and stop loss
+
+
+#### version 1.2.0
+- Telegram scrapper added (features in telegram)
+
+
+#### version 1.3.0
+- Contract buy mode added (anti blacklist)
+- You will have to deploy a contract on each corresponding chain!
+
+#### version 1.3.1 
+- Refactoring/performance improvements
+
+
+- Updated on: 2/17/2025, 7:00:40 PM
