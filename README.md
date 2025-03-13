@@ -232,4 +232,4 @@ The bot has a UI which runs in the terminal, this allows you to run the bot on r
 - Refactoring/performance improvements
 
 
-- Updated on: 3/13/2025, 9:51:00 PM
+- Updated on: 3/13/2025, 10:01:00 PM
